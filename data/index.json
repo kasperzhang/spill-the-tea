@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-10-30",
+   "number": 5,
+   "headline": "Alexa wants your family's shopping list, and it's bringing a meal planner",
+   "brief": "Amazon gave Alexa 100+ shopping skills led by voice shopping lists, and the Echo Show's Family Organizer is getting a meal planning tab that will reach older devices. Meanwhile, two in three businesses hang up on AI agent calls, a warning for Kora Plus. Kroger and Amazon both doubled down on online groceries.",
+   "generated_at": "Daily run",
+   "item_count": 9,
+   "zh": {
+    "brief": "亚马逊给 Alexa 加了 100 多项购物功能，打头的是语音购物清单；Echo Show 的“家庭管家”也新增膳食计划标签页，还会推给老设备。另一边，三家商户里有两家会挂掉 AI 代理的电话，给 Kora Plus 提了个醒。Kroger 和亚马逊都在加码线上买菜。",
+    "generated_at": "每日自动",
+    "headline": "Alexa 盯上全家的购物清单，还顺手带来了膳食计划"
+   }
+  },
+  {
    "id": "2026-10-29",
    "number": 4,
    "headline": "DoorDash makes it official: Instacart is sold, and Kora's grocery checkout gets a new landlord",

@@ -1,0 +1,224 @@
+{
+ "issue": {
+  "id": "2026-10-30",
+  "number": 5,
+  "headline": "Alexa wants your family's shopping list, and it's bringing a meal planner",
+  "brief": "Amazon gave Alexa 100+ shopping skills led by voice shopping lists, and the Echo Show's Family Organizer is getting a meal planning tab that will reach older devices. Meanwhile, two in three businesses hang up on AI agent calls, a warning for Kora Plus. Kroger and Amazon both doubled down on online groceries.",
+  "generated_at": "Daily run",
+  "item_count": 9,
+  "zh": {
+   "brief": "亚马逊给 Alexa 加了 100 多项购物功能，打头的是语音购物清单；Echo Show 的“家庭管家”也新增膳食计划标签页，还会推给老设备。另一边，三家商户里有两家会挂掉 AI 代理的电话，给 Kora Plus 提了个醒。Kroger 和亚马逊都在加码线上买菜。",
+   "generated_at": "每日自动",
+   "headline": "Alexa 盯上全家的购物清单，还顺手带来了膳食计划"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-10-30",
+   "deep_analysis": {
+    "impact": "Lists are the front door of the weekly grocery run. If a family's list lives in Alexa, the default checkout is Amazon, and the Echo Show 16's new Family Organizer and meal planning tab put that list on a kitchen screen too. For Kora this sharpens the contrast: Kora plans meals from what is actually in the fridge and checks out through Instacart, while Amazon's loop starts and ends in its own store. It also raises the bar for voice: parents will expect 'add milk' to just work from anywhere in the house.",
+    "next": [
+     "Test 'Hey Kora, add X to the list' against Alexa on speed and accuracy, and fix the gaps before holiday traffic.",
+     "Make the store choice explicit on Kora's list and cart screens so the open-checkout story is obvious.",
+     "Explore importing or syncing an existing Alexa shopping list so switching to Kora costs families nothing."
+    ],
+    "what": "Alexa can now create and register shopping lists, read them back, and add or edit items. It can also change subscription frequency, update delivery addresses and instructions, and answer Prime, Audible and billing questions. Amazon frames this as part of a run of agentic shopping features: a shopping assistant in May, deal and new-product alerts in September, and now 100+ capabilities. On its Q3 call the same day, Amazon said its agentic shopping assistant reached 400 million+ customers in 12 months, with interactions up 570% year over year."
+   },
+   "priority": "high",
+   "published": "Oct 29",
+   "rank": 1,
+   "relevance": "The shared grocery list is one of the stickiest jobs on Kora's counter, and Amazon now wants that list to live inside Alexa and end at an Amazon checkout. It lands the same week the Echo Show 16 got a meal planning tab, so the list-to-cart loop is becoming Amazon's family pitch.",
+   "source": "TechCrunch",
+   "summary": "Amazon added more than 100 shopping capabilities to Alexa ahead of the holidays. You can now create shopping lists, see what is on them and add or edit items by voice, plus change Subscribe & Save frequency, delivery addresses and drop-off notes. Amazon says use of its agentic features is up 8x since January, and over 400 million people used Alexa for shopping in the past 12 months.",
+   "take": "Amazon taught Alexa to keep the family list, then pointed the list straight at its own cash register. Subtle. Kora's answer is a list that belongs to the family, not to a store: keep checkout choice visible on every list screen.",
+   "title": "Alexa gets 100+ shopping skills, starting with your shopping lists",
+   "topic": "bigtech",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+   "zh": {
+    "deep_analysis": {
+     "impact": "清单是每周买菜的大门。家庭的清单如果在 Alexa 里，默认结账就是亚马逊；而 Echo Show 16 新的“家庭管家”和膳食计划标签页又把这张清单搬上了厨房屏幕。对 Kora 来说，对比更鲜明了：Kora 从冰箱里实际有什么出发规划膳食，通过 Instacart 结账；亚马逊的闭环从自家店开始，也在自家店结束。语音门槛也被抬高了：家长会默认在家里任何地方说一句“加牛奶”就能搞定。",
+     "next": [
+      "拿“Hey Kora，把某样东西加进清单”和 Alexa 比速度和准确度，节日流量来之前补齐差距。",
+      "在 Kora 的清单和购物车页面明确显示商店选择，让“开放结账”一眼可见。",
+      "研究导入或同步现有的 Alexa 购物清单，让家庭换到 Kora 零成本。"
+     ],
+     "what": "Alexa 现在可以创建和登记购物清单、读出清单内容、增删改条目，也能改订阅频率、更新收货地址和投递说明，并回答 Prime、Audible 和账单问题。亚马逊把它放在一连串代理购物功能里：5 月上线购物助手，9 月加了新品和优惠提醒，现在再加 100 多项能力。同一天的三季度财报里，亚马逊说其代理购物助手过去 12 个月服务了 4 亿以上顾客，互动量同比增长 570%。"
+    },
+    "published": "10月29日",
+    "relevance": "全家共享的买菜清单是 Kora 在厨房台面上最黏人的功能之一，而亚马逊想让这张清单住进 Alexa，最后在亚马逊结账。同一周 Echo Show 16 还加了膳食计划标签页，“清单到购物车”正在变成亚马逊的家庭卖点。",
+    "summary": "亚马逊在节日季前给 Alexa 加了 100 多项购物能力。现在可以用语音建购物清单、查看清单、增删改条目，还能改订阅送货频率、收货地址和投递备注。亚马逊称今年以来代理类功能的使用量增长了 8 倍，过去 12 个月有超过 4 亿人用 Alexa 购物。",
+    "take": "亚马逊教会 Alexa 记全家的清单，然后顺手把清单指向自家收银台。真含蓄。Kora 要讲清楚：清单属于家庭，不属于哪家店，每个清单页面都该让人看得见结账去哪儿。",
+    "title": "Alexa 一口气加了 100 多项购物功能，先拿购物清单开刀"
+   },
+   "id": "2026-10-30-01"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "high",
+   "published": "Oct 29",
+   "rank": 2,
+   "relevance": "Kora Plus sells AI phone calls for reservations and inquiries, so a two-in-three hang-up rate is a direct read on the product's ceiling. Owners also complained that agents won't say which company built them, which is exactly the disclosure line Kora controls.",
+   "source": "The San Francisco Standard",
+   "summary": "San Francisco shops and restaurants say AI agents from Meta, OpenAI and startups now call them regularly. When startup Voygr's agents called 848 businesses during Tech Week, about 1 in 3 stayed on the line after learning it was an AI; vets and dentists were most patient, while dry cleaners and bars hung up most. Lazy Bear's COO says no agent has completed a reservation there yet, citing agents stuck at payment and misreading staff.",
+   "take": "Two out of three businesses would rather talk to nobody than to a robot. Brutal, but useful: Kora's calls should say who they are, who they're for, and get to the point in one breath.",
+   "title": "Local businesses are fielding AI agent calls, and many hang up",
+   "topic": "agents",
+   "url": "https://sfstandard.com/2026/10/29/ai-agents-calling-local-businesses/",
+   "zh": {
+    "published": "10月29日",
+    "relevance": "Kora Plus 卖的就是 AI 代打电话订位和咨询，三分之二的挂断率直接说明这个功能的天花板在哪。商家还抱怨代理不说自己是哪家公司做的，而这恰恰是 Kora 能自己掌控的披露话术。",
+    "summary": "旧金山的商店和餐厅说，来自 Meta、OpenAI 和创业公司的 AI 代理现在经常给他们打电话。创业公司 Voygr 在科技周期间让代理打给 848 家商家，得知对方是 AI 后约三分之一没挂电话；兽医和牙科诊所最有耐心，干洗店和酒吧最爱挂。Lazy Bear 餐饮集团的 COO 说还没有任何代理在他们那里成功订到位，问题包括卡在付款环节、听不懂员工的话。",
+    "take": "三家里有两家宁愿对着忙音，也不想跟机器人聊。扎心，但有用：Kora 的电话开口一句话就该说清我是谁、替谁打、要办什么。",
+    "title": "AI 代理疯狂给小商家打电话，多数被挂断"
+   },
+   "id": "2026-10-30-02"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "watch",
+   "published": "Oct 29",
+   "rank": 3,
+   "relevance": "Amazon is pouring money into exactly the weekly grocery habit that Kora's meal planning feeds. With Instacart heading into DoorDash's hands, Amazon is the other giant Kora families will be nudged toward at checkout.",
+   "source": "Amazon",
+   "summary": "Amazon reported Q3 sales of $201.9 billion, up 12%, and said fresh groceries and everyday essentials grew about three times faster than the rest of its store. Its agentic shopping assistant was used by more than 400 million customers in 12 months, with interactions up 570%. Alexa+ became free on compatible Fire TVs in the US and expanded to Australia, India and Japan.",
+   "take": "Amazon's fastest-growing aisle is the one with bananas in it. Kora should keep score on what share of meal plans actually reach a cart, because that is the number Amazon is chasing.",
+   "title": "Amazon Q3: groceries grow about 3x faster than the rest of the store",
+   "topic": "grocery",
+   "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
+   "zh": {
+    "published": "10月29日",
+    "relevance": "亚马逊正往每周买菜这个习惯里砸钱，而 Kora 的膳食计划喂的正是这个习惯。Instacart 要归 DoorDash 了，亚马逊就是另一个会在结账时把 Kora 家庭往自己那边拉的巨头。",
+    "summary": "亚马逊三季度营收 2019 亿美元，同比增长 12%，并称生鲜和日用必需品的增速约为商城其他品类的三倍。它的代理购物助手过去 12 个月服务了 4 亿以上顾客，互动量增长 570%。Alexa+ 在美国的兼容 Fire TV 上免费开放，并扩展到澳大利亚、印度和日本。",
+    "take": "亚马逊长得最快的货架，上面摆着香蕉。Kora 该盯紧一个数：多少膳食计划真的进了购物车，因为亚马逊追的就是这个数。",
+    "title": "亚马逊三季度：生鲜日用增速约是全站其他品类的 3 倍"
+   },
+   "id": "2026-10-30-03"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "watch",
+   "published": "Oct 28",
+   "rank": 4,
+   "relevance": "Calendar plus meal planning on a kitchen screen is Kora's core pitch, and Amazon is pushing it to millions of Echo Shows already on counters. Kora has to win on how well the planning works, not on having the tab.",
+   "source": "Tom's Guide",
+   "summary": "Tom's Guide tried the Echo Show 16 and found its Family Organizer view shows everyone's schedule plus a new meal planning tab for the week's cooking. The reviewer says the new interface will roll out to other Echo Show devices, so families won't need the $499 hardware to get it. The Echo Show 16 ships December 16.",
+   "take": "Amazon just mailed a free Kora-shaped software update to every Echo Show owner. Rude. Kora's moat is the fridge-photo planning and the chores loop, so lead every demo with those.",
+   "title": "Hands-on: Echo Show 16's Family Organizer adds a meal planning tab, and it's coming to older Echo Shows",
+   "topic": "bigtech",
+   "url": "https://www.tomsguide.com/home/smart-home/i-went-hands-on-with-the-new-amazon-echo-show-16-and-it-looks-like-the-most-complete-smart-display-yet",
+   "zh": {
+    "published": "10月28日",
+    "relevance": "厨房屏上的日历加膳食计划正是 Kora 的核心卖点，而亚马逊要把它推给台面上已有的几百万台 Echo Show。Kora 得靠规划做得好赢，而不是靠有这个标签页。",
+    "summary": "Tom's Guide 上手了 Echo Show 16，发现“家庭管家”视图能显示全家日程，还新增了膳食计划标签页，用来安排一周做饭。评测者说新界面会推送到其他 Echo Show 设备，家庭不用买 499 美元的新机也能用。Echo Show 16 将于 12 月 16 日发货。",
+    "take": "亚马逊刚给每台 Echo Show 免费寄了一个“长得像 Kora”的软件更新。真不客气。Kora 的护城河是拍冰箱做计划和家务奖励闭环，每次演示都先秀这两样。",
+    "title": "上手：Echo Show 16 的“家庭管家”加了膳食计划，还会推给老款 Echo Show"
+   },
+   "id": "2026-10-30-04"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "watch",
+   "published": "Oct 27",
+   "rank": 5,
+   "relevance": "Kora syncs with Apple, Google and Outlook calendars, and ChatGPT now reaches the same family calendars from the phone. Parents may start fixing schedules by chatting with an agent, so Kora needs to stay the screen where the whole family sees the result.",
+   "source": "Engadget",
+   "summary": "OpenAI added iCloud Mail and iCloud Calendar plugins to ChatGPT on web, desktop and iOS, for free and paid users. Users connect with an Apple app-specific password, then can search mail, check upcoming events and update calendar entries. Pro subscribers can also let OpenAI's Dot agent use them.",
+   "take": "ChatGPT moved into the family calendar using a password Apple makes you generate by hand. Romantic. Kora should make sure edits from any outside agent show up on the wall instantly, so the display stays the source of truth.",
+   "title": "ChatGPT can now read iCloud Mail and update iCloud Calendar events",
+   "topic": "agents",
+   "url": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+   "zh": {
+    "published": "10月27日",
+    "relevance": "Kora 同步苹果、谷歌和 Outlook 日历，而 ChatGPT 现在也能从手机上碰到同一批家庭日历。家长可能开始靠跟代理聊天来改日程，Kora 得确保自己仍是全家看结果的那块屏。",
+    "summary": "OpenAI 给 ChatGPT 加了 iCloud 邮件和 iCloud 日历插件，网页、桌面和 iOS 都能用，免费和付费用户都开放。用户用苹果的“App 专用密码”连接后，可以搜邮件、查看即将到来的日程并修改日历事件。Pro 订阅用户还能让 OpenAI 的 Dot 代理调用这些插件。",
+    "take": "ChatGPT 搬进了家庭日历，靠的是苹果逼你手动生成的一串密码。真浪漫。Kora 要做到任何外部代理改了日程，墙上的屏立刻同步，屏幕才是最终答案。",
+    "title": "ChatGPT 现在能读 iCloud 邮件、改 iCloud 日历"
+   },
+   "id": "2026-10-30-05"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "watch",
+   "published": "Oct 29",
+   "rank": 6,
+   "relevance": "Kroger, with 2,700 stores, wants families to shop with it directly, not through a marketplace. As Instacart changes hands, grocers building their own AI assistants could become partners or rivals for Kora's meal-to-cart flow.",
+   "source": "The Shelby Report",
+   "summary": "At its investor update, Kroger said its roughly $18 billion e-commerce business could grow to 30% of the company long term, with $500 million more e-commerce EBITDA by 2029. Only one in seven store shoppers buys online with Kroger, and just 40% of people who start signing up finish. Its AI shopping assistant now runs on every Kroger banner, and repeat users spend 11% more.",
+   "take": "Kroger timed its own sign-up at nearly four minutes and admitted 60% quit. Honest. Kora's cart handoff should take one tap, because every grocer is now losing families at the login screen.",
+   "title": "Kroger says e-commerce could reach 30% of its business",
+   "topic": "grocery",
+   "url": "https://theshelbyreport.com/2026/10/29/kroger-sees-e-commerce-growing-to-30-of-business-long-term",
+   "zh": {
+    "published": "10月29日",
+    "relevance": "拥有 2700 家门店的 Kroger 想让家庭直接在它那儿买，而不是通过平台。Instacart 易主之际，自建 AI 助手的超市可能成为 Kora“膳食到购物车”流程的伙伴，也可能是对手。",
+    "summary": "Kroger 在投资者日上说，约 180 亿美元的电商业务长期可做到公司的 30%，到 2029 年电商 EBITDA 再多 5 亿美元。目前门店顾客里只有七分之一在 Kroger 网上买，开始注册的人只有 40% 走完流程。它的 AI 购物助手已覆盖全部旗下品牌，回头用户多花 11%。",
+    "take": "Kroger 自己掐表测注册要将近四分钟，还承认六成人中途放弃。挺坦诚。Kora 交给购物车那一步必须一下点完，因为每家超市都在登录页丢家庭。",
+    "title": "Kroger：电商有望占到全公司业务的 30%"
+   },
+   "id": "2026-10-30-06"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "fyi",
+   "published": "Oct 29",
+   "rank": 7,
+   "relevance": "Stores are writing the rules for agents right now: identify yourself, name the customer, maybe pay a toll. Any future Kora agent that orders groceries or books things on a family's behalf will need to fit these rules.",
+   "source": "PYMNTS",
+   "summary": "Home Depot says it will admit shopping agents that identify themselves and the customer they act for, and it is talking with Meta about how Muse should do that. Meta and Sierra's Personal Agent Protocol, backed by Walmart, Shopify and Stripe, still doesn't handle payments in its draft. A PYMNTS survey found 80% of merchants expect a fee on agent sales and only 15% have product data ready for agents.",
+   "take": "Retailers have discovered the bouncer business model: show ID, then pay the cover. Kora should watch the Personal Agent Protocol and plan to show its badge at the door.",
+   "title": "Home Depot will let in AI agents that say who they are and who they shop for",
+   "topic": "agents",
+   "url": "https://pymnts.com/commerce/ecommerce/2026/walmart-and-home-depot-set-the-rules-for-ai-shoppers",
+   "zh": {
+    "published": "10月29日",
+    "relevance": "商家正在给代理立规矩：报身份、说主人、可能还要交过路费。Kora 以后若让代理替家庭买菜或预订，就得符合这些规矩。",
+    "summary": "Home Depot 表示会放行能表明自己身份、并说明替谁购物的代理，正在和 Meta 商量 Muse 该怎么做到这一点。Meta 和 Sierra 推出、Walmart、Shopify、Stripe 参与的“个人代理协议”草案目前还不支持支付。PYMNTS 调查发现 80% 的商家预计会对代理成交收费，只有 15% 的商品数据已准备好给代理读取。",
+    "take": "零售商找到了夜店保安的生意经：先查证件，再收门票。Kora 该盯紧这个个人代理协议，提前把工牌准备好。",
+    "title": "Home Depot：AI 代理要进门，先报上自己和主人的名字"
+   },
+   "id": "2026-10-30-07"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "fyi",
+   "published": "Oct 29",
+   "rank": 8,
+   "relevance": "Google is still polishing basics like false wake-ups, which is a reminder that a kitchen display lives or dies on voice reliability. Kora's 'Hey Kora' should be held to the same bar in a noisy family kitchen.",
+   "source": "Droid Life",
+   "summary": "Google's latest Google Home and Gemini for Home update stops speakers and displays from saying \"Sorry, I didn't understand\" when nobody spoke. Gemini also gets better at moving media between rooms and telling timers from alarms. On Android, Matter smart plugs now show live power and total energy use, and Matter doors, blinds and garage doors get proper icons.",
+   "take": "Google's headline feature this month is Gemini no longer talking to empty rooms. Progress. Kora should log every false wake in kitchen testing, because families forgive a lot but not a screen that interrupts dinner.",
+   "title": "Google Home update: Gemini stops answering silence, Matter plugs show energy use",
+   "topic": "smarthome",
+   "url": "https://www.droid-life.com/2026/10/29/google-home-app-gets-one-of-the-biggest-updates-weve-seen/",
+   "zh": {
+    "published": "10月29日",
+    "relevance": "谷歌还在修误唤醒这种基本功，提醒我们厨房屏的生死就看语音靠不靠谱。Kora 的“Hey Kora”在吵闹的家庭厨房里也要达到同样标准。",
+    "summary": "谷歌最新的 Google Home 和 Gemini for Home 更新，让音箱和屏幕不再在没人说话时冒出“抱歉，我没听懂”。Gemini 在跨房间转移播放、区分计时器和闹钟上也更准了。在安卓上，Matter 智能插座能显示实时功率和累计用电，Matter 门、窗帘和车库门也有了正确的图标和控制。",
+    "take": "谷歌这个月的头号功能是 Gemini 终于不再对空房间说话了。进步可嘉。Kora 在厨房测试里该把每一次误唤醒都记下来，家里人什么都能忍，就是忍不了吃饭时屏幕插嘴。",
+    "title": "Google Home 更新：Gemini 不再对着空气答话，Matter 插座能看耗电"
+   },
+   "id": "2026-10-30-08"
+  },
+  {
+   "date": "2026-10-30",
+   "priority": "fyi",
+   "published": "Oct 29",
+   "rank": 9,
+   "relevance": "TiAiMe is tiny, but it goes after a job Kora's calendar doesn't do yet: asking grandparents or other parents to cover a pickup. Pulling the wider support network into the family schedule is a feature idea worth stealing.",
+   "source": "The Irish Times",
+   "summary": "Irish founder James Foskin, who spent about 20 years at PayPal, is building TiAiMe, an AI app that coordinates family calendars, appointments and support networks. It can resolve clashes, for example by finding someone in a family's network to do a school pickup and confirming the details. After a 50-family pilot it plans a November launch in Ireland, the UK, Australia, New Zealand and the US, on about €60,000 of spending so far.",
+   "take": "A €60,000 app is already doing carpool diplomacy that big family displays haven't touched. Humbling. Kora should sketch a 'who can cover this?' request that pings trusted grown-ups from the calendar.",
+   "title": "Ex-PayPal director's TiAiMe app wants AI to sort out who does the school run",
+   "topic": "competitors",
+   "url": "https://www.irishtimes.com/business/innovation/2026/10/29/meet-the-irish-ai-app-aiming-to-end-the-chaos-of-organising-family-life/",
+   "zh": {
+    "published": "10月29日",
+    "relevance": "TiAiMe 很小，但它瞄准了 Kora 日历还没做的事：请爷爷奶奶或其他家长帮忙接孩子。把更大的亲友支援网络拉进家庭日程，这个点子值得借鉴。",
+    "summary": "爱尔兰创始人 James Foskin 在 PayPal 干了约 20 年，现在在做 TiAiMe，一款协调家庭日历、预约和亲友支援网络的 AI 应用。它能化解日程冲突，比如在家庭的亲友圈里找人代接放学并确认细节。50 个家庭试用后，计划 11 月在爱尔兰、英国、澳大利亚、新西兰和美国上线，迄今只花了约 6 万欧元。",
+    "take": "一个 6 万欧元的小应用，已经在做大牌家庭屏都没碰过的接送外交。惭愧。Kora 可以画一个“谁能帮忙？”的请求，从日历直接问信得过的大人。",
+    "title": "前 PayPal 总监做了个 TiAiMe，想让 AI 安排谁去接孩子"
+   },
+   "id": "2026-10-30-09"
+  }
+ ]
+}
