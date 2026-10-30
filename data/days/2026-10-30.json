@@ -48,9 +48,11 @@
     "relevance": "全家共享的买菜清单是 Kora 在厨房台面上最黏人的功能之一，而亚马逊想让这张清单住进 Alexa，最后在亚马逊结账。同一周 Echo Show 16 还加了膳食计划标签页，“清单到购物车”正在变成亚马逊的家庭卖点。",
     "summary": "亚马逊在节日季前给 Alexa 加了 100 多项购物能力。现在可以用语音建购物清单、查看清单、增删改条目，还能改订阅送货频率、收货地址和投递备注。亚马逊称今年以来代理类功能的使用量增长了 8 倍，过去 12 个月有超过 4 亿人用 Alexa 购物。",
     "take": "亚马逊教会 Alexa 记全家的清单，然后顺手把清单指向自家收银台。真含蓄。Kora 要讲清楚：清单属于家庭，不属于哪家店，每个清单页面都该让人看得见结账去哪儿。",
-    "title": "Alexa 一口气加了 100 多项购物功能，先拿购物清单开刀"
+    "title": "Alexa 一口气加了 100 多项购物功能，先拿购物清单开刀",
+    "runtu": "冰箱上的清单是我们家的。要是它开始把我往某家店推，我就换回纸和笔。"
    },
-   "id": "2026-10-30-01"
+   "id": "2026-10-30-01",
+   "runtu": "The list on our fridge is ours. If it starts nudging me toward one store, I'll go back to paper."
   },
   {
    "date": "2026-10-30",
@@ -69,9 +71,11 @@
     "relevance": "Kora Plus 卖的就是 AI 代打电话订位和咨询，三分之二的挂断率直接说明这个功能的天花板在哪。商家还抱怨代理不说自己是哪家公司做的，而这恰恰是 Kora 能自己掌控的披露话术。",
     "summary": "旧金山的商店和餐厅说，来自 Meta、OpenAI 和创业公司的 AI 代理现在经常给他们打电话。创业公司 Voygr 在科技周期间让代理打给 848 家商家，得知对方是 AI 后约三分之一没挂电话；兽医和牙科诊所最有耐心，干洗店和酒吧最爱挂。Lazy Bear 餐饮集团的 COO 说还没有任何代理在他们那里成功订到位，问题包括卡在付款环节、听不懂员工的话。",
     "take": "三家里有两家宁愿对着忙音，也不想跟机器人聊。扎心，但有用：Kora 的电话开口一句话就该说清我是谁、替谁打、要办什么。",
-    "title": "AI 代理疯狂给小商家打电话，多数被挂断"
+    "title": "AI 代理疯狂给小商家打电话，多数被挂断",
+    "runtu": "换我也会挂机器人，除非它直奔主题。“您好，替李家订周六六点”，这样我就不挂。"
    },
-   "id": "2026-10-30-02"
+   "id": "2026-10-30-02",
+   "runtu": "I'd hang up on a robot too, unless it got to the point. 'Hi, booking for the Lee family, Saturday at 6' would work on me."
   },
   {
    "date": "2026-10-30",
@@ -90,9 +94,11 @@
     "relevance": "亚马逊正往每周买菜这个习惯里砸钱，而 Kora 的膳食计划喂的正是这个习惯。Instacart 要归 DoorDash 了，亚马逊就是另一个会在结账时把 Kora 家庭往自己那边拉的巨头。",
     "summary": "亚马逊三季度营收 2019 亿美元，同比增长 12%，并称生鲜和日用必需品的增速约为商城其他品类的三倍。它的代理购物助手过去 12 个月服务了 4 亿以上顾客，互动量增长 570%。Alexa+ 在美国的兼容 Fire TV 上免费开放，并扩展到澳大利亚、印度和日本。",
     "take": "亚马逊长得最快的货架，上面摆着香蕉。Kora 该盯紧一个数：多少膳食计划真的进了购物车，因为亚马逊追的就是这个数。",
-    "title": "亚马逊三季度：生鲜日用增速约是全站其他品类的 3 倍"
+    "title": "亚马逊三季度：生鲜日用增速约是全站其他品类的 3 倍",
+    "runtu": "香蕉、牛奶、面包，每周都买。屏幕能记住这些，我就满意了。"
    },
-   "id": "2026-10-30-03"
+   "id": "2026-10-30-03",
+   "runtu": "Bananas, milk, bread, every week. If the screen remembers that, I'm happy."
   },
   {
    "date": "2026-10-30",
@@ -111,9 +117,11 @@
     "relevance": "厨房屏上的日历加膳食计划正是 Kora 的核心卖点，而亚马逊要把它推给台面上已有的几百万台 Echo Show。Kora 得靠规划做得好赢，而不是靠有这个标签页。",
     "summary": "Tom's Guide 上手了 Echo Show 16，发现“家庭管家”视图能显示全家日程，还新增了膳食计划标签页，用来安排一周做饭。评测者说新界面会推送到其他 Echo Show 设备，家庭不用买 499 美元的新机也能用。Echo Show 16 将于 12 月 16 日发货。",
     "take": "亚马逊刚给每台 Echo Show 免费寄了一个“长得像 Kora”的软件更新。真不客气。Kora 的护城河是拍冰箱做计划和家务奖励闭环，每次演示都先秀这两样。",
-    "title": "上手：Echo Show 16 的“家庭管家”加了膳食计划，还会推给老款 Echo Show"
+    "title": "上手：Echo Show 16 的“家庭管家”加了膳食计划，还会推给老款 Echo Show",
+    "runtu": "我那台旧 Echo 要是免费就有这功能，我不会再买新屏。除非新的会按足球训练安排晚饭。"
    },
-   "id": "2026-10-30-04"
+   "id": "2026-10-30-04",
+   "runtu": "If my old Echo gets this for free, I'm not buying a new screen. Unless the new one plans dinner around soccer."
   },
   {
    "date": "2026-10-30",
@@ -132,9 +140,11 @@
     "relevance": "Kora 同步苹果、谷歌和 Outlook 日历，而 ChatGPT 现在也能从手机上碰到同一批家庭日历。家长可能开始靠跟代理聊天来改日程，Kora 得确保自己仍是全家看结果的那块屏。",
     "summary": "OpenAI 给 ChatGPT 加了 iCloud 邮件和 iCloud 日历插件，网页、桌面和 iOS 都能用，免费和付费用户都开放。用户用苹果的“App 专用密码”连接后，可以搜邮件、查看即将到来的日程并修改日历事件。Pro 订阅用户还能让 OpenAI 的 Dot 代理调用这些插件。",
     "take": "ChatGPT 搬进了家庭日历，靠的是苹果逼你手动生成的一串密码。真浪漫。Kora 要做到任何外部代理改了日程，墙上的屏立刻同步，屏幕才是最终答案。",
-    "title": "ChatGPT 现在能读 iCloud 邮件、改 iCloud 日历"
+    "title": "ChatGPT 现在能读 iCloud 邮件、改 iCloud 日历",
+    "runtu": "不管我用哪个 App 改了牙医时间，厨房屏都得显示新时间。不然全家都按旧时间去了。"
    },
-   "id": "2026-10-30-05"
+   "id": "2026-10-30-05",
+   "runtu": "Whatever app I use to change the dentist time, the kitchen screen better show the new time. Otherwise we all show up at the old one."
   },
   {
    "date": "2026-10-30",
@@ -153,9 +163,11 @@
     "relevance": "拥有 2700 家门店的 Kroger 想让家庭直接在它那儿买，而不是通过平台。Instacart 易主之际，自建 AI 助手的超市可能成为 Kora“膳食到购物车”流程的伙伴，也可能是对手。",
     "summary": "Kroger 在投资者日上说，约 180 亿美元的电商业务长期可做到公司的 30%，到 2029 年电商 EBITDA 再多 5 亿美元。目前门店顾客里只有七分之一在 Kroger 网上买，开始注册的人只有 40% 走完流程。它的 AI 购物助手已覆盖全部旗下品牌，回头用户多花 11%。",
     "take": "Kroger 自己掐表测注册要将近四分钟，还承认六成人中途放弃。挺坦诚。Kora 交给购物车那一步必须一下点完，因为每家超市都在登录页丢家庭。",
-    "title": "Kroger：电商有望占到全公司业务的 30%"
+    "title": "Kroger：电商有望占到全公司业务的 30%",
+    "runtu": "注册要四分钟？我两分钟就放弃了。一下点好，不然我直接开车去超市。"
    },
-   "id": "2026-10-30-06"
+   "id": "2026-10-30-06",
+   "runtu": "Four minutes to sign up? I'd have given up at minute two. One tap or I'm in the car driving to the store."
   },
   {
    "date": "2026-10-30",
@@ -174,9 +186,11 @@
     "relevance": "商家正在给代理立规矩：报身份、说主人、可能还要交过路费。Kora 以后若让代理替家庭买菜或预订，就得符合这些规矩。",
     "summary": "Home Depot 表示会放行能表明自己身份、并说明替谁购物的代理，正在和 Meta 商量 Muse 该怎么做到这一点。Meta 和 Sierra 推出、Walmart、Shopify、Stripe 参与的“个人代理协议”草案目前还不支持支付。PYMNTS 调查发现 80% 的商家预计会对代理成交收费，只有 15% 的商品数据已准备好给代理读取。",
     "take": "零售商找到了夜店保安的生意经：先查证件，再收门票。Kora 该盯紧这个个人代理协议，提前把工牌准备好。",
-    "title": "Home Depot：AI 代理要进门，先报上自己和主人的名字"
+    "title": "Home Depot：AI 代理要进门，先报上自己和主人的名字",
+    "runtu": "商店要机器人亮身份，可以。只要上面写的是我的名字，买之前问过我。"
    },
-   "id": "2026-10-30-07"
+   "id": "2026-10-30-07",
+   "runtu": "If stores want ID from the robot, fine. As long as it's my name on it and my say before it buys."
   },
   {
    "date": "2026-10-30",
@@ -195,9 +209,11 @@
     "relevance": "谷歌还在修误唤醒这种基本功，提醒我们厨房屏的生死就看语音靠不靠谱。Kora 的“Hey Kora”在吵闹的家庭厨房里也要达到同样标准。",
     "summary": "谷歌最新的 Google Home 和 Gemini for Home 更新，让音箱和屏幕不再在没人说话时冒出“抱歉，我没听懂”。Gemini 在跨房间转移播放、区分计时器和闹钟上也更准了。在安卓上，Matter 智能插座能显示实时功率和累计用电，Matter 门、窗帘和车库门也有了正确的图标和控制。",
     "take": "谷歌这个月的头号功能是 Gemini 终于不再对空房间说话了。进步可嘉。Kora 在厨房测试里该把每一次误唤醒都记下来，家里人什么都能忍，就是忍不了吃饭时屏幕插嘴。",
-    "title": "Google Home 更新：Gemini 不再对着空气答话，Matter 插座能看耗电"
+    "title": "Google Home 更新：Gemini 不再对着空气答话，Matter 插座能看耗电",
+    "runtu": "吃饭时屏幕突然插话，最烦了。没听到什么，就别说什么。"
    },
-   "id": "2026-10-30-08"
+   "id": "2026-10-30-08",
+   "runtu": "Nothing worse than a screen piping up during dinner. If it hears nothing, it should say nothing."
   },
   {
    "date": "2026-10-30",
@@ -216,9 +232,11 @@
     "relevance": "TiAiMe 很小，但它瞄准了 Kora 日历还没做的事：请爷爷奶奶或其他家长帮忙接孩子。把更大的亲友支援网络拉进家庭日程，这个点子值得借鉴。",
     "summary": "爱尔兰创始人 James Foskin 在 PayPal 干了约 20 年，现在在做 TiAiMe，一款协调家庭日历、预约和亲友支援网络的 AI 应用。它能化解日程冲突，比如在家庭的亲友圈里找人代接放学并确认细节。50 个家庭试用后，计划 11 月在爱尔兰、英国、澳大利亚、新西兰和美国上线，迄今只花了约 6 万欧元。",
     "take": "一个 6 万欧元的小应用，已经在做大牌家庭屏都没碰过的接送外交。惭愧。Kora 可以画一个“谁能帮忙？”的请求，从日历直接问信得过的大人。",
-    "title": "前 PayPal 总监做了个 TiAiMe，想让 AI 安排谁去接孩子"
+    "title": "前 PayPal 总监做了个 TiAiMe，想让 AI 安排谁去接孩子",
+    "runtu": "接送孩子是我一周最难的事。要是屏幕能替我问其他家长谁有空，我真会感动哭。"
    },
-   "id": "2026-10-30-09"
+   "id": "2026-10-30-09",
+   "runtu": "The school run is the hardest part of my week. If the screen could ask the other parents for me, I'd cry."
   }
  ]
 }

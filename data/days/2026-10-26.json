@@ -48,9 +48,11 @@
     "relevance": "苹果正式进入 Kora 所在的品类。",
     "summary": "苹果发布首款智能家居屏 HomeView，10 月 13 日开放预订，11 月 13 日上市，欧盟不发售。有台面和壁挂两种形态，最多识别 6 名家庭成员并为每人显示个人主屏，还能同时查看 9 路摄像头画面。",
     "take": "苹果围观了十年，终于做了块厨房屏，结果连全家日历都不显示。勇气可嘉。不过一个品类真正成立的标志，就是苹果迟到入场还假装是自己发明的。",
-    "title": "苹果发布 HomeView 家庭屏：7 英寸，299 美元，11 月 13 日上市"
+    "title": "苹果发布 HomeView 家庭屏：7 英寸，299 美元，11 月 13 日上市",
+    "runtu": "七寸屏，我在灶台边根本看不清。隔着厨房一眼能看懂，比什么都强。"
    },
-   "id": "2026-10-26-01"
+   "id": "2026-10-26-01",
+   "runtu": "My kids can't read a 7-inch screen from the stove. Big and readable from across the room beats clever."
   },
   {
    "date": "2026-10-26",
@@ -69,9 +71,11 @@
     "relevance": "竞品已经在用“HomeView 做不到什么”抢位，这套说法 Kora 同样适用。另外要留意 Greenlight Family Hub 也在做家庭屏。",
     "summary": "家庭理财公司 Greenlight 今天发文认为，HomeView 上每个人只能看到自己的日历和提醒，没有全家共享视图、家务表和零花钱奖励，更像娱乐和家居控制设备。文章基于发布会信息而非真机，作者自家也在卖同类产品 Family Hub。",
     "take": "卖竞品的公司，评测一台没摸过的设备，结论是自家更好。新闻学的胜利！不过论点确实没毛病，趁 Greenlight 还在自我感动，赶紧拿来用。",
-    "title": "Greenlight 评 HomeView：没有共享日历，也没有家务表"
+    "title": "Greenlight 评 HomeView：没有共享日历，也没有家务表",
+    "runtu": "谁写的我不管。我家八岁的能不能看到今天干什么、自己勾掉家务？就这一条。"
    },
-   "id": "2026-10-26-02"
+   "id": "2026-10-26-02",
+   "runtu": "I don't care who wrote it. Can my 8-year-old see what's on today and tick off her chores? That's the whole test."
   },
   {
    "date": "2026-10-26",
@@ -90,9 +94,11 @@
     "relevance": "头号竞品资金充足，正往 AI 助理和儿童方向扩张，和 Kora 的语音 AI、家务奖励直接重叠。值得持续关注它的 AI 助理功能和定价。",
     "summary": "Skylight 把信贷额度扩大到 7500 万美元，计划做覆盖家庭各个阶段的产品线。公司称客户超过 1200 万，其中 170 万个家庭在用 Skylight Calendar。新品包括儿童作息教练 Skylight Buddy，以及可以用短信对话的 AI 家庭助理。",
     "take": "不融资还赚钱，170 万户家庭，现在又多了 7500 万授信。Skylight 早就不是小作坊了，是房东。而且房东刚学会发短信。",
-    "title": "Skylight 信贷额度扩至 7500 万美元，押注 AI 家庭助理和儿童产品"
+    "title": "Skylight 信贷额度扩至 7500 万美元，押注 AI 家庭助理和儿童产品",
+    "runtu": "人家活得久，家长就信它。Kora 只能一台一台冰箱去挣这份信任。"
    },
-   "id": "2026-10-26-03"
+   "id": "2026-10-26-03",
+   "runtu": "A company that's been around this long isn't going anywhere. Good, they have parents' trust. Kora has to earn it one fridge at a time."
   },
   {
    "date": "2026-10-26",
@@ -111,9 +117,11 @@
     "relevance": "AI 代打电话正是 Kora Plus 的付费功能。大厂在做同样的事，说明这项能力会很快变成用户的默认期待，Kora 需要讲清楚自己在家庭场景里的优势。",
     "summary": "Meta 的 AI 代理 Muse 和创业公司 Instinct 的 Concierge 先后加入代打电话功能，可以替用户联系商家订餐厅、约牙医、处理账单问题。两者目前都只对部分用户开放，Muse 在美国和加拿大可用。",
     "take": "Meta 想替你给牙医打电话了，能出什么事呢。真正要紧的是：AI 代打电话很快会变成到处白送的功能，而 Kora Plus 还在为它收费。",
-    "title": "Meta Muse 和 Instinct 都能替你打电话订位了"
+    "title": "Meta Muse 和 Instinct 都能替你打电话订位了",
+    "runtu": "免费当然好，但能让我再也不用等牙医的电话，我愿意付钱。前提是让我看到真的约上了。"
    },
-   "id": "2026-10-26-04"
+   "id": "2026-10-26-04",
+   "runtu": "Free is nice, but I'd pay to never sit on hold with the dentist again. Just show me it actually booked the slot."
   },
   {
    "date": "2026-10-26",
@@ -132,9 +140,11 @@
     "relevance": "代打电话的信任问题已经被媒体盯上。Kora 的通话功能最好主动说明谁在打、对方会听到什么、数据怎么处理。",
     "summary": "404 Media 报道，Meta 在测试中让呼叫中心的真人替 Muse 打部分电话。内部员工担心用户不知道电话那头是真人，可能说出敏感信息。Meta 回应称这只是内部测试，正式上线时会做好告知。",
     "take": "替你打电话的 AI，有时候其实是呼叫中心的一位大哥。人工智能，名副其实的“人工”。给 Kora 的免费一课：在记者之前，先告诉用户电话那头是谁。",
-    "title": "报道称 Muse 的部分“AI 电话”其实由真人代打"
+    "title": "报道称 Muse 的部分“AI 电话”其实由真人代打",
+    "runtu": "替我打电话的是谁，我得知道。机器人还是真人，说清楚就行。"
    },
-   "id": "2026-10-26-05"
+   "id": "2026-10-26-05",
+   "runtu": "If a stranger calls on my behalf, I want to know. Robot or person, just tell me."
   },
   {
    "date": "2026-10-26",
@@ -153,9 +163,11 @@
     "relevance": "Kora 的冰箱拍照出菜单、一键 Instacart 下单，和 Clementine 越来越接近。Kora 的价值要落在全家日程和膳食的打通上，而不是单纯的 AI 买菜。",
     "summary": "Clementine 可以把对话、菜谱或手写清单的照片变成购物车，还能按家庭的饮食偏好推荐一周菜单，并提示优惠和更便宜的替代品。",
     "take": "Instacart 做了个能把冰箱照片变成购物车的 AI。还有谁会这个？我们。区别是我们还知道今晚有足球训练，根本没人做饭。",
-    "title": "Instacart 推出 AI 购物助手 Clementine，美国和加拿大上线"
+    "title": "Instacart 推出 AI 购物助手 Clementine，美国和加拿大上线",
+    "runtu": "拍冰箱出购物车挺可爱。知道周二有足球、晚饭在车上吃，这才是我愿意掏钱的。"
    },
-   "id": "2026-10-26-06"
+   "id": "2026-10-26-06",
+   "runtu": "A cart from a fridge photo is cute. A plan that knows Tuesday is soccer and we're eating in the car is what I'd pay for."
   },
   {
    "date": "2026-10-26",
@@ -174,9 +186,11 @@
     "relevance": "Alexa+ 正在铺到更多屏幕上。家里可能多一块什么都能问的平板，Kora 要强调固定在厨房、全家共用的价值。",
     "summary": "三款新平板分别为 8.7、11 和 12 英寸，售价 229.99 到 499.99 美元，10 月 14 日起在美国、墨西哥和加拿大开售。儿童版附带一年 Amazon Kids+。",
     "take": "亚马逊把 Alexa 做成了平板，还送防摔壳。放在后座给孩子玩挺好，但要当全家一起看的那块屏，它终究是一台住在某人书包里的平板。",
-    "title": "亚马逊发布内置 Alexa+ 的新平板，含儿童版"
+    "title": "亚马逊发布内置 Alexa+ 的新平板，含儿童版",
+    "runtu": "我家平板最后都在沙发底下没电。只有厨房那块屏一直在原地。"
    },
-   "id": "2026-10-26-07"
+   "id": "2026-10-26-07",
+   "runtu": "Tablets in our house end up under the couch with a dead battery. The kitchen screen is the one that stays put."
   },
   {
    "date": "2026-10-26",
@@ -195,9 +209,11 @@
     "relevance": "打断和结束对话这类细节直接影响厨房里的语音体验，可以拿来对照检查“Hey Kora”的交互。",
     "summary": "Gemini 现在能更可靠地响应“停”，说“谢谢”就能结束对话并关闭麦克风，智能屏上的回答排版也更易读。同时可以通过 Matter 控制现有的 Hue 灯。",
     "take": "本次更新重点：Gemini 终于在你说“停”的时候会停了。这是 AI 的里程碑，也是每个有娃的厨房的里程碑。顺手测测“Hey Kora”过不过这一关。",
-    "title": "Google Home 10 月更新：Gemini 更会“停”，智能屏回答更易读"
+    "title": "Google Home 10 月更新：Gemini 更会“停”，智能屏回答更易读",
+    "runtu": "孩子在哭、锅在开，我喊一声“停”，它最好第一次就停。"
    },
-   "id": "2026-10-26-08"
+   "id": "2026-10-26-08",
+   "runtu": "When the baby's crying and the pasta's boiling, 'stop' had better mean stop the first time."
   },
   {
    "date": "2026-10-26",
@@ -216,9 +232,11 @@
     "relevance": "苹果在搭一整套家居生态，HomeView 是控制中心。Kora 暂时不需要做设备控制，但要留意用户会不会开始期待家庭屏兼做家居中控。",
     "summary": "包括 LG 和 Schneider 品牌的门铃、摄像头、智能门锁和温控器，大部分 12 月开售，部分要到 2027 年初。智能门锁只在美国和加拿大销售。",
     "take": "苹果开始卖温控器了，明年估计要给锅炉开天才吧。Kora 不必去管灯，但做好准备：会有家长问厨房那块屏为什么不能关灯。",
-    "title": "苹果推出 Home Collection 家居配件线，门锁仅限美加"
+    "title": "苹果推出 Home Collection 家居配件线，门锁仅限美加",
+    "runtu": "我不需要它管空调，我需要它提醒我该换滤网了。"
    },
-   "id": "2026-10-26-09"
+   "id": "2026-10-26-09",
+   "runtu": "I don't need the screen to run my thermostat. I need it to remind me the furnace filter is due."
   },
   {
    "date": "2026-10-26",
@@ -237,9 +255,11 @@
     "relevance": "认出是谁在说话对家庭助手很有用，比如自动显示孩子自己的任务。但声纹采集涉及孩子的隐私，设计时要格外谨慎。",
     "summary": "一个名为 Oread 的自托管语音转文字服务可以识别是谁在说话，接入 Home Assistant 使用，但需要先为每位家庭成员录入声音样本。",
     "take": "能认出谁在说话的语音识别，前提是每个孩子都先乖乖坐下录音。祝你好运。点子有用，同意书吓人。",
-    "title": "Home Assistant 社区出现能分辨说话人的语音服务"
+    "title": "Home Assistant 社区出现能分辨说话人的语音服务",
+    "runtu": "让我家孩子乖乖坐下录声音？吃饭都坐不住。"
    },
-   "id": "2026-10-26-10"
+   "id": "2026-10-26-10",
+   "runtu": "Getting my kids to sit still for a voice recording? I can't get them to sit still for dinner."
   }
  ]
 }

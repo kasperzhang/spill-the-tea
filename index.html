@@ -45,6 +45,10 @@
   --tea-ink: #FFF8EC;
   --tea-soft: rgba(246, 210, 150, .32);
   --tea-line: rgba(201, 130, 43, .28);
+  --runtu: #4F7A3A;
+  --runtu-ink: #F4F8EE;
+  --runtu-soft: rgba(176, 208, 150, .30);
+  --runtu-line: rgba(79, 122, 58, .26);
   --font-display: ui-rounded, "SF Pro Rounded", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", system-ui, sans-serif;
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
   --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
@@ -56,7 +60,7 @@
     --t1: #8BC3B5; --t2: #9DB5E0; --t3: #C9A6DA; --t4: #D9BC6E; --t5: #B2BCA9; --t6: #8FC7D6; --t7: #E0A3C2;
     --danger: #EE8A7E;
     --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 22px rgba(0,0,0,.28);
-    --glass: rgba(34, 40, 38, .62); --glass-2: rgba(34, 40, 38, .38); --glass-edge: rgba(255, 255, 255, .1); --glass-line: rgba(255, 255, 255, .08); --glass-shade: rgba(0, 0, 0, .45); --glow1: rgba(214, 140, 60, .20); --glow2: rgba(190, 130, 70, .14); --glow3: rgba(170, 100, 60, .10); --grain: .25; --tea: #D99A48; --tea-ink: #2A1A08; --tea-soft: rgba(217, 154, 72, .14); --tea-line: rgba(217, 154, 72, .3);
+    --glass: rgba(34, 40, 38, .62); --glass-2: rgba(34, 40, 38, .38); --glass-edge: rgba(255, 255, 255, .1); --glass-line: rgba(255, 255, 255, .08); --glass-shade: rgba(0, 0, 0, .45); --glow1: rgba(214, 140, 60, .20); --glow2: rgba(190, 130, 70, .14); --glow3: rgba(170, 100, 60, .10); --grain: .25; --tea: #D99A48; --tea-ink: #2A1A08; --tea-soft: rgba(217, 154, 72, .14); --tea-line: rgba(217, 154, 72, .3); --runtu: #9CC77F; --runtu-ink: #12200A; --runtu-soft: rgba(156, 199, 127, .12); --runtu-line: rgba(156, 199, 127, .3);
     color-scheme: dark;
   }
 }
@@ -66,7 +70,7 @@
   --t1: #8BC3B5; --t2: #9DB5E0; --t3: #C9A6DA; --t4: #D9BC6E; --t5: #B2BCA9; --t6: #8FC7D6; --t7: #E0A3C2;
   --danger: #EE8A7E;
   --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 22px rgba(0,0,0,.28);
-  --glass: rgba(34, 40, 38, .62); --glass-2: rgba(34, 40, 38, .38); --glass-edge: rgba(255, 255, 255, .1); --glass-line: rgba(255, 255, 255, .08); --glass-shade: rgba(0, 0, 0, .45); --glow1: rgba(214, 140, 60, .20); --glow2: rgba(190, 130, 70, .14); --glow3: rgba(170, 100, 60, .10); --grain: .25; --tea: #D99A48; --tea-ink: #2A1A08; --tea-soft: rgba(217, 154, 72, .14); --tea-line: rgba(217, 154, 72, .3);
+  --glass: rgba(34, 40, 38, .62); --glass-2: rgba(34, 40, 38, .38); --glass-edge: rgba(255, 255, 255, .1); --glass-line: rgba(255, 255, 255, .08); --glass-shade: rgba(0, 0, 0, .45); --glow1: rgba(214, 140, 60, .20); --glow2: rgba(190, 130, 70, .14); --glow3: rgba(170, 100, 60, .10); --grain: .25; --tea: #D99A48; --tea-ink: #2A1A08; --tea-soft: rgba(217, 154, 72, .14); --tea-line: rgba(217, 154, 72, .3); --runtu: #9CC77F; --runtu-ink: #12200A; --runtu-soft: rgba(156, 199, 127, .12); --runtu-line: rgba(156, 199, 127, .3);
   color-scheme: dark;
 }
 
@@ -403,6 +407,13 @@ main { padding-block: 92px 80px; }
 .fs input[type="range"] { padding: 0; border: 0; background: transparent; accent-color: var(--tea); height: 24px; }
 .spice-head b { color: var(--ink); font-weight: 700; margin-left: 4px; }
 .spice-ticks { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); }
+/* Runtu: a second voice, the parent in the kitchen */
+.thread.runtu { border-color: var(--runtu-line); background: color-mix(in srgb, var(--runtu-soft) 55%, var(--glass)); }
+.runtu-av { width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; background: var(--runtu); color: var(--runtu-ink); grid-row: span 2; }
+.runtu-av svg { width: 16px; height: 16px; }
+.thread.runtu .ai-badge { color: var(--runtu); border-color: var(--runtu-line); }
+.thread.runtu .msg-head { align-items: center; }
+.mention { color: var(--tea); font-weight: 600; background: var(--tea-soft); border-radius: 5px; padding: 0 4px; }
 /* static edition */
 .thread.critic { gap: 6px; }
 .foot { max-width: 1120px; margin: 24px auto 0; font-size: 12px; color: var(--muted); text-align: center; }
@@ -441,10 +452,10 @@ main { padding-block: 92px 80px; }
       brand: "Spill the Tea", prevIssue: "Previous issue", nextIssue: "Next issue", pickIssue: "Choose an issue", switchLang: "切换到中文",
       loadingH: "Brewing today's tea", loadingP: "Every morning Claude gathers the news that matters to Kora into one issue.",
       errH: "Couldn't load the tea", errP: "Check your connection and refresh the page.",
-      issue: (n) => `Issue ${n}`, story: "Story", discussion: "Chai's take",
+      issue: (n) => `Issue ${n}`, story: "Story", discussion: "Hot takes",
       showAll: "Show all topics", only: (l) => `Show only ${l}`,
       what: "What happened", impact: "What it means for Kora", next: "Suggested next steps",
-      why: "Why it matters", readSource: "Read source ↗", aiCritic: "AI critic",
+      why: "Why it matters", readSource: "Read source ↗", aiCritic: "AI critic", aiParent: "AI parent",
       foot: "Compiled each weekday morning by Claude for the Kora Home team. Discuss in Slack.",
       weekdays: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
       months: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
@@ -454,16 +465,17 @@ main { padding-block: 92px 80px; }
       brand: "今日瓜田", prevIssue: "上一期", nextIssue: "下一期", pickIssue: "选择一期", switchLang: "Switch to English",
       loadingH: "瓜正在路上", loadingP: "每天早上，Claude 会把与 Kora 相关的新闻整理成一期。",
       errH: "瓜没送到", errP: "检查一下网络，然后刷新页面。",
-      issue: (n) => `第 ${n} 期`, story: "新闻", discussion: "猹的点评",
+      issue: (n) => `第 ${n} 期`, story: "新闻", discussion: "瓜田夜话",
       showAll: "显示全部", only: (l) => `只看「${l}」`,
       what: "发生了什么", impact: "对 Kora 意味着什么", next: "建议下一步",
-      why: "为什么值得看", readSource: "阅读原文 ↗", aiCritic: "AI 评论家",
+      why: "为什么值得看", readSource: "阅读原文 ↗", aiCritic: "AI 评论家", aiParent: "AI 家长",
       foot: "每个工作日早上由 Claude 为 Kora Home 团队整理。讨论请到 Slack。",
       weekdays: ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
       months: [], day: (m, d) => `${m + 1}月${d}日`, issues: "往期",
     },
   };
   const PRIO = { en: { high: "Key", watch: "Watch", fyi: "FYI" }, zh: { high: "重点", watch: "关注", fyi: "了解" } };
+  const RUNTU_ICON = '<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 27V12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M16 13c-3-1-4-4-4-6 3 1 4 3 4 6zm0 0c3-1 4-4 4-6-3 1-4 3-4 6zm0 6c-3-1-4.5-4-4.5-6 3 1 4.5 3 4.5 6zm0 0c3-1 4.5-4 4.5-6-3 1-4.5 3-4.5 6zm0 6c-3-1-5-4-5-6 3 1 5 3 5 6zm0 0c3-1 5-4 5-6-3 1-5 3-5 6z" fill="currentColor"/></svg>';
   const CHAI_ICON = '<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M8 13h13v5.5a6.5 6.5 0 0 1-13 0z" fill="currentColor"/><path d="M21 14.5h1.6a2.6 2.6 0 0 1 0 5.2H20.6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M11.5 10.5c0-1.6 1.6-1.6 1.6-3.2M15.5 10.5c0-1.6 1.6-1.6 1.6-3.2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M7 25.5h17" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>';
 
   const $ = (id) => document.getElementById(id);
@@ -489,6 +501,7 @@ main { padding-block: 92px 80px; }
     const t = list[i];
     return { label: (S.lang === "zh" ? (t.zh || t.en) : (t.en || t.zh)) || k, c: `var(--t${(i % 7) + 1})` };
   }
+  function runtu() { const c = S.meta.runtu || {}; return { enabled: c.enabled !== false, name_en: c.name_en || "Runtu", name_zh: c.name_zh || "闰土" }; }
   function critic() { const c = S.meta.critic || {}; return { enabled: c.enabled !== false, name_en: c.name_en || "Chai", name_zh: c.name_zh || "猹" }; }
   async function getJSON(path) {
     const r = await fetch(path + "?v=" + Date.now().toString(36).slice(0, -3), { cache: "no-cache" });
@@ -568,17 +581,25 @@ main { padding-block: 92px 80px; }
     card.append(meta);
     return card;
   }
+  function voiceCard(kind, icon, name, badge, text, mention) {
+    const wrap = el("div", "thread " + kind), m = el("div", "msg");
+    const av = el("span", kind + "-av"); av.innerHTML = icon; m.append(av);
+    const head = el("div", "msg-head");
+    head.append(el("b", null, name), el("span", "ai-badge", badge));
+    const body = el("div", "msg-body");
+    if (mention) { body.append(el("span", "mention", "@" + mention), document.createTextNode(" ")); }
+    body.append(document.createTextNode(text));
+    m.append(head, body); wrap.append(m);
+    return wrap;
+  }
   function buildTake(it) {
     const side = el("aside", "side");
-    const cr = critic(), text = cr.enabled ? L(it, "take") : "";
-    if (!text) return side;
-    side.classList.add("has-content");
-    const wrap = el("div", "thread critic"), m = el("div", "msg");
-    const av = el("span", "critic-av"); av.innerHTML = CHAI_ICON; m.append(av);
-    const head = el("div", "msg-head");
-    head.append(el("b", null, S.lang === "zh" ? cr.name_zh : cr.name_en), el("span", "ai-badge", T().aiCritic));
-    m.append(head, el("div", "msg-body", text));
-    wrap.append(m); side.append(wrap);
+    const cr = critic(), rt = runtu(), zh = S.lang === "zh";
+    const take = cr.enabled ? L(it, "take") : "";
+    const reply = rt.enabled ? L(it, "runtu") : "";
+    if (take) side.append(voiceCard("critic", CHAI_ICON, zh ? cr.name_zh : cr.name_en, T().aiCritic, take, null));
+    if (reply) side.append(voiceCard("runtu", RUNTU_ICON, zh ? rt.name_zh : rt.name_en, T().aiParent, reply, take ? (zh ? cr.name_zh : cr.name_en) : null));
+    if (take || reply) side.classList.add("has-content");
     return side;
   }
 
@@ -588,7 +609,7 @@ main { padding-block: 92px 80px; }
     const I = T(), items = S.data.items || [];
     $("empty").hidden = true; $("page").hidden = false;
     const page = $("page"); page.textContent = "";
-    const withSide = critic().enabled && items.some((i) => L(i, "take"));
+    const withSide = items.some((i) => (critic().enabled && L(i, "take")) || (runtu().enabled && L(i, "runtu")));
     page.classList.toggle("with-side", withSide);
     const mrow = el("div", "row"); mrow.append(buildMasthead(S.data.issue, items), el("div", "side ghost")); page.append(mrow);
     const heads = el("div", "row col-heads"); heads.append(el("span", null, I.story), el("span", "side ghost", I.discussion)); page.append(heads);

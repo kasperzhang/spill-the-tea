@@ -30,5 +30,10 @@
   "enabled": true,
   "name_en": "Chai",
   "name_zh": "猹"
+ },
+ "runtu": {
+  "enabled": true,
+  "name_en": "Runtu",
+  "name_zh": "闰土"
  }
 }
