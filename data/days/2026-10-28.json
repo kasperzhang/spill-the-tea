@@ -1,0 +1,161 @@
+{
+ "issue": {
+  "id": "2026-10-28",
+  "number": 3,
+  "headline": "Amazon hangs a family calendar on the wall, and calls it a screen style",
+  "brief": "Amazon launched the Echo Show 16 with a Family Organizer mode, an Alexa photo frame and a $99 Echo Dot that doubles as a smart home hub. Nori is pitching a cheaper AI family hub against Hearth, and the DoorDash deal for Instacart could be signed this week.",
+  "generated_at": "Daily run",
+  "item_count": 6,
+  "zh": {
+   "brief": "亚马逊发布带“家庭管家”模式的 Echo Show 16、一款 Alexa 相框，以及兼做智能家居中控的 99 美元 Echo Dot。Nori 拿更便宜的 AI 家庭屏叫板 Hearth，DoorDash 收购 Instacart 可能本周就签。",
+   "generated_at": "每日自动",
+   "headline": "亚马逊把家庭日历挂上了墙，还管它叫“屏幕风格”"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-10-28",
+   "deep_analysis": {
+    "impact": "For the first time Amazon is marketing an Echo Show by its family-organizer role rather than as a speaker with a screen. With Apple HomeView shipping Nov 13 at $299 and Alexa+ bundled with Prime, the holiday shelf will show three big-tech screens next to Skylight and Hearth. Kora's $399 CAD entry price still undercuts the Echo Show 16, and Canada is not on Amazon's launch list yet, which is a short window Kora can use at home.",
+    "next": [
+     "Line up Kora vs Echo Show 16 vs HomeView on calendar, chores, meals and price for holiday sales pages",
+     "Push Canada messaging now while Echo Show 16 is US only",
+     "Watch reviews of the Family Organizer mode in December for gaps Kora already fills"
+    ],
+    "what": "Amazon's new flagship display is 16 inches, thinner, and ships with four modes: family organizer, photo frame, Fire TV and smart home hub. A 13MP camera recognizes people up to 17 feet away, and Alexa Home Map uses the cameras to map rooms and locate smart devices. Alexa+ Cards turn chats into pinned topics, also in the Alexa app. Price is $499.99 or $579.99, US only at launch, shipping by the end of the year."
+   },
+   "priority": "high",
+   "published": "Oct 28",
+   "rank": 1,
+   "relevance": "This is Amazon putting a wall-sized, family-calendar-first screen right between Kora's 15\" and 21\" models, with Alexa+ now free for Prime members. Kora's edge has to be the things a general assistant screen does not do well: chores and rewards for kids, screenshot-to-calendar and meal plans tied to groceries.",
+   "source": "TechRadar",
+   "summary": "Amazon announced the Echo Show 16, a 16-inch Full HD display in an aluminum frame 40% slimmer than the Echo Show 15 or 21. It starts at $499.99 ($579.99 with an anti-glare NanoMatte finish), with $100 off preorders ahead of a mid-December launch, US only for now. One of its four screen styles is a Family Organizer for calendars and family plans, and Alexa+ now sorts conversations into pinnable Cards.",
+   "take": "Amazon built a family calendar and named it a 'screen style'. Nice of them to confirm the category, now Kora has to prove the calendar is the product and not a wallpaper.",
+   "title": "Amazon unveils the $499.99 Echo Show 16 with a Family Organizer screen",
+   "topic": "bigtech",
+   "url": "https://www.techradar.com/home/smart-home-hubs/amazons-new-echo-show-16-has-a-thinner-design-a-better-screen-and-a-clever-new-way-to-organize-alexa-conversations",
+   "zh": {
+    "deep_analysis": {
+     "impact": "这是亚马逊第一次把 Echo Show 当成“家庭管家”来卖，而不是带屏音箱。苹果 HomeView 11 月 13 日以 299 美元上市，Alexa+ 又跟 Prime 绑定，今年节日季货架上会有三块大厂屏，旁边是 Skylight 和 Hearth。Kora 399 加元的起价仍比 Echo Show 16 便宜，而且亚马逊首发名单里还没有加拿大，这是 Kora 在本土可以抓住的短暂窗口。",
+     "next": [
+      "节日季销售页上做 Kora、Echo Show 16、HomeView 在日历、家务、膳食和价格上的对比",
+      "趁 Echo Show 16 只在美国卖，现在就加推加拿大市场的宣传",
+      "12 月留意评测里对家庭管家模式的吐槽，找 Kora 已经做到的点"
+     ],
+     "what": "亚马逊新旗舰屏 16 英寸、更薄，出厂带四种模式：家庭管家、相框、Fire TV 和智能家居中控。1300 万像素摄像头能在 17 英尺外认出家人，Alexa Home Map 用摄像头给房间建图、标出智能设备位置。Alexa+ 卡片把聊天变成可置顶的话题，手机 App 里也有。售价 499.99 或 579.99 美元，首发仅限美国，年底前发货。"
+    },
+    "published": "10月28日",
+    "relevance": "亚马逊这次直接把一块墙面尺寸、主打家庭日历的屏，放在了 Kora 15 英寸和 21 英寸型号之间，而且 Alexa+ 已对 Prime 会员免费。Kora 要赢，得靠通用助手屏做不好的部分：孩子的家务和奖励、截图转日历、和买菜打通的膳食计划。",
+    "summary": "亚马逊发布 Echo Show 16：16 英寸全高清屏、铝合金边框，比 Echo Show 15 和 21 薄 40%。起价 499.99 美元，防眩光 NanoMatte 版 579.99 美元，预订立减 100 美元，12 月中旬上市，目前只在美国卖。四种屏幕模式之一是“家庭管家”（Family Organizer），用来看日历和家庭安排；Alexa+ 还会把对话整理成可置顶的卡片。",
+    "take": "亚马逊把家庭日历做成了一个“屏幕风格”。谢谢它帮忙证明这个品类存在，接下来 Kora 得证明：日历是产品本身，不是一张壁纸。",
+    "title": "亚马逊发布 499.99 美元的 Echo Show 16，自带“家庭管家”屏幕模式"
+   },
+   "id": "2026-10-28-01"
+  },
+  {
+   "date": "2026-10-28",
+   "priority": "watch",
+   "published": "Oct 28",
+   "rank": 2,
+   "relevance": "Photo frames are how Skylight started and still a big gift item. Amazon now sells a cheaper, AI-curated frame next to its family displays, so Kora's photo mode will be compared to free Amazon Photos storage for Prime members.",
+   "source": "Gizmodo",
+   "summary": "Amazon launched the Alexa Photo Frame, a 10-inch frame with built-in Alexa+, on sale now for $199 (black) or $229 (birch or walnut). Alexa+ searches Amazon Photos for pictures you will like, groups photos such as the same child at different ages, and lets you attach voice notes to a photo.",
+   "take": "Skylight built a business on frames, and Amazon just shipped one that also talks. Kora's photo mode should feel like family memory, not a screensaver.",
+   "title": "Amazon's first Alexa Photo Frame picks family photos for you",
+   "topic": "bigtech",
+   "url": "https://gizmodo.com/amazon-alexa-photo-frame-10-inch-hands-on-2000831469",
+   "zh": {
+    "published": "10月28日",
+    "relevance": "相框是 Skylight 起家的产品，也是节日送礼大户。亚马逊现在在家庭屏旁边又摆了一款更便宜、会用 AI 挑照片的相框，Kora 的相册模式会被拿来和 Prime 会员免费无限的亚马逊相册比。",
+    "summary": "亚马逊推出 Alexa Photo Frame，10 英寸、内置 Alexa+，现已开售，黑色 199 美元，桦木或胡桃木款 229 美元。Alexa+ 会从亚马逊相册里挑你可能喜欢的照片，把同一个孩子不同年龄的照片归在一起，还能给照片配语音留言。",
+    "take": "Skylight 靠相框起家，亚马逊顺手做了个会说话的。Kora 的相册模式得像全家的回忆录，而不是屏保。",
+    "title": "亚马逊首款 Alexa 相框：替你挑家庭照片"
+   },
+   "id": "2026-10-28-02"
+  },
+  {
+   "date": "2026-10-28",
+   "priority": "watch",
+   "published": "Oct 27",
+   "rank": 3,
+   "relevance": "Nori is going after the same AI-first, meals-plus-calendar pitch as Kora, at a lower hardware price than Kora's 15\" model. Reviewers are already framing the market as big-screen structure (Hearth) versus cheap AI (Nori), and Kora needs a clear spot in that picture.",
+   "source": "Geeky Gadgets",
+   "summary": "A comparison piece sets the Nori AI Family Hub against the Hearth Display. Nori is a 15.6-inch matte screen at $289 plus $7.99 a month or $69.99 a year, with a voice assistant that adds events, AI recipe suggestions and automatic grocery lists. Hearth is a 27-inch screen at $699.99 plus $9 a month, with stronger routines and rewards but limited AI.",
+   "take": "Every new family hub is now 'the first AI family hub'. The title is crowded, so Kora should stop claiming it and start demoing it.",
+   "title": "Nori AI Family Hub pitches itself as the cheaper, smarter Hearth",
+   "topic": "competitors",
+   "url": "https://geeky-gadgets.com/hearth-vs-nori-family-hub",
+   "zh": {
+    "published": "10月27日",
+    "relevance": "Nori 打的正是 Kora 的牌：AI 优先、膳食加日历，而且硬件价格比 Kora 15 英寸款还低。评测已经把市场分成“大屏有条理”（Hearth）和“便宜有 AI”（Nori）两派，Kora 得在这张图里站好位置。",
+    "summary": "一篇对比文章把 Nori AI 家庭中枢和 Hearth Display 放在一起比。Nori 是 15.6 英寸哑光屏，售价 289 美元，另加每月 7.99 美元或每年 69.99 美元订阅，语音助手能加日程，AI 推荐菜谱、自动生成购物清单。Hearth 是 27 英寸屏，699.99 美元加每月 9 美元，作息和奖励功能更强，但 AI 很弱。",
+    "take": "现在每家新出的家庭屏都号称“全球首款 AI 家庭中枢”。头衔太挤了，Kora 别抢名号，直接上演示。",
+    "title": "Nori AI 家庭中枢自称“更便宜、更聪明的 Hearth”"
+   },
+   "id": "2026-10-28-03"
+  },
+  {
+   "date": "2026-10-28",
+   "priority": "watch",
+   "published": "Oct 27",
+   "rank": 4,
+   "relevance": "Kora's meal plans check out through Instacart, so a signed deal would put that partnership under a new owner within days. Uber dropping out also means there is no second bidder to keep Instacart independent.",
+   "source": "PYMNTS",
+   "summary": "The Wall Street Journal reported that DoorDash could finalize its roughly $17 billion purchase of Instacart as soon as this week, and The Information said an announcement could come within days. The WSJ also said Instacart's talks with Uber have ended. Instacart shares rose 8% on the report.",
+   "take": "Uber left the table, so it's DoorDash or nothing. Kora should have its partnership terms on one page before someone new reads them.",
+   "title": "DoorDash-Instacart deal could land this week, and Uber is out",
+   "topic": "grocery",
+   "url": "https://www.pymnts.com/news/acquiring/2026/doordash-could-finalize-instacart-deal-this-week/",
+   "zh": {
+    "published": "10月27日",
+    "relevance": "Kora 的膳食计划是在 Instacart 下单的，交易一旦签下，这个合作几天内就会换东家。Uber 退出也意味着没有第二个买家能让 Instacart 保持独立了。",
+    "summary": "《华尔街日报》报道，DoorDash 最快本周就可能敲定以约 170 亿美元收购 Instacart；The Information 也说几天内可能宣布。《华尔街日报》还称 Instacart 与 Uber 的谈判已经结束。消息出来后 Instacart 股价涨了 8%。",
+    "take": "Uber 离席，剩下的只有 DoorDash。Kora 最好赶在新老板翻合同之前，把合作条款整理成一页纸。",
+    "title": "DoorDash 收购 Instacart 可能本周敲定，Uber 已退出"
+   },
+   "id": "2026-10-28-04"
+  },
+  {
+   "date": "2026-10-28",
+   "priority": "watch",
+   "published": "Oct 27",
+   "rank": 5,
+   "relevance": "This is a vendor survey, but it points the right way for Kora Plus: parents are the group already sending AI to make calls and handle chores. That supports pitching AI phone calls as a family time-saver, not a gadget.",
+   "source": "PR Newswire (Capacity)",
+   "summary": "A Capacity survey of 1,000 US consumers found 35% have used an AI agent for a customer service request, rising to 49% for Gen Z and Millennials. Among people with kids 25 or younger at home, 46% have used a personal AI agent, versus 29% without kids at home. Capacity sells AI customer support tools, so read the numbers with that in mind.",
+   "take": "A support-software company found people love AI agents. Shocking. Still, the parent number is the one to borrow for the Kora Plus pitch.",
+   "title": "Survey: parents use personal AI agents far more than non-parents",
+   "topic": "agents",
+   "url": "https://www.prnewswire.com/news-releases/one-in-three-consumers-have-used-ai-agents-for-customer-service-new-research-finds-302920063.html",
+   "zh": {
+    "published": "10月27日",
+    "relevance": "虽然是厂商自己做的调查，但方向对 Kora Plus 有利：父母本来就是最愿意让 AI 帮忙打电话、跑腿的人群。这支持把 AI 代打电话包装成给家庭省时间，而不是新奇玩具。",
+    "summary": "Capacity 调查了 1000 名美国消费者：35% 用过 AI 代理处理客服问题，Z 世代和千禧一代达到 49%。家里有 25 岁及以下孩子的人中，46% 用过个人 AI 代理，没有孩子在家的只有 29%。Capacity 本身卖 AI 客服工具，数据要打点折扣看。",
+    "take": "一家卖客服 AI 的公司发现大家爱用 AI 代理，真是意外。不过“有娃家庭 46%”这个数，Kora Plus 的宣传可以借来用。",
+    "title": "调查：有孩子的家庭用 AI 代理的比例远高于没孩子的"
+   },
+   "id": "2026-10-28-05"
+  },
+  {
+   "date": "2026-10-28",
+   "priority": "fyi",
+   "published": "Oct 28",
+   "rank": 6,
+   "relevance": "A $99 speaker that runs the smart home and knows who is talking raises the floor for what families expect from any voice device, including \"Hey Kora\". It also shows the Dot is no longer a $50 impulse buy, which helps Kora's pricing look less steep.",
+   "source": "Engadget",
+   "summary": "Amazon's new Echo Dot costs about $100 and has a built-in hub for Zigbee, Matter and Thread, plus eero Wi-Fi extending. A fourth microphone improves Voice ID so it can tell who is speaking. A Kids Echo Dot starts at $110 with a year of Kids+.",
+   "take": "The Echo Dot doubled in price and learned to recognize your voice. The cheap speaker is gone, and per-person voice is the new baseline.",
+   "title": "The new $99 Echo Dot is now a Zigbee, Matter and Thread hub",
+   "topic": "smarthome",
+   "url": "https://www.engadget.com/2299279/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/",
+   "zh": {
+    "published": "10月28日",
+    "relevance": "一个 99 美元的音箱就能管全屋智能家居、还能认出说话的人，家庭对任何语音设备的期待都会被抬高，包括“Hey Kora”。另外 Echo Dot 也不再是 50 美元的冲动消费了，Kora 的定价反而显得没那么贵。",
+    "summary": "亚马逊新款 Echo Dot 约 100 美元，内置支持 Zigbee、Matter 和 Thread 的智能家居中控，还能当 eero Wi-Fi 扩展器。第四个麦克风让声纹识别（Voice ID）更准，能分辨是谁在说话。儿童版 110 美元起，送一年 Kids+。",
+    "take": "Echo Dot 价格翻倍，顺便学会了认人。便宜音箱的时代结束了，按人识别声音成了起步价。",
+    "title": "新款 99 美元 Echo Dot 变身 Zigbee、Matter、Thread 中控"
+   },
+   "id": "2026-10-28-06"
+  }
+ ]
+}

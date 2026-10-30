@@ -1,0 +1,245 @@
+{
+ "issue": {
+  "id": "2026-10-26",
+  "number": 1,
+  "headline": "Apple joins the fight for the kitchen screen",
+  "brief": "This first issue looks back over the past few weeks. The big shift: Apple announced HomeView and is now in the family display market. Skylight raised more money to push into AI assistants, and big players are fast turning AI phone calls and AI grocery shopping into standard features.",
+  "generated_at": "Manual test run",
+  "item_count": 10,
+  "zh": {
+   "brief": "首期先回顾过去几周。最大的变化是苹果发布 HomeView，正式进入家庭屏市场；Skylight 拿到更多资金往 AI 助理扩张；AI 代打电话和 AI 买菜也在被大厂快速做成标配。",
+   "generated_at": "手动试跑",
+   "headline": "苹果入场，厨房那块屏变挤了"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-10-26",
+   "deep_analysis": {
+    "impact": "Apple's entry will raise awareness of the whole category and raise expectations for voice and design. From what Apple has shown, HomeView centers on entertainment, calls and home control. It has no shared family calendar, chores or rewards, which are Kora's core. The screen is 7 inches and it only works with Apple devices. Kora's large screens, a shared view the whole family can read at a glance, and Android support are clear points of difference.",
+    "next": [
+     "Add a HomeView column to the comparison table on the site, highlighting the shared calendar, chores and rewards, screen size and Android support",
+     "Get a unit after the Nov 13 launch and test multi-person recognition and the calendar view",
+     "Write a short explainer for Apple households: Kora syncs cleanly with Apple Calendar, no need to switch ecosystems"
+    ],
+    "what": "Apple put the new Siri, home controls, FaceTime and a household intercom on one 7-inch screen. Alongside it comes a line of LG and Schneider locks, cameras and thermostats, rolling out from December."
+   },
+   "priority": "high",
+   "published": "Oct 13",
+   "rank": 1,
+   "relevance": "Apple is now in Kora's category.",
+   "source": "MacRumors",
+   "summary": "Apple's first smart home display opened for pre-order on October 13 and ships November 13, though not in the EU. It comes in tabletop and wall-mount versions, recognizes up to six family members with a personal home screen for each, and can show nine camera feeds at once.",
+   "take": "Apple spent a decade watching everyone else build kitchen screens, then shipped one that can't show the family calendar. Bold. Still, nothing makes a category real like Apple showing up late and acting like it invented the thing.",
+   "title": "Apple announces HomeView: a 7-inch, $299 home display shipping Nov 13",
+   "topic": "bigtech",
+   "url": "https://www.macrumors.com/2026/10/13/apple-announces-homeview-smart-home-hub/",
+   "zh": {
+    "deep_analysis": {
+     "impact": "苹果入场会提高整个品类的认知度，也会抬高用户对语音和设计的预期。从公开信息看，HomeView 的重点是娱乐、通话和家居控制，没有全家共享日历、家务和奖励这些 Kora 的核心功能。它的屏幕只有 7 英寸，也只支持苹果设备。Kora 的大屏、全家一眼可读的共享视图和安卓支持正好是差异点。",
+     "next": [
+      "官网对比表加入 HomeView 一列，突出共享日历、家务奖励、屏幕尺寸和安卓支持",
+      "11 月 13 日上市后尽快拿真机体验，重点看多人识别和日历视图",
+      "准备一份面向苹果用户的说明：Kora 和 Apple 日历同步顺畅，不需要换生态"
+     ],
+     "what": "苹果把新版 Siri、家居控制、FaceTime 和家庭对讲集中到一块 7 英寸屏上，同时推出 LG、Schneider 品牌的门锁、摄像头、温控器等配件，12 月起陆续开售。"
+    },
+    "published": "10月13日",
+    "relevance": "苹果正式进入 Kora 所在的品类。",
+    "summary": "苹果发布首款智能家居屏 HomeView，10 月 13 日开放预订，11 月 13 日上市，欧盟不发售。有台面和壁挂两种形态，最多识别 6 名家庭成员并为每人显示个人主屏，还能同时查看 9 路摄像头画面。",
+    "take": "苹果围观了十年，终于做了块厨房屏，结果连全家日历都不显示。勇气可嘉。不过一个品类真正成立的标志，就是苹果迟到入场还假装是自己发明的。",
+    "title": "苹果发布 HomeView 家庭屏：7 英寸，299 美元，11 月 13 日上市"
+   },
+   "id": "2026-10-26-01"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "high",
+   "published": "Oct 26",
+   "rank": 2,
+   "relevance": "Competitors are already positioning around what HomeView can't do, and the same argument works for Kora. Also worth tracking: Greenlight's Family Hub is a family display too.",
+   "source": "Greenlight",
+   "summary": "Family finance company Greenlight argues today that HomeView shows each person only their own calendar and reminders, with no shared family view, chore chart or allowance rewards, making it more of an entertainment and home-control device. The piece is based on Apple's announcement rather than hands-on time, and Greenlight sells a competing product, Family Hub.",
+   "take": "A company that sells a rival hub reviewed a device it hasn't touched and concluded its own hub is better. Journalism! The points are fair, though. Borrow them before Greenlight finishes congratulating itself.",
+   "title": "Greenlight on HomeView: no shared calendar, no chore chart",
+   "topic": "competitors",
+   "url": "https://greenlight.com/learning-center/reviews/apple-homeview-review",
+   "zh": {
+    "published": "10月26日",
+    "relevance": "竞品已经在用“HomeView 做不到什么”抢位，这套说法 Kora 同样适用。另外要留意 Greenlight Family Hub 也在做家庭屏。",
+    "summary": "家庭理财公司 Greenlight 今天发文认为，HomeView 上每个人只能看到自己的日历和提醒，没有全家共享视图、家务表和零花钱奖励，更像娱乐和家居控制设备。文章基于发布会信息而非真机，作者自家也在卖同类产品 Family Hub。",
+    "take": "卖竞品的公司，评测一台没摸过的设备，结论是自家更好。新闻学的胜利！不过论点确实没毛病，趁 Greenlight 还在自我感动，赶紧拿来用。",
+    "title": "Greenlight 评 HomeView：没有共享日历，也没有家务表"
+   },
+   "id": "2026-10-26-02"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "high",
+   "published": "Sep 30",
+   "rank": 3,
+   "relevance": "Our closest competitor has fresh capital and is moving into AI assistants and kids, which overlaps directly with Kora's voice AI and chores and rewards. Worth tracking its assistant features and pricing.",
+   "source": "PR Newswire",
+   "summary": "Skylight expanded its credit facility to $75 million to build products for every stage of family life. It reports more than 12 million customers, with 1.7 million households on Skylight Calendar. New products include Skylight Buddy, a routine coach for kids, and an AI family assistant you can text.",
+   "take": "Bootstrapped, 1.7 million households, and now a $75M credit line. Skylight isn't the scrappy little calendar anymore, it's the landlord. And the landlord just learned to text.",
+   "title": "Skylight grows its credit facility to $75M, betting on an AI family assistant and kids products",
+   "topic": "competitors",
+   "url": "https://www.prnewswire.com/news-releases/skylight-expands-credit-facility-to-75-million-to-help-families-share-the-load-through-every-stage-of-life-302893571.html",
+   "zh": {
+    "published": "9月30日",
+    "relevance": "头号竞品资金充足，正往 AI 助理和儿童方向扩张，和 Kora 的语音 AI、家务奖励直接重叠。值得持续关注它的 AI 助理功能和定价。",
+    "summary": "Skylight 把信贷额度扩大到 7500 万美元，计划做覆盖家庭各个阶段的产品线。公司称客户超过 1200 万，其中 170 万个家庭在用 Skylight Calendar。新品包括儿童作息教练 Skylight Buddy，以及可以用短信对话的 AI 家庭助理。",
+    "take": "不融资还赚钱，170 万户家庭，现在又多了 7500 万授信。Skylight 早就不是小作坊了，是房东。而且房东刚学会发短信。",
+    "title": "Skylight 信贷额度扩至 7500 万美元，押注 AI 家庭助理和儿童产品"
+   },
+   "id": "2026-10-26-03"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "high",
+   "published": "Mid-Sep",
+   "rank": 4,
+   "relevance": "AI phone calls are a paid Kora Plus feature. With big players doing the same, users will soon expect it by default, so Kora needs to show why it does this better for families.",
+   "source": "Fox News",
+   "summary": "Meta's AI agent Muse and startup Instinct's Concierge both added calling: they can phone businesses to book restaurants, schedule dentist visits or sort out billing problems. Both are limited to some users for now; Muse is available in the US and Canada.",
+   "take": "Meta would like to call your dentist for you. What could go wrong. The part that matters: AI calling is about to become a free extra everywhere, and Kora Plus charges for it.",
+   "title": "Meta Muse and Instinct can now place phone calls for you",
+   "topic": "agents",
+   "url": "https://www.foxnews.com/tech/ai-agents-make-phone-calls",
+   "zh": {
+    "published": "9月中旬",
+    "relevance": "AI 代打电话正是 Kora Plus 的付费功能。大厂在做同样的事，说明这项能力会很快变成用户的默认期待，Kora 需要讲清楚自己在家庭场景里的优势。",
+    "summary": "Meta 的 AI 代理 Muse 和创业公司 Instinct 的 Concierge 先后加入代打电话功能，可以替用户联系商家订餐厅、约牙医、处理账单问题。两者目前都只对部分用户开放，Muse 在美国和加拿大可用。",
+    "take": "Meta 想替你给牙医打电话了，能出什么事呢。真正要紧的是：AI 代打电话很快会变成到处白送的功能，而 Kora Plus 还在为它收费。",
+    "title": "Meta Muse 和 Instinct 都能替你打电话订位了"
+   },
+   "id": "2026-10-26-04"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "watch",
+   "published": "Sep 22",
+   "rank": 5,
+   "relevance": "Trust in AI calling is already drawing press attention. Kora's calling feature should say up front who is calling, what the other side hears, and how the data is handled.",
+   "source": "404 Media",
+   "summary": "404 Media reports that Meta tested having call-center workers place some of Muse's calls. Employees worried users wouldn't know a person was on the line and might share sensitive details. Meta said it was internal testing and that calling will launch with proper disclosure.",
+   "take": "The AI that calls for you was sometimes a person in a call center. Artificial intelligence, very natural employees. Free lesson for Kora: tell people who's on the line before a reporter does.",
+   "title": "Report: some of Muse's “AI” calls were made by people",
+   "topic": "agents",
+   "url": "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/",
+   "zh": {
+    "published": "9月22日",
+    "relevance": "代打电话的信任问题已经被媒体盯上。Kora 的通话功能最好主动说明谁在打、对方会听到什么、数据怎么处理。",
+    "summary": "404 Media 报道，Meta 在测试中让呼叫中心的真人替 Muse 打部分电话。内部员工担心用户不知道电话那头是真人，可能说出敏感信息。Meta 回应称这只是内部测试，正式上线时会做好告知。",
+    "take": "替你打电话的 AI，有时候其实是呼叫中心的一位大哥。人工智能，名副其实的“人工”。给 Kora 的免费一课：在记者之前，先告诉用户电话那头是谁。",
+    "title": "报道称 Muse 的部分“AI 电话”其实由真人代打"
+   },
+   "id": "2026-10-26-05"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "high",
+   "published": "Sep 9",
+   "rank": 6,
+   "relevance": "Kora's fridge-photo meal planning and one-tap Instacart ordering are getting close to what Clementine does. Kora's value should rest on linking the family schedule with meals, not on AI grocery shopping alone.",
+   "source": "TechCrunch",
+   "summary": "Clementine turns a conversation, a recipe or a photo of a handwritten list into a cart. It can suggest a week of meals based on a household's dietary preferences and surface deals and cheaper substitutes.",
+   "take": "Instacart built an AI that turns a fridge photo into a cart. Who else does that? Us. The difference is we also know it's soccer night and nobody is cooking.",
+   "title": "Instacart launches Clementine, an AI grocery assistant, in the US and Canada",
+   "topic": "grocery",
+   "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine",
+   "zh": {
+    "published": "9月9日",
+    "relevance": "Kora 的冰箱拍照出菜单、一键 Instacart 下单，和 Clementine 越来越接近。Kora 的价值要落在全家日程和膳食的打通上，而不是单纯的 AI 买菜。",
+    "summary": "Clementine 可以把对话、菜谱或手写清单的照片变成购物车，还能按家庭的饮食偏好推荐一周菜单，并提示优惠和更便宜的替代品。",
+    "take": "Instacart 做了个能把冰箱照片变成购物车的 AI。还有谁会这个？我们。区别是我们还知道今晚有足球训练，根本没人做饭。",
+    "title": "Instacart 推出 AI 购物助手 Clementine，美国和加拿大上线"
+   },
+   "id": "2026-10-26-06"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "watch",
+   "published": "Oct 8",
+   "rank": 7,
+   "relevance": "Alexa+ is spreading to more screens, and many homes may soon have a tablet that answers anything. Kora should lean on being the shared screen fixed in the kitchen for the whole family.",
+   "source": "TechCrunch",
+   "summary": "Three new tablets at 8.7, 11 and 12 inches, priced $229.99 to $499.99, went on sale October 14 in the US, Mexico and Canada. Kids editions include a year of Amazon Kids+.",
+   "take": "Amazon now sells Alexa in tablet form, drop-proof case included. Great in the back seat. As the one screen the whole family actually reads, it's still a tablet that lives in someone's backpack.",
+   "title": "Amazon launches Alexa+ tablets, including kids editions",
+   "topic": "bigtech",
+   "url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
+   "zh": {
+    "published": "10月8日",
+    "relevance": "Alexa+ 正在铺到更多屏幕上。家里可能多一块什么都能问的平板，Kora 要强调固定在厨房、全家共用的价值。",
+    "summary": "三款新平板分别为 8.7、11 和 12 英寸，售价 229.99 到 499.99 美元，10 月 14 日起在美国、墨西哥和加拿大开售。儿童版附带一年 Amazon Kids+。",
+    "take": "亚马逊把 Alexa 做成了平板，还送防摔壳。放在后座给孩子玩挺好，但要当全家一起看的那块屏，它终究是一台住在某人书包里的平板。",
+    "title": "亚马逊发布内置 Alexa+ 的新平板，含儿童版"
+   },
+   "id": "2026-10-26-07"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "fyi",
+   "published": "Oct 14",
+   "rank": 8,
+   "relevance": "Details like interrupting and ending a conversation shape voice in a busy kitchen. A useful checklist for the “Hey Kora” experience.",
+   "source": "9to5Google",
+   "summary": "Gemini now responds more reliably to “stop,” and saying “thank you” ends the conversation and closes the mic. Answers on smart displays are easier to read, and existing Hue bridges can be controlled over Matter.",
+   "take": "Headline feature: Gemini now stops talking when you say stop. A milestone for AI and for every kitchen with a toddler in it. Make sure “Hey Kora” passes the same test.",
+   "title": "Google Home October update: Gemini stops when asked, smart display answers easier to read",
+   "topic": "bigtech",
+   "url": "https://9to5google.com/2026/10/14/google-home-update-rolling-out-improved-favorites-gemini-fixes/",
+   "zh": {
+    "published": "10月14日",
+    "relevance": "打断和结束对话这类细节直接影响厨房里的语音体验，可以拿来对照检查“Hey Kora”的交互。",
+    "summary": "Gemini 现在能更可靠地响应“停”，说“谢谢”就能结束对话并关闭麦克风，智能屏上的回答排版也更易读。同时可以通过 Matter 控制现有的 Hue 灯。",
+    "take": "本次更新重点：Gemini 终于在你说“停”的时候会停了。这是 AI 的里程碑，也是每个有娃的厨房的里程碑。顺手测测“Hey Kora”过不过这一关。",
+    "title": "Google Home 10 月更新：Gemini 更会“停”，智能屏回答更易读"
+   },
+   "id": "2026-10-26-08"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "fyi",
+   "published": "Oct 13",
+   "rank": 9,
+   "relevance": "Apple is building a full home ecosystem with HomeView at the center. Kora doesn't need device control for now, but watch whether families start expecting their display to double as a home hub.",
+   "source": "Apple Newsroom",
+   "summary": "The line includes LG and Schneider doorbells, cameras, a smart deadbolt and thermostats. Most go on sale in December, some in early 2027. The lock is sold only in the US and Canada.",
+   "take": "Apple sells thermostats now. Next year, a Genius Bar for your furnace. Kora doesn't need to run the lights, but expect parents to ask why the kitchen screen can't.",
+   "title": "Apple Home Collection: new accessories, with the smart lock limited to the US and Canada",
+   "topic": "smarthome",
+   "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+   "zh": {
+    "published": "10月13日",
+    "relevance": "苹果在搭一整套家居生态，HomeView 是控制中心。Kora 暂时不需要做设备控制，但要留意用户会不会开始期待家庭屏兼做家居中控。",
+    "summary": "包括 LG 和 Schneider 品牌的门铃、摄像头、智能门锁和温控器，大部分 12 月开售，部分要到 2027 年初。智能门锁只在美国和加拿大销售。",
+    "take": "苹果开始卖温控器了，明年估计要给锅炉开天才吧。Kora 不必去管灯，但做好准备：会有家长问厨房那块屏为什么不能关灯。",
+    "title": "苹果推出 Home Collection 家居配件线，门锁仅限美加"
+   },
+   "id": "2026-10-26-09"
+  },
+  {
+   "date": "2026-10-26",
+   "priority": "fyi",
+   "published": "Oct 20",
+   "rank": 10,
+   "relevance": "Knowing who is talking is useful for a family assistant, for example showing a child their own tasks. It also involves collecting children's voiceprints, so design it carefully.",
+   "source": "Local Smart Home Guide",
+   "summary": "Oread, a self-hosted speech-to-text server for Home Assistant, identifies the speaker, but each household member has to record voice samples first.",
+   "take": "Voice ID that knows who's talking, provided every kid sits still for a recording session first. Good luck with that. Useful idea, scary consent form.",
+   "title": "A Home Assistant voice service that can tell who is speaking",
+   "topic": "smarthome",
+   "url": "https://localsmarthomeguide.com/articles/week-in-local-smart-home-2026-10-23/",
+   "zh": {
+    "published": "10月20日",
+    "relevance": "认出是谁在说话对家庭助手很有用，比如自动显示孩子自己的任务。但声纹采集涉及孩子的隐私，设计时要格外谨慎。",
+    "summary": "一个名为 Oread 的自托管语音转文字服务可以识别是谁在说话，接入 Home Assistant 使用，但需要先为每位家庭成员录入声音样本。",
+    "take": "能认出谁在说话的语音识别，前提是每个孩子都先乖乖坐下录音。祝你好运。点子有用，同意书吓人。",
+    "title": "Home Assistant 社区出现能分辨说话人的语音服务"
+   },
+   "id": "2026-10-26-10"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "issues": [
+  {
+   "id": "2026-10-29",
+   "number": 4,
+   "headline": "DoorDash makes it official: Instacart is sold, and Kora's grocery checkout gets a new landlord",
+   "brief": "DoorDash signed a $17 billion deal to buy Instacart, the checkout behind Kora's meal plans, though closing is a year or more away. AI agents had a messy week on trust: Meta's Muse handed a Toronto seller's address to a buyer while Yelp and OpenAI pushed agents into phone calls and texts. Walmart opened its store to outside agents, a possible second grocery route.",
+   "generated_at": "Daily run",
+   "item_count": 9,
+   "zh": {
+    "brief": "DoorDash 签下 170 亿美元协议收购 Instacart，也就是 Kora 膳食计划背后的结账平台，不过交割还要一年以上。AI 代理这周在信任上很狼狈：Meta 的 Muse 把多伦多卖家的住址给了买家，而 Yelp 和 OpenAI 则把代理推进了电话和短信。Walmart 向外部代理开放下单，可能成为第二条买菜通道。",
+    "generated_at": "每日自动",
+    "headline": "DoorDash 官宣买下 Instacart，Kora 的买菜结账换了房东"
+   }
+  },
+  {
+   "id": "2026-10-28",
+   "number": 3,
+   "headline": "Amazon hangs a family calendar on the wall, and calls it a screen style",
+   "brief": "Amazon launched the Echo Show 16 with a Family Organizer mode, an Alexa photo frame and a $99 Echo Dot that doubles as a smart home hub. Nori is pitching a cheaper AI family hub against Hearth, and the DoorDash deal for Instacart could be signed this week.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "brief": "亚马逊发布带“家庭管家”模式的 Echo Show 16、一款 Alexa 相框，以及兼做智能家居中控的 99 美元 Echo Dot。Nori 拿更便宜的 AI 家庭屏叫板 Hearth，DoorDash 收购 Instacart 可能本周就签。",
+    "generated_at": "每日自动",
+    "headline": "亚马逊把家庭日历挂上了墙，还管它叫“屏幕风格”"
+   }
+  },
+  {
+   "id": "2026-10-27",
+   "number": 2,
+   "headline": "DoorDash goes shopping for Instacart, and Kora's grocery button is in the cart",
+   "brief": "DoorDash is in advanced talks to buy Instacart for about $17 billion, which matters because Instacart is where Kora meal plans check out. Text-message AI agents aimed at families are multiplying, and two more family calendar makers pushed updates. Alexa+ is now free with Prime in the US and Canada.",
+   "generated_at": "Daily run",
+   "item_count": 8,
+   "zh": {
+    "brief": "DoorDash 正就约 170 亿美元收购 Instacart 深入谈判，而 Instacart 正是 Kora 膳食计划下单的地方。面向家庭的短信 AI 代理越来越多，另有两家家庭日历屏厂商推出新品和更新。Alexa+ 在美国和加拿大对 Prime 会员免费了。",
+    "generated_at": "每日自动",
+    "headline": "DoorDash 想把 Instacart 装进购物车，Kora 的买菜按钮也在车里"
+   }
+  },
+  {
+   "id": "2026-10-26",
+   "number": 1,
+   "headline": "Apple joins the fight for the kitchen screen",
+   "brief": "This first issue looks back over the past few weeks. The big shift: Apple announced HomeView and is now in the family display market. Skylight raised more money to push into AI assistants, and big players are fast turning AI phone calls and AI grocery shopping into standard features.",
+   "generated_at": "Manual test run",
+   "item_count": 10,
+   "zh": {
+    "brief": "首期先回顾过去几周。最大的变化是苹果发布 HomeView，正式进入家庭屏市场；Skylight 拿到更多资金往 AI 助理扩张；AI 代打电话和 AI 买菜也在被大厂快速做成标配。",
+    "generated_at": "手动试跑",
+    "headline": "苹果入场，厨房那块屏变挤了"
+   }
+  }
+ ]
+}
