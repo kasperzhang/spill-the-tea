@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-10-31",
+   "number": 6,
+   "headline": "AI agents placed a few hundred DoorDash orders. The hype just met the receipt",
+   "brief": "DoorDash says outside AI agents have sent it only several hundred orders, and Amazon's CEO called them 'still not great.' Meanwhile DoorDash's own AI reorder list got eight times faster and lifted orders 34%, and Instinct added OpenTable bookings with spending limits. Plus what free agents may really cost Meta.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "headline": "AI 代理在 DoorDash 只下了几百单，热度撞上了小票",
+    "brief": "DoorDash 说外部 AI 代理迄今只给它带来几百单，亚马逊 CEO 也说这类代理“还不怎么样”。与此同时，DoorDash 自家的 AI 回购清单提速八倍，下单率涨了 34%；Instinct 接入 OpenTable 订位，还加了消费上限。另外算一笔账：免费代理到底让 Meta 花了多少钱。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-10-30",
    "number": 5,
    "headline": "Alexa wants your family's shopping list, and it's bringing a meal planner",

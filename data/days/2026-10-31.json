@@ -1,0 +1,173 @@
+{
+ "issue": {
+  "id": "2026-10-31",
+  "number": 6,
+  "headline": "AI agents placed a few hundred DoorDash orders. The hype just met the receipt",
+  "brief": "DoorDash says outside AI agents have sent it only several hundred orders, and Amazon's CEO called them 'still not great.' Meanwhile DoorDash's own AI reorder list got eight times faster and lifted orders 34%, and Instinct added OpenTable bookings with spending limits. Plus what free agents may really cost Meta.",
+  "generated_at": "Daily run",
+  "item_count": 6,
+  "zh": {
+   "headline": "AI 代理在 DoorDash 只下了几百单，热度撞上了小票",
+   "brief": "DoorDash 说外部 AI 代理迄今只给它带来几百单，亚马逊 CEO 也说这类代理“还不怎么样”。与此同时，DoorDash 自家的 AI 回购清单提速八倍，下单率涨了 34%；Instinct 接入 OpenTable 订位，还加了消费上限。另外算一笔账：免费代理到底让 Meta 花了多少钱。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-10-31",
+   "deep_analysis": {
+    "impact": "Two of the biggest stores in Kora's world say outside agents barely move orders, while their own in-app assistants keep growing. DoorDash is also buying Instacart, Kora's grocery checkout, so expect the merged company to push its own agents first and treat outside ones as an experiment. For Kora, the winning path is a short, in-app handoff from meal plan to cart. Kora Plus should be judged on finished tasks, not on the 'AI agent' label.",
+    "next": [
+     "Measure how many Kora meal plans reach a cart and finish checkout, and set a baseline before the holidays",
+     "Ask Instacart whether DoorDash's MCP connector or agent APIs will cover Instacart grocery after the deal closes",
+     "Pitch Kora Plus on completed jobs (booked, confirmed, on the calendar) rather than on 'AI agent'"
+    ],
+    "what": "Xu gave the figure when an analyst asked about agent volume. DoorDash runs its own Ask DoorDash chatbot (June), a text-to-order agent (September), a CLI agent (July) and an MCP connector that lets other chatbots place orders. Xu said DoorDash wants to learn from agent makers and may sell ads inside agents later. On the same day, Amazon CEO Andy Jassy said outside shopping agents are 'still not great, nor more convenient than coming to a retailer directly.' Amazon blocked Meta's Muse from its store in September."
+   },
+   "priority": "high",
+   "published": "Oct 30",
+   "rank": 1,
+   "relevance": "Kora Plus calls and Kora's meal-plan-to-cart flow are both bets on AI acting for families. The early numbers say families still buy where the plan already lives, which favors building the action into Kora itself rather than waiting for outside agents.",
+   "runtu": "A few hundred today isn't never. I just don't trust a bot with my card yet. Show me exactly what it's about to buy and I might say yes.",
+   "source": "TechCrunch",
+   "summary": "On DoorDash's Q3 earnings call, CEO Tony Xu said third-party agents such as Muse, Instinct and Fo have sent 'maybe several hundred orders in total.' For scale, DoorDash averaged about 3 million deliveries a day in 2025. Most customers still order in DoorDash's own app.",
+   "take": "Months of hype about agents ordering dinner for us, and the grand total is a few hundred orders. Adorable. The useful part: agents win when they live where the family already is, so put 'order it' on the meal plan, not in somebody's chatbot.",
+   "title": "DoorDash says outside AI agents have placed only 'several hundred' orders",
+   "topic": "agents",
+   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+   "zh": {
+    "deep_analysis": {
+     "impact": "Kora 身边最大的两家商店都说外部代理几乎带不来订单，而它们自家 App 里的助手在不断增长。DoorDash 还在收购 Kora 的买菜结账平台 Instacart，合并后的公司大概率先推自家代理，把外部代理当实验。对 Kora 来说，赢法是在 App 内把膳食计划到购物车这一步做短。Kora Plus 要用“办成了几件事”来衡量，而不是挂着“AI 代理”的名头。",
+     "next": [
+      "统计有多少 Kora 膳食计划进了购物车并完成结账，节日季前先定一个基线",
+      "问 Instacart：交易完成后，DoorDash 的 MCP 接口或代理 API 是否也覆盖 Instacart 买菜",
+      "Kora Plus 的宣传讲“办成的事”（订好了、确认了、进日历了），少讲“AI 代理”"
+     ],
+     "what": "Xu 是在分析师问到代理订单量时给出这个数字的。DoorDash 自己有 Ask DoorDash 聊天机器人（6 月上线）、短信下单代理（9 月）、命令行代理（7 月），还有一个让其他聊天机器人下单的 MCP 接口。Xu 说 DoorDash 想跟代理厂商多学多合作，以后可能在代理里卖广告。同一天，亚马逊 CEO Andy Jassy 说外部购物代理“还不怎么样，也不比直接来零售商这里方便”。亚马逊 9 月已把 Meta 的 Muse 挡在自家商城门外。"
+    },
+    "published": "10月30日",
+    "relevance": "Kora Plus 代打电话和 Kora 从膳食计划到购物车的流程，押的都是“AI 替家庭办事”。早期数据说明，家庭还是在计划所在的地方直接下单。这对 Kora 有利：把“下单”做进 Kora 自己的屏幕，而不是等外部代理来接手。",
+    "runtu": "今天几百单，不代表永远几百单。我只是还不放心把卡交给机器人。让我看清它要买什么，我说不定就点头了。",
+    "summary": "DoorDash CEO Tony Xu 在三季度财报电话会上说，Muse、Instinct、Fo 等第三方代理“总共大概带来了几百单”。作为对比，DoorDash 2025 年平均每天约 300 万单配送。绝大多数顾客仍在 DoorDash 自己的 App 里下单。",
+    "take": "吹了几个月“代理替你点晚饭”，最后一共几百单。真可爱。有用的结论是：代理得长在全家本来就在的地方，所以“下单”按钮要放在膳食计划上，别放在别人家的聊天机器人里。",
+    "title": "DoorDash：外部 AI 代理迄今只下了“几百单”"
+   },
+   "id": "2026-10-31-01"
+  },
+  {
+   "date": "2026-10-31",
+   "priority": "watch",
+   "published": "Oct 30",
+   "rank": 2,
+   "relevance": "Kora's meal plans and grocery lists face the same test: if the list is slow, families don't order. It also shows Instacart's soon-to-be owner investing in the exact 'what we usually buy' list Kora puts on the counter.",
+   "runtu": "Fast is nice, but right matters more. If it adds the cereal my kids stopped eating, I'm deleting it either way.",
+   "source": "InfoQ",
+   "summary": "DoorDash cut the wait for its AI grocery reorder list from about 16 seconds to about 2 by working out recurring needs ahead of time instead of on every request. Shopping list views doubled and the flow's order rate rose about 34%. It reads 90 days of purchase history, and simple edits like changing a quantity skip the AI model entirely.",
+   "take": "DoorDash discovered that nobody waits 16 seconds for a grocery list. Groundbreaking. Steal the trick: build the family's weekly staples overnight so Kora's list is ready before anyone walks into the kitchen.",
+   "title": "DoorDash's AI reorder list now loads in 2 seconds, and orders rose 34%",
+   "topic": "grocery",
+   "url": "https://infoq.com/news/2026/10/doordash-ai-grocery-reorder",
+   "zh": {
+    "published": "10月30日",
+    "relevance": "Kora 的膳食计划和买菜清单面对同一道考题：清单一慢，家庭就不下单。这也说明 Instacart 的准新东家，正在砸钱做 Kora 台面上那张“我们家常买什么”的清单。",
+    "runtu": "快是好事，准更要紧。要是它把孩子早就不吃的麦片又加进来，再快我也删。",
+    "summary": "DoorDash 把 AI 买菜回购清单的等待时间从约 16 秒压到约 2 秒，办法是提前算好每家的固定需求，而不是每次请求时现算。购物清单浏览量翻倍，这个流程的下单率涨了约 34%。系统读取 90 天的购买记录，改数量这类简单操作直接更新，不调用 AI 模型。",
+    "take": "DoorDash 终于发现，没人愿意等 16 秒看一张买菜清单。重大突破。这招直接抄：夜里先把全家每周的常备品算好，早上有人进厨房时清单已经在那儿了。",
+    "title": "DoorDash 的 AI 回购清单 2 秒出结果，下单率涨了 34%"
+   },
+   "id": "2026-10-31-02"
+  },
+  {
+   "date": "2026-10-31",
+   "priority": "watch",
+   "published": "Oct 30",
+   "rank": 3,
+   "relevance": "Instinct can already place phone calls, and now it books tables and pays within set limits, which overlaps with Kora Plus reservations. Its approve-first, capped-spending design is a good bar for how Kora handles a family's money and logins.",
+   "runtu": "A spending cap is the first thing I'd set. Then I'd let it book Friday pizza night, and nothing bigger for a while.",
+   "source": "FourWeekMBA",
+   "summary": "Instinct, the agent startup valued at $10 billion, announced four partner integrations in about four days. OpenTable lets it book and manage restaurant reservations, Stripe and Link let users preload a balance with a per-purchase limit, and 1Password fills in passwords after the user approves. Commercial terms and user numbers were not disclosed.",
+   "take": "Fourteen people, ten billion dollars, an integration a day. Show-offs. The pattern worth copying: every new power ships with a limit or an approval step attached.",
+   "title": "Instinct adds OpenTable bookings and spending limits to its AI agent",
+   "topic": "agents",
+   "url": "https://fourweekmba.com/ai-10b-instinct-adds-opentable-its-4th-integration-in-4-days/",
+   "zh": {
+    "published": "10月30日",
+    "relevance": "Instinct 本来就能打电话，现在又能订位、在限额内付钱，跟 Kora Plus 的订位功能重叠。它“先批准、有上限”的设计，正好可以当 Kora 处理家庭钱包和账号时的标杆。",
+    "runtu": "我第一件事就是设消费上限。然后让它先订周五的披萨，别的大事过一阵再说。",
+    "summary": "估值 100 亿美元的代理创业公司 Instinct 大约四天里宣布了四项合作。接入 OpenTable 后可以订餐厅、改预订；接入 Stripe 和 Link 后，用户可以先充值，再设每笔消费上限；接入 1Password 后，用户批准了才自动填密码。合作条款和用户数都没公开。",
+    "take": "十四个人，一百亿估值，一天接一家。真能显摆。值得抄的是套路：每多一项本事，就配一道上限或一次确认。",
+    "title": "Instinct 接入 OpenTable 订位，还给 AI 代理加了消费上限"
+   },
+   "id": "2026-10-31-03"
+  },
+  {
+   "date": "2026-10-31",
+   "priority": "fyi",
+   "published": "Oct 30",
+   "rank": 4,
+   "relevance": "Free agents that call and shop are setting price expectations for Kora Plus. If those free tiers are heavily subsidized, they may later be limited or filled with ads, so Kora should price on what families get done, not on matching free.",
+   "runtu": "What it costs Meta isn't my problem. Whether it costs me more in six months, or starts showing me ads, is.",
+   "source": "The Motley Fool (via Yahoo Finance)",
+   "summary": "A Motley Fool analysis argues that Meta's Muse agent, with more than 10 million users, loses money. Deutsche Bank estimates the free tier, which includes 100 million tokens a month, costs Meta about $40 per user per month. Most users stay free rather than pay $20 or $100 a month, and Meta takes no fee on purchases Muse makes.",
+   "take": "Meta spends roughly $40 a month so you can ask Muse to buy socks. Generous, until finance notices. Kora shouldn't race free; it should make the paid tier obviously worth it.",
+   "title": "Muse is a hit, but each free user may cost Meta about $40 a month",
+   "topic": "agents",
+   "url": "https://finance.yahoo.com/technology/ai/articles/metas-muse-breakout-success-theres-160800169.html",
+   "zh": {
+    "published": "10月30日",
+    "relevance": "能打电话、能购物的免费代理，正在给 Kora Plus 定价设参照。如果这些免费档靠大额补贴撑着，以后可能会限量或塞广告。Kora 应该按帮家庭办成的事来定价，而不是去跟“免费”比。",
+    "runtu": "Meta 花多少钱不关我事。半年后我是不是要多掏钱、是不是开始看广告，这才关我事。",
+    "summary": "Motley Fool 的分析认为，用户超过 1000 万的 Meta 代理 Muse 在亏钱。德意志银行估算，每月含 1 亿 token 的免费档，每个用户每月要花掉 Meta 约 40 美元。大多数人不愿付每月 20 或 100 美元的付费档，而 Meta 对 Muse 代买的东西也不抽成。",
+    "take": "Meta 每月贴约 40 美元，就为了让你叫 Muse 买双袜子。真大方，等财务部发现再说。Kora 别跟免费赛跑，把付费档做得一看就值。",
+    "title": "Muse 很火，但每个免费用户每月可能让 Meta 花约 40 美元"
+   },
+   "id": "2026-10-31-04"
+  },
+  {
+   "date": "2026-10-31",
+   "priority": "fyi",
+   "published": "Oct 30",
+   "rank": 5,
+   "relevance": "Kora sends a family's meal plans and lists to a grocery checkout. If personalized pricing becomes a public worry, parents will ask what Kora shares with stores, so a clear answer is worth having ready.",
+   "runtu": "If my price goes up because the store knows I buy milk every Sunday, I'm out. Just tell me what you share.",
+   "source": "Grocery Dive",
+   "summary": "In Grocery Dive's weekly roundup, the National Grocers Association said technology used to set prices should be used 'responsibly and transparently.' The group opposes using shoppers' data to charge them higher personalized prices. The same roundup weighs the open questions and possible antitrust concerns around the DoorDash and Instacart deal.",
+   "take": "Grocers want everyone to know they won't use your data to charge you more. Comforting, like a dog with a sign saying it doesn't bite. Kora should say plainly what it sends to a store and what it never does.",
+   "title": "Independent grocers push back on personalized pricing from shopper data",
+   "topic": "grocery",
+   "url": "https://www.grocerydive.com/news/the-friday-checkout-instacart-doordash-deal-raises-questions/873251/",
+   "zh": {
+    "published": "10月30日",
+    "relevance": "Kora 会把家庭的膳食计划和清单发到买菜结账平台。如果“千人千价”成了公众担心的话题，家长会问 Kora 跟商店分享了什么，最好提前备好一个清楚的回答。",
+    "runtu": "要是商店知道我每周日买牛奶就给我涨价，我立马不用。分享了什么，告诉我就行。",
+    "summary": "Grocery Dive 的每周汇总里提到，美国全国杂货商协会（NGA）表示，用来定价的技术应该“负责任、透明地”使用，并反对利用顾客数据向他们收更高的个性化价格。同一期还讨论了 DoorDash 收购 Instacart 留下的问题和可能的反垄断审查。",
+    "take": "超市们急着告诉大家：我们不会拿你的数据多收你钱。听着挺安心，就像一条狗挂着“我不咬人”的牌子。Kora 该直说：发给商店的是什么，绝不发的是什么。",
+    "title": "独立超市协会反对用顾客数据搞“千人千价”"
+   },
+   "id": "2026-10-31-05"
+  },
+  {
+   "date": "2026-10-31",
+   "priority": "fyi",
+   "published": "Oct 27",
+   "rank": 6,
+   "relevance": "Another app is selling a shared family calendar plus AI as a monthly subscription, this time bundled with documents and emergency plans. It has no screen in the kitchen, but it competes for the same 'run the household' budget as Kora Plus.",
+   "runtu": "One spot for the insurance papers sounds great. But I'm not paying two subscriptions to run one house.",
+   "source": "EIN Presswire",
+   "summary": "Florida-based Family Central launched a subscription app that combines an encrypted vault for IDs and medical records, a shared family calendar with reminders, emergency checklists and an AI assistant you can ask by voice or text. The family plan costs $16.60 a month for up to eight members, with a limited free single-user plan. It is on iOS, Android and the web.",
+   "take": "A family office for everyone, which is a fancy name for a calendar next to a folder of passports. Still, families clearly want one place for the boring stuff. Kora already owns the place; the folder might be worth a look.",
+   "title": "Family Central launches an AI 'family office' app at $16.60 a month",
+   "topic": "competitors",
+   "url": "https://www.einpresswire.com/article/951793807/family-central-launches-the-ai-family-office-for-everyone",
+   "zh": {
+    "published": "10月27日",
+    "relevance": "又一款 App 把全家共享日历加 AI 做成月费订阅，这次还捆绑了文件和应急计划。它没有厨房里的屏，但争的是和 Kora Plus 同一笔“管家”预算。",
+    "runtu": "保险单有个地方放，听着不错。但一个家我可不想付两份订阅。",
+    "summary": "总部在佛罗里达的 Family Central 推出一款订阅制应用，把证件和病历的加密保管箱、带提醒的全家共享日历、应急清单，以及可以语音或打字提问的 AI 助手放在一起。家庭版每月 16.60 美元，最多八名成员，另有限量的免费单人版。支持 iOS、安卓和网页。",
+    "take": "人人都有的“家族办公室”，说白了就是日历旁边放了个装护照的文件夹。不过家庭确实想把琐事集中到一个地方。地方 Kora 已经有了，文件夹可以考虑一下。",
+    "title": "Family Central 推出 AI“家庭办公室”应用，每月 16.60 美元"
+   },
+   "id": "2026-10-31-06"
+  }
+ ]
+}
