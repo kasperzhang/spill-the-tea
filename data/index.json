@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-01",
+   "number": 7,
+   "headline": "Apple's $299 kitchen screen is already sold out until December, and Skylight just added a doorbell for the calendar",
+   "brief": "A quiet Sunday. Apple's HomeView preorders sold fast enough that some tabletop colors now ship in early December, while the wall-mount version has no delay. Skylight added notifications when someone adds an event, a small feature that shows where family calendars are heading.",
+   "generated_at": "Daily run",
+   "item_count": 2,
+   "zh": {
+    "headline": "苹果 299 美元的厨房屏已经卖到十二月，Skylight 给日历装了个“门铃”",
+    "brief": "周日消息不多。苹果 HomeView 预订火爆，部分台式颜色要到 12 月初才发货，壁挂版暂时没有延迟。Skylight 新增“有人添加日程就通知你”的功能，小改动，但能看出家庭日历往哪走。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-10-31",
    "number": 6,
    "headline": "AI agents placed a few hundred DoorDash orders. The hype just met the receipt",

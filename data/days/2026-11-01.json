@@ -1,0 +1,81 @@
+{
+ "issue": {
+  "id": "2026-11-01",
+  "number": 7,
+  "headline": "Apple's $299 kitchen screen is already sold out until December, and Skylight just added a doorbell for the calendar",
+  "brief": "A quiet Sunday. Apple's HomeView preorders sold fast enough that some tabletop colors now ship in early December, while the wall-mount version has no delay. Skylight added notifications when someone adds an event, a small feature that shows where family calendars are heading.",
+  "generated_at": "Daily run",
+  "item_count": 2,
+  "zh": {
+   "headline": "苹果 299 美元的厨房屏已经卖到十二月，Skylight 给日历装了个“门铃”",
+   "brief": "周日消息不多。苹果 HomeView 预订火爆，部分台式颜色要到 12 月初才发货，壁挂版暂时没有延迟。Skylight 新增“有人添加日程就通知你”的功能，小改动，但能看出家庭日历往哪走。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-01-01",
+   "date": "2026-11-01",
+   "rank": 1,
+   "topic": "bigtech",
+   "priority": "high",
+   "source": "MacRumors",
+   "url": "https://macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
+   "published": "Oct 16",
+   "title": "Apple HomeView tabletop delivery slips to December for late buyers",
+   "summary": "HomeView preorders opened Oct 13, with the earliest orders due Nov 13. MacRumors reports that people ordering later now see tabletop delivery from Nov 23 to Dec 7, depending on color and ZIP code. The wall-mounted version had no delays when the story ran.",
+   "relevance": "Demand for a kitchen display from Apple is real, and shoppers who miss the Nov 13 window will be looking at alternatives just before the holidays.",
+   "take": "Apple built a $299 kitchen screen and the first review is a shipping date. Impressive. Kora can be the one that arrives before Christmas, so say so.",
+   "runtu": "If I can't get the Apple one until December, I'm buying whatever shows up this month. Delivery date is a feature.",
+   "deep_analysis": {
+    "what": "Apple opened HomeView preorders on Oct 13 for delivery from Nov 13. By Oct 16, MacRumors found later orders slipping to Nov 23 through Dec 7 for tabletop colors, while the wall-mounted version still had no delays. Apple TV 4K had similar estimates.",
+    "impact": "Holiday shoppers who want a kitchen screen and miss Apple's first batch have a gap of several weeks. That gap is open for Kora, Skylight and Amazon. The wall-mount version being available hints that many buyers want a fixed screen, which is Kora's format.",
+    "next": [
+     "Check Kora stock and delivery dates for Canada and the US before the Nov 13 Apple launch.",
+     "Test a short 'ships now' message for shoppers comparing HomeView.",
+     "Watch HomeView reviews from Nov 13 for family-feature gaps Kora can answer."
+    ]
+   },
+   "zh": {
+    "published": "10月16日",
+    "title": "苹果 HomeView 台式版晚下单的人要等到十二月",
+    "summary": "HomeView 10月13日开放预订，最早一批11月13日送达。MacRumors 报道，之后下单的人，台式版预计11月23日至12月7日到货，视颜色和邮编而定。壁挂版当时没有延迟。",
+    "relevance": "苹果做厨房屏的需求是真的，错过11月13日的买家在节前会去看别的选择。",
+    "take": "苹果做了块 299 美元的厨房屏，第一个“测评”是发货日期。厉害。Kora 可以做那个圣诞前到货的，直接说出来。",
+    "runtu": "苹果的要等到十二月，那我就买这个月能到的。到货时间也是功能。",
+    "deep_analysis": {
+     "what": "苹果10月13日开放 HomeView 预订，最早11月13日送达。到10月16日，MacRumors 发现后下单的台式版已推迟到11月23日至12月7日，壁挂版仍无延迟。Apple TV 4K 的情况类似。",
+     "impact": "想买厨房屏却没抢到苹果首批的节日买家，会出现几周空档。Kora、Skylight 和亚马逊都能接住。壁挂版没有延迟，说明不少人想要固定在墙上的屏，这正是 Kora 的形态。",
+     "next": [
+      "在11月13日苹果发售前，确认 Kora 在加拿大和美国的库存与送达时间。",
+      "测试一句“现货速发”的短文案，面向正在比较 HomeView 的人。",
+      "关注11月13日后的 HomeView 评测，找 Kora 能补上的家庭功能缺口。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-01-02",
+   "date": "2026-11-01",
+   "rank": 2,
+   "topic": "competitors",
+   "priority": "watch",
+   "source": "Releasebot (Skylight release notes)",
+   "url": "https://releasebot.io/updates/skylight",
+   "published": "Oct 28",
+   "title": "Skylight now notifies you when someone adds an event to the calendar",
+   "summary": "Skylight's Oct 28 release note says it now sends a notification when someone adds an event to your Calendar. Setup is in Calendar Settings in the mobile app. It follows scheduled household Messages on Oct 21.",
+   "relevance": "Shared calendars only work if everyone sees changes. Kora syncs calendars, so change alerts are a feature parents will compare.",
+   "take": "Skylight discovered that a shared calendar is more useful when it tells people things changed. Kora has had this problem to solve for a while, so check the box.",
+   "runtu": "My calendar changes all day and nobody reads it. A ping when something is added is honestly the part I'd use.",
+   "zh": {
+    "published": "10月28日",
+    "title": "Skylight 现在会在有人添加日程时通知你",
+    "summary": "Skylight 10月28日的更新说明称，现在有人往日历里加日程会发通知，可在手机 App 的日历设置里开启。10月21日它刚上线了定时家庭消息。",
+    "relevance": "共享日历要让每个人都看到变动才有用。Kora 也同步日历，变动提醒是家长会拿来对比的功能。",
+    "take": "Skylight 发现共享日历会“说话”才更有用。Kora 也该把这一格勾上。",
+    "runtu": "我家日程一天变好几次，没人看。有人添加就响一下，这个我真会用。"
+   }
+  }
+ ]
+}
