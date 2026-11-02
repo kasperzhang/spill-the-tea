@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-02",
+   "number": 8,
+   "headline": "Walmart's Sparky lands in Canada, and a text-message bot wants your family's dinner vote",
+   "brief": "A slow Monday. Walmart Canada launched its Sparky shopping assistant, which builds lists around a budget or a holiday meal and comes with a no-personalized-pricing pledge. Zest's text-message agent now books restaurants and works in group chats, but it also wants a link to your card.",
+   "generated_at": "Daily run",
+   "item_count": 2,
+   "zh": {
+    "headline": "沃尔玛 Sparky 登陆加拿大，一个短信机器人想替你们全家投票选晚饭",
+    "brief": "周一消息不多。沃尔玛加拿大上线 Sparky 购物助手，能按预算或节日大餐列清单，还承诺不按人定价。Zest 的短信 AI 现在能订餐厅、能进群聊，但也想关联你的信用卡。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-01",
    "number": 7,
    "headline": "Apple's $299 kitchen screen is already sold out until December, and Skylight just added a doorbell for the calendar",

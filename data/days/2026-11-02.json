@@ -1,0 +1,81 @@
+{
+ "issue": {
+  "id": "2026-11-02",
+  "number": 8,
+  "headline": "Walmart's Sparky lands in Canada, and a text-message bot wants your family's dinner vote",
+  "brief": "A slow Monday. Walmart Canada launched its Sparky shopping assistant, which builds lists around a budget or a holiday meal and comes with a no-personalized-pricing pledge. Zest's text-message agent now books restaurants and works in group chats, but it also wants a link to your card.",
+  "generated_at": "Daily run",
+  "item_count": 2,
+  "zh": {
+   "headline": "沃尔玛 Sparky 登陆加拿大，一个短信机器人想替你们全家投票选晚饭",
+   "brief": "周一消息不多。沃尔玛加拿大上线 Sparky 购物助手，能按预算或节日大餐列清单，还承诺不按人定价。Zest 的短信 AI 现在能订餐厅、能进群聊，但也想关联你的信用卡。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-02-01",
+   "date": "2026-11-02",
+   "rank": 1,
+   "topic": "grocery",
+   "priority": "high",
+   "source": "BNN Bloomberg",
+   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/10/30/walmart-canada-launches-ai-shopping-assistant-sparky/",
+   "published": "Oct 30",
+   "title": "Walmart Canada brings its Sparky AI shopping assistant north",
+   "summary": "Walmart has launched Sparky in Canada, more than a year after its US debut. Shoppers can find and compare products and build a shopping list. A Walmart Canada VP says it can build lists around a budget or an occasion, like a holiday meal. Walmart's CEO has said Sparky will not use personal data such as income or shopping history to set prices or hide cheaper options.",
+   "relevance": "Canada is Kora's home market, and Instacart is being sold to DoorDash. A Walmart assistant that turns a holiday meal into a list is a direct rival to Kora's meal-plan-to-cart flow.",
+   "take": "Walmart showed up in Canada with a chatbot that plans your holiday dinner, and the price pledge is the smartest part. Kora's meal plans already do this from a fridge photo, so say that loudly before Sparky gets the Thanksgiving-in-December crowd.",
+   "runtu": "Honestly, a list I can build around a budget is what I want on a busy Sunday. I'll use whichever one gets me from dinner idea to groceries in fewest taps.",
+   "deep_analysis": {
+    "what": "Walmart Canada released Sparky, the AI assistant already live in the US since June 2025. It helps shoppers find and compare products and build lists around a budget or occasion. Walmart's CEO has pledged it will not use personal data like income or shopping history to personalize prices or hide lower-priced options.",
+    "impact": "Grocery is where Kora's meal planning ends in a purchase. Instacart is changing hands, and now Walmart is putting a planning assistant in front of Canadian shoppers on its own store. Families who start a holiday menu in Sparky never open Kora. The no-personalized-pricing pledge also sets a trust bar that Kora's own checkout partners will be measured against.",
+    "next": [
+     "Compare Sparky's holiday-meal list with a Kora meal plan on the same budget and note where Kora is faster.",
+     "Check whether Kora's grocery checkout can offer a Walmart option alongside Instacart.",
+     "Add a plain line in Kora's grocery flow about how prices are shown and that personal data does not change them."
+    ]
+   },
+   "zh": {
+    "published": "10月30日",
+    "title": "沃尔玛加拿大上线 AI 购物助手 Sparky",
+    "summary": "沃尔玛在加拿大推出 Sparky，比美国首发晚了一年多。用户可以查找、比较商品并生成购物清单。沃尔玛加拿大电商副总裁称，它能按预算或场合（比如一顿节日大餐）来列清单。沃尔玛 CEO 此前表示，Sparky 不会用收入或购物记录之类的个人数据来定价或隐藏低价商品。",
+    "relevance": "加拿大是 Kora 的大本营，而 Instacart 正被 DoorDash 收购。一个能把节日大餐变成购物清单的沃尔玛助手，直接对标 Kora 从膳食计划到下单的流程。",
+    "take": "沃尔玛带着一个能规划节日晚餐的聊天机器人杀到加拿大，最聪明的是那条不按人定价的承诺。Kora 看冰箱照片就能出膳食计划，趁 Sparky 抢走“临时抱佛脚”的人群之前，赶紧大声说出来。",
+    "runtu": "说实话，忙碌的周日我就想要一份按预算列好的清单。哪个能用最少几下点击从“晚饭吃啥”到“菜买好了”，我就用哪个。",
+    "deep_analysis": {
+     "what": "沃尔玛加拿大上线了 Sparky，美国版自 2025 年 6 月起已在运行。它能帮用户查找、比较商品，并按预算或场合生成清单。沃尔玛 CEO 承诺不会用收入或购物记录等个人数据做个性化定价，也不会隐藏低价商品。",
+     "impact": "买菜是 Kora 膳食计划的落点。Instacart 正在易主，沃尔玛又把规划助手摆到加拿大用户面前，直接连着自家商店。在 Sparky 里排好节日菜单的家庭，就不会再打开 Kora。这条不按人定价的承诺，也给 Kora 的结账伙伴立了一个信任标尺。",
+     "next": [
+      "用同一预算，对比 Sparky 的节日菜单清单和 Kora 的膳食计划，记下 Kora 快在哪里。",
+      "评估 Kora 的买菜结账能否在 Instacart 之外增加沃尔玛选项。",
+      "在 Kora 买菜流程里加一句说明：价格如何显示，个人数据不会影响价格。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-02-02",
+   "date": "2026-11-02",
+   "rank": 2,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "published": "Oct 30",
+   "title": "Zest's AI agent books restaurants over text, and works in group chats",
+   "summary": "Zest launched an AI restaurant concierge you reach by text message. It recommends places by cuisine, occasion, diet and neighbourhood, and books through OpenTable or Resy. In group chats it blends tastes, runs votes and then books a table. Zest links to users' credit cards through Plaid to see where they eat out.",
+   "relevance": "It is a small version of what Kora Plus does with reservations, but done by text and in the family group chat. The card-linking shows how much data these agents ask for.",
+   "take": "Another startup with a phone number and a dream, and a Plaid link to your card statement on the side. The group-chat vote is a nice trick. Kora Plus can do the booking part and not ask for your bank history to do it.",
+   "runtu": "A vote in the family chat sounds useful, since we never agree on dinner. Linking my card to find a pizza place? No thanks.",
+   "zh": {
+    "published": "10月30日",
+    "title": "Zest 的 AI 代理用短信订餐厅，还能进群聊",
+    "summary": "Zest 推出了通过短信联系的 AI 餐厅助手。它按菜系、场合、饮食需求和街区推荐，并通过 OpenTable 或 Resy 订位。在群聊里它会综合大家口味、发起投票，然后订桌。Zest 还通过 Plaid 关联用户的信用卡，来了解大家在哪里吃饭。",
+    "relevance": "这是 Kora Plus 订位功能的小号版本，只是走短信和家庭群聊。要关联银行卡这一点，也说明这类代理想要多少数据。",
+    "take": "又一家只有一个电话号码和一个梦想的创业公司，顺便还要你的银行卡流水。群聊投票这招不错。Kora Plus 同样能订位，而且不用翻你的账单。",
+    "runtu": "家庭群里投票听起来挺有用，我们从来对晚饭意见不一。但为了找家披萨店就绑信用卡？算了吧。"
+   }
+  }
+ ]
+}

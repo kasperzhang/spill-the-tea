@@ -1,39 +1,39 @@
 {
- "topics": [
-  {
-   "key": "competitors",
-   "en": "Family displays",
-   "zh": "家庭屏竞品"
+  "topics": [
+    {
+      "key": "competitors",
+      "en": "Family displays",
+      "zh": "家庭屏竞品"
+    },
+    {
+      "key": "bigtech",
+      "en": "Big Tech",
+      "zh": "平台巨头"
+    },
+    {
+      "key": "agents",
+      "en": "AI agents",
+      "zh": "AI 代理"
+    },
+    {
+      "key": "grocery",
+      "en": "Grocery & meals",
+      "zh": "购物与膳食"
+    },
+    {
+      "key": "smarthome",
+      "en": "Smart home",
+      "zh": "智能家居"
+    }
+  ],
+  "critic": {
+    "enabled": true,
+    "name_en": "Chai",
+    "name_zh": "猹"
   },
-  {
-   "key": "bigtech",
-   "en": "Big Tech",
-   "zh": "平台巨头"
-  },
-  {
-   "key": "agents",
-   "en": "AI agents",
-   "zh": "AI 代理"
-  },
-  {
-   "key": "grocery",
-   "en": "Grocery & meals",
-   "zh": "购物与膳食"
-  },
-  {
-   "key": "smarthome",
-   "en": "Smart home",
-   "zh": "智能家居"
+  "runtu": {
+    "enabled": true,
+    "name_en": "Runtu",
+    "name_zh": "闰土"
   }
- ],
- "critic": {
-  "enabled": true,
-  "name_en": "Chai",
-  "name_zh": "猹"
- },
- "runtu": {
-  "enabled": true,
-  "name_en": "Runtu",
-  "name_zh": "闰土"
- }
 }
