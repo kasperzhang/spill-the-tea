@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-03",
+   "number": 9,
+   "headline": "The FTC wants to know if Instacart's price depends on who you are, and Amazon's Echoes now know who is in your kitchen",
+   "brief": "A slow Tuesday. The FTC ordered Instacart, DoorDash, Walmart and others to explain whether prices vary by person, which lands right on the checkout behind Kora's meal plans. Amazon's new Echo lineup adds voice and face recognition for family members.",
+   "generated_at": "Daily run",
+   "item_count": 2,
+   "zh": {
+    "headline": "FTC 想知道 Instacart 的价格是不是看人下菜碟，亚马逊的新 Echo 则开始认厨房里的人",
+    "brief": "周二消息不多。FTC 要求 Instacart、DoorDash、沃尔玛等说明价格是否因人而异，正好落在 Kora 膳食计划的结账环节。亚马逊新 Echo 系列加入了对家人的声音和人脸识别。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-02",
    "number": 8,
    "headline": "Walmart's Sparky lands in Canada, and a text-message bot wants your family's dinner vote",

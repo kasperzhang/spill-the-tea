@@ -1,0 +1,81 @@
+{
+ "issue": {
+  "id": "2026-11-03",
+  "number": 9,
+  "headline": "The FTC wants to know if Instacart's price depends on who you are, and Amazon's Echoes now know who is in your kitchen",
+  "brief": "A slow Tuesday. The FTC ordered Instacart, DoorDash, Walmart and others to explain whether prices vary by person, which lands right on the checkout behind Kora's meal plans. Amazon's new Echo lineup adds voice and face recognition for family members.",
+  "generated_at": "Daily run",
+  "item_count": 2,
+  "zh": {
+   "headline": "FTC 想知道 Instacart 的价格是不是看人下菜碟，亚马逊的新 Echo 则开始认厨房里的人",
+   "brief": "周二消息不多。FTC 要求 Instacart、DoorDash、沃尔玛等说明价格是否因人而异，正好落在 Kora 膳食计划的结账环节。亚马逊新 Echo 系列加入了对家人的声音和人脸识别。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-03-01",
+   "date": "2026-11-03",
+   "rank": 1,
+   "topic": "grocery",
+   "priority": "high",
+   "source": "ABC7 / AP",
+   "url": "https://abc7news.com/story/ftc-orders-several-companies-share-how-use-personal-data-set-prices-pay/19994317/",
+   "published": "Oct 29",
+   "title": "FTC orders Instacart, DoorDash and Walmart to explain if your data sets your price",
+   "summary": "The FTC ordered Delta, Walmart, United, JetBlue, Lyft, DoorDash, Instacart and Target to say whether prices differ by person. It looks at loyalty status and personal data. It also checks whether worker pay is set from personal data. The FTC can go to federal court if they do not comply.",
+   "relevance": "Instacart is where Kora meal plans check out, and it is about to be owned by DoorDash. Kora should be ready to say plainly what it does and does not do with family data.",
+   "take": "Instacart already had to drop its price experiments after shoppers paid different prices for the same eggs. Now the whole grocery stack gets audited, so Kora's checkout button just inherited a trust problem. Worth a one-line 'we never touch your prices' on the meal plan screen.",
+   "runtu": "I just want the same price as the neighbour for the same milk. If the cart is going to be audited anyway, tell us before checkout, not after.",
+   "deep_analysis": {
+    "what": "On Oct 28 the FTC sent orders to eight companies, including DoorDash and Instacart. They must show whether prices for tickets, rides, food delivery and other goods vary by person, using factors like loyalty program use and personal data analysis. A separate study asks whether worker pay is set from personal data. Chairman Andrew Ferguson said the agency intends to scrutinize the opaque methodology. Walmart's CEO and Delta and JetBlue have said they do not use personal data this way. The comment period on the FTC's separate personalized-pricing disclosure proposal runs to Nov 21.",
+    "impact": "Kora's grocery ordering runs through Instacart, and DoorDash agreed on Oct 29 to buy it for about $17 billion, with closing expected at the end of 2027 or the first half of 2028. An FTC study plus antitrust review means Instacart's pricing practices will be in the news for a long time. Families who order from a Kora meal plan may start asking what price they are being shown and why.",
+    "next": [
+     "Check how Kora shows Instacart prices and write down exactly what data, if any, reaches Instacart.",
+     "Prepare a short plain-language privacy line for the meal planning and ordering screens.",
+     "Watch the Nov 21 comment deadline and any FTC follow-up naming Instacart or DoorDash."
+    ]
+   },
+   "zh": {
+    "published": "10月29日",
+    "title": "FTC 要求 Instacart、DoorDash、沃尔玛说明：会不会按你的数据定价",
+    "summary": "FTC 要求达美、沃尔玛、联合航空、捷蓝、Lyft、DoorDash、Instacart 和 Target 说明价格是否因人而异，会看会员身份和个人数据。另外还查工人报酬是否按个人数据设定。如果不配合，FTC 可以上联邦法院。",
+    "relevance": "Kora 的膳食计划靠 Instacart 结账，而 Instacart 即将被 DoorDash 收购。Kora 得能讲清楚：我们怎么用、不怎么用家庭数据。",
+    "take": "Instacart 去年就因为同样的鸡蛋不同人价格不同，被迫停掉价格实验。现在整条买菜链路都要被审，Kora 的结账按钮顺手继承了一个信任问题。膳食计划页加一句“我们不碰价格”挺值的。",
+    "runtu": "我只想买同一盒牛奶，价格跟邻居一样。反正要被审，结账之前就告诉我们，别等事后。",
+    "deep_analysis": {
+     "what": "10月28日，FTC 向包括 DoorDash 和 Instacart 在内的八家公司下发命令，要求说明机票、打车、外卖等商品的价格是否按会员身份、个人数据分析等因素因人而异。另有一项研究关注工人报酬是否按个人数据设定。FTC 主席弗格森说，要审视这种不透明的方法。沃尔玛 CEO、达美和捷蓝都表示不这样做。FTC 另一项个性化定价披露提案的意见征集延长到11月21日。",
+     "impact": "Kora 的买菜下单走 Instacart，而 DoorDash 10月29日宣布以约170亿美元收购它，预计2027年底或2028年上半年交割。FTC 研究加上反垄断审查，意味着 Instacart 的定价会长期上新闻。用 Kora 膳食计划下单的家庭，可能会开始问：我看到的价格是怎么来的。",
+     "next": [
+      "核对 Kora 展示 Instacart 价格的方式，写清楚到底有哪些数据会到 Instacart。",
+      "为膳食计划和下单页准备一句通俗的隐私说明。",
+      "关注11月21日的意见征集截止，以及 FTC 之后是否点名 Instacart 或 DoorDash。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-03-02",
+   "date": "2026-11-03",
+   "rank": 2,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "Dynasage blog",
+   "url": "https://blog.dynasage.com/2026/11/amazon-introduces-host-of-new-smart.html",
+   "published": "Nov 1",
+   "title": "Amazon's new Echoes learn who is talking, and who is standing there",
+   "summary": "The 2026 Echo Dot can recognize household voice profiles and tailor answers to who is speaking. Echo Studio with Home Camera visually identifies family members and plays music from that person's profile. Echo Time has a Kids edition tied to Amazon Kids+ and Sleep Studio.",
+   "relevance": "Per-person screens are the core of a family display. Amazon is building that into $100 to $250 devices, which raises what families expect from any kitchen screen.",
+   "take": "Amazon has noticed that families are a bunch of different people. Bold of them, and also a camera in the kitchen. Kora's edge is a screen the whole family chooses to share, so say 'no camera needed' out loud.",
+   "runtu": "My kids would love music that knows who is asking. I would not love a camera working that out. Show me the off switch first.",
+   "zh": {
+    "published": "11月1日",
+    "title": "亚马逊新款 Echo 能分辨谁在说话，还能认出谁站在那儿",
+    "summary": "2026款 Echo Dot 能识别家庭成员的声音档案，按说话的人调整回答。带家庭摄像头的 Echo Studio 能通过画面认出家人，并播放对应成员的音乐。Echo Time 还有儿童版，接入 Amazon Kids+ 和睡眠音频。",
+    "relevance": "按人区分内容是家庭屏的核心。亚马逊把它塞进了100到250美元的设备里，会抬高家庭对任何厨房屏的期待。",
+    "take": "亚马逊总算发现一家人是好几个不同的人。厨房里再放个摄像头，胆子也不小。Kora 的优势是全家自愿共用的一块屏，“不需要摄像头”可以大声说出来。",
+    "runtu": "我家孩子肯定喜欢认人的音乐。但我不太想让摄像头来认人。先让我看到关闭开关。"
+   }
+  }
+ ]
+}
