@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-05",
+   "number": 11,
+   "headline": "Amazon blocks outside shopping agents and says its own Alexa will win, with 400 million users as the receipt",
+   "brief": "A slow Thursday. Amazon is walling off its store from outside AI shopping agents like Meta's Muse, while Walmart and Shopify open the door. Amazon says 400 million people used Alexa for Shopping in the past year, and the biggest family-relevant change is that grocery lists are now a voice job.",
+   "generated_at": "Daily run",
+   "item_count": 2,
+   "zh": {
+    "headline": "亚马逊把外部购物代理挡在门外，说自家 Alexa 会赢，证据是 4 亿用户",
+    "brief": "周四消息不多。亚马逊正在把外部 AI 购物代理（比如 Meta 的 Muse）挡在商店之外，而沃尔玛和 Shopify 则敞开大门。亚马逊称过去一年有 4 亿人用过 Alexa 购物功能，对家庭最相关的变化是：购物清单现在可以直接用语音管。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-03",
    "number": 9,
    "headline": "The FTC wants to know if Instacart's price depends on who you are, and Amazon's Echoes now know who is in your kitchen",

@@ -1,0 +1,81 @@
+{
+ "issue": {
+  "id": "2026-11-05",
+  "number": 11,
+  "headline": "Amazon blocks outside shopping agents and says its own Alexa will win, with 400 million users as the receipt",
+  "brief": "A slow Thursday. Amazon is walling off its store from outside AI shopping agents like Meta's Muse, while Walmart and Shopify open the door. Amazon says 400 million people used Alexa for Shopping in the past year, and the biggest family-relevant change is that grocery lists are now a voice job.",
+  "generated_at": "Daily run",
+  "item_count": 2,
+  "zh": {
+   "headline": "亚马逊把外部购物代理挡在门外，说自家 Alexa 会赢，证据是 4 亿用户",
+   "brief": "周四消息不多。亚马逊正在把外部 AI 购物代理（比如 Meta 的 Muse）挡在商店之外，而沃尔玛和 Shopify 则敞开大门。亚马逊称过去一年有 4 亿人用过 Alexa 购物功能，对家庭最相关的变化是：购物清单现在可以直接用语音管。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-05-01",
+   "date": "2026-11-05",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-positions-alexa-for-shopping-to-counter-third-party-agents/",
+   "published": "Nov 1",
+   "title": "Amazon bars outside shopping agents while Walmart and Shopify let them in",
+   "summary": "The Wall Street Journal reports that AI agents that shop for people could threaten Amazon's place as the first stop for shopping and for ads. Amazon has blocked Meta's Muse agent from its site, while Walmart and Shopify welcome agents. On its Oct 29 earnings call, CEO Andy Jassy said few people use agents to shop and that Alexa for Shopping will be the main agent used to shop Amazon.",
+   "relevance": "Kora's meal plans hand off to a grocery checkout, so which stores let an agent in decides which carts Kora can fill. Walmart's open door could matter more if Instacart's future gets murky.",
+   "take": "Amazon locks the front door, then tells you its own butler is excellent. Classic landlord. The useful bit for Kora: never depend on one store's goodwill, so line up a second checkout now.",
+   "runtu": "I don't care whose agent wins. I care that the milk gets ordered at the store I already use.",
+   "deep_analysis": {
+    "what": "The WSJ reports that shopping agents could replace human browsing and weaken the ads that Amazon's store depends on. Amazon blocked Meta's Muse, while Walmart and Shopify embraced agents. A PYMNTS Intelligence report found Amazon accounts for 29% of research starts, 49% of main purchase completions and 59% of the most recent AI-assisted purchase. Amazon also added 100+ Alexa shopping actions on Oct 29 and a Shop Direct listing of brands that do not sell on Amazon, reported Oct 28.",
+    "impact": "For Kora, the real question is access. Meal plans only help if the cart can be filled where families already shop. Amazon is closing its store to outsiders, Walmart is opening an agent gateway, and Instacart is mid-acquisition, so no single grocery route is safe. None of this changes the product this week, but it changes which partnerships are worth chasing.",
+    "next": [
+     "Map which grocery partners allow outside agents or apps, and which block them",
+     "Price out a second checkout route next to Instacart, starting with Walmart's agent gateway",
+     "Keep the family-first pitch: one calm screen that works whichever store wins"
+    ]
+   },
+   "zh": {
+    "published": "11月1日",
+    "title": "亚马逊拒绝外部购物代理，沃尔玛和 Shopify 却敞开大门",
+    "summary": "《华尔街日报》报道，替人购物的 AI 代理可能动摇亚马逊作为购物第一站和广告入口的地位。亚马逊已把 Meta 的 Muse 代理挡在网站之外，而沃尔玛和 Shopify 欢迎代理。在 10 月 29 日的财报电话会上，CEO 安迪·贾西说很少有人用代理购物，Alexa 购物功能会成为逛亚马逊时用的主要代理。",
+    "relevance": "Kora 的膳食计划最后要交给买菜结账，所以哪家店允许代理进门，决定了 Kora 能往哪些购物车里放东西。如果 Instacart 的前景不明朗，沃尔玛的开放就更重要。",
+    "take": "亚马逊先锁上前门，再夸自家管家多能干。老地主做派。Kora 能用上的一点：别把宝押在一家店的善意上，现在就备好第二条结账路线。",
+    "runtu": "谁的代理赢我不关心。我只关心牛奶能在我平时那家店买到。",
+    "deep_analysis": {
+     "what": "《华尔街日报》报道，购物代理可能取代人工浏览，削弱亚马逊商店依赖的广告。亚马逊挡住了 Meta 的 Muse，而沃尔玛和 Shopify 接纳代理。PYMNTS Intelligence 的报告显示，亚马逊占调研起点的 29%、主要购买完成的 49%，以及最近一次 AI 辅助购买的 59%。亚马逊 10 月 29 日还给 Alexa 加了 100 多项购物功能，10 月 28 日报道的 Shop Direct 则列出不在亚马逊直营的品牌商品。",
+     "impact": "对 Kora 来说，关键是能不能进得去。膳食计划只有在家庭常去的店里能装满购物车才有用。亚马逊在对外关门，沃尔玛在开代理入口，Instacart 又在被收购中，没有哪条买菜路线是稳的。这周产品不会变，但值得追的合作会变。",
+     "next": [
+      "梳理哪些买菜伙伴允许外部代理或应用接入，哪些在封锁",
+      "在 Instacart 之外估算第二条结账路线的成本，先看沃尔玛的代理入口",
+      "继续主打家庭优先：不管哪家店赢，都是一块安静的屏"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-05-02",
+   "date": "2026-11-05",
+   "rank": 2,
+   "topic": "bigtech",
+   "priority": "fyi",
+   "source": "Fintechnize",
+   "url": "https://fintechnize.substack.com/p/amazons-ai-shopping-assistant-reaches",
+   "published": "Oct 30",
+   "title": "Amazon says 400 million people used Alexa for Shopping, and they spend about 50% more per order",
+   "summary": "Amazon said more than 400 million customers used Alexa for Shopping in the past 12 months, and interactions rose 570% year over year. US users spend about 50% more per order than non-users, though that is a group difference, not proof the assistant caused it. Amazon did not say how many purchases an agent completed on its own.",
+   "relevance": "Alexa is turning grocery and gift lists into a voice habit in the same kitchens Kora wants to own. Numbers this big set what families expect a counter screen to do with lists.",
+   "take": "400 million is a big number until you notice nobody said how many bought anything by themselves. Bold of Amazon to bring a headcount to a revenue fight. Kora's takeaway: lists are the habit, so make the list fast.",
+   "runtu": "A list that I can add to by voice while my hands are covered in flour is genuinely useful. Selling me more stuff is a different thing.",
+   "zh": {
+    "published": "10月30日",
+    "title": "亚马逊称有 4 亿人用过 Alexa 购物功能，每单多花约 50%",
+    "summary": "亚马逊说过去 12 个月有超过 4 亿客户用过 Alexa 购物功能，互动次数同比增长 570%。美国用户每单比未使用者多花约 50%，但这只是群体差异，不能证明是助手带来的。亚马逊没有说有多少购买是代理自己完成的。",
+    "relevance": "Alexa 正把买菜清单和礼物清单变成语音习惯，而且就在 Kora 想占据的厨房里。数字这么大，会抬高家庭对台面屏处理清单的期待。",
+    "take": "4 亿听着很大，直到你发现没人说有多少人是自己下的单。拿人头数去打营收的仗，胆子不小。Kora 的收获：清单是习惯，所以把清单做快。",
+    "runtu": "满手面粉的时候能用语音往清单里加东西，真的有用。让我多买东西是另一回事。"
+   }
+  }
+ ]
+}
