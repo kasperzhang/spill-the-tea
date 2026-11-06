@@ -1,0 +1,81 @@
+{
+ "issue": {
+  "id": "2026-11-06",
+  "number": 12,
+  "headline": "Apple's kitchen screen is not out yet, and its code already guards your calendar",
+  "brief": "A slow Friday. Code in the iOS 27.3 beta shows Apple preparing chatbot apps for HomeView, plus a lockout that asks for an iPhone after repeated face-spoofing attempts. HomeView ships Nov 13 for $299. Meta's Muse agent learned to hold live voice chats with an animated avatar, US only for now.",
+  "generated_at": "Daily run",
+  "item_count": 2,
+  "zh": {
+   "headline": "苹果厨房屏还没发货，代码里已经先给你的日历配了保安",
+   "brief": "周五消息不多。iOS 27.3 测试版代码显示，苹果在为 HomeView 准备聊天机器人应用，还有反复冒充人脸后要用 iPhone 解锁的机制。HomeView 11 月 13 日发货，售价 299 美元。Meta 的 Muse 代理学会了带虚拟形象的实时语音聊天，暂时只限美国。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-06-01",
+   "date": "2026-11-06",
+   "rank": 1,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "MacRumors",
+   "url": "https://www.macrumors.com/2026/11/05/homeview-code-suggests-support-ai-chatbot-apps/",
+   "published": "Nov 5",
+   "title": "HomeView code hints at chatbot apps and a face-unlock lockout",
+   "summary": "Code in the iOS 27.3 beta, found by pdfu, adds a \"Conversational Apps\" category to HomeView. It also shows two-way audio and interruption handling, and says the category is not fully wired up. After three spoof attempts on a profile, a person must unlock with an iPhone to see personal data. HomeView ships Nov 13 for $299.",
+   "relevance": "Apple is getting ready to put chatbots on a kitchen screen and is already thinking about who can see whose data. Kora's multi-person screen will be judged against both.",
+   "take": "Apple's kitchen screen has not even shipped and its code already has a bouncer for your calendar. Cute. Kora should decide now what a kid or a guest sees when they walk up to the wall, and say it out loud.",
+   "runtu": "A screen that asks for my phone before it shows my stuff is fine by me. Just don't make me unlock it every time I need the pickup time.",
+   "deep_analysis": {
+    "what": "MacRumors reports on code in the iOS 27.3 beta, spotted by the code watcher pdfu. HomeView software gains a Conversational Apps category, with early work on two-way audio, sessions and interruptions. pdfu says it is not fully wired up, and Apple has not announced chatbot apps. Separately, HomeView software 27.2 already has anti-spoofing: after three spoof attempts on a profile, personal data needs an iPhone unlock. A lockout timer is in development, with waits of one, four and eight hours on repeat lockouts. Today any lockout can be cleared straight away with an iPhone.",
+    "impact": "Nothing changes for Kora this week, since this is beta code and not a launch. The signal is that Apple sees a family screen as a shared device where each person has private data, and as a place to talk to chatbots. If that arrives, families will expect any kitchen screen to know who is in front of it and to handle voice conversations well. It also puts privacy controls on the comparison sheet when HomeView reviews land after Nov 13.",
+    "next": [
+     "Write a one-paragraph answer for what Kora shows to a child or a guest, and what needs a phone to unlock.",
+     "Check how Kora handles interruptions in voice replies, since Apple is building for them.",
+     "Read the first HomeView reviews after Nov 13 and log every privacy or profile complaint."
+    ]
+   },
+   "zh": {
+    "published": "11月5日",
+    "title": "HomeView 代码暗示将支持聊天机器人应用，还有人脸解锁冷却",
+    "summary": "代码研究者 pdfu 在 iOS 27.3 测试版里发现，HomeView 新增了“对话类应用”分类，并有双向音频和打断处理的早期准备，但还没有接通。某个成员的资料被冒充尝试三次后，要用 iPhone 解锁才能看个人数据。HomeView 11 月 13 日发货，售价 299 美元。",
+    "relevance": "苹果在为厨房屏上的聊天机器人做准备，也在认真想“谁能看谁的数据”。Kora 的多人屏幕两方面都会被拿来比。",
+    "take": "苹果的厨房屏还没发货，代码里就先给你的日历配了个保安。可爱。Kora 现在就该想好：孩子或客人走到墙前面，能看到什么，并且大声讲出来。",
+    "runtu": "屏幕先要我用手机确认再给我看东西，我觉得挺好。只是别让我每次看接送时间都得解锁。",
+    "deep_analysis": {
+     "what": "MacRumors 报道了 iOS 27.3 测试版里的代码，由代码研究者 pdfu 发现。HomeView 软件新增“对话类应用”分类，并有双向音频、会话和打断处理的早期工作，pdfu 称它还没有完全接通，苹果也没有宣布支持聊天机器人应用。另外，HomeView 27.2 软件已带有防冒充：某个资料被冒充尝试三次后，查看个人数据要用 iPhone 解锁。冷却锁定还在开发，重复锁定的等待时间分别是一小时、四小时和八小时。目前任何锁定都能用 iPhone 立刻解除。",
+     "impact": "这周对 Kora 没有影响，因为这是测试版代码，不是发布。信号是：苹果把家庭屏看成每个人都有私人数据的共享设备，也看成和聊天机器人说话的地方。如果真做出来，家庭会期待任何厨房屏都知道面前是谁，并且语音对话顺畅。11 月 13 日后 HomeView 评测出来，隐私控制也会被放上对比表。",
+     "next": [
+      "写一段话说明：Kora 对孩子或客人显示什么，什么需要手机解锁。",
+      "检查 Kora 语音回复被打断时的表现，苹果正在为此做准备。",
+      "11 月 13 日后读首批 HomeView 评测，把每条隐私和账号方面的抱怨记下来。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-06-02",
+   "date": "2026-11-06",
+   "rank": 2,
+   "topic": "agents",
+   "priority": "fyi",
+   "source": "The Next Web",
+   "url": "https://thenextweb.com/news/meta-muse-ai-voice-chat-animated-avatars",
+   "published": "Nov 5",
+   "title": "Meta adds live voice chat and an animated avatar to Muse",
+   "summary": "Meta's Muse agent now holds live voice conversations with an avatar that reacts as you talk. You can interrupt it, and it keeps working on tasks in the background during a call. It is on phones, web and Mac, in the US only for now. Voice is also planned for Meta's glasses and the Muse Charm device, with no dates.",
+   "relevance": "Muse already shops, emails and phones businesses, and it is learning to chat like a person. Families will expect that kind of talking from any assistant, including Hey Kora.",
+   "take": "Meta gave its agent a face and hundreds of voices, right after it handed out a seller's address. Priorities. Kora's voice should be calm and plain, and it should still ask before it shares anything.",
+   "runtu": "A talking avatar in my kitchen is a lot. A voice that just answers while I stir the pot is enough for me.",
+   "zh": {
+    "published": "11月5日",
+    "title": "Meta 给 Muse 加上实时语音聊天和会动的虚拟形象",
+    "summary": "Meta 的 Muse 代理现在支持实时语音对话，虚拟形象会随着你说话做出反应。你可以随时打断它，通话中它还能在后台继续办事。目前手机、网页和 Mac 都能用，暂时只限美国。Meta 还计划把语音带到智能眼镜和 Muse Charm 设备上，没有给日期。",
+    "relevance": "Muse 已经能购物、发邮件、给商家打电话，现在又在学着像人一样聊天。家庭会期待任何助手都这样说话，包括 Hey Kora。",
+    "take": "Meta 刚把卖家的住址送了出去，就给代理配了一张脸和几百种声音。重点真明确。Kora 的声音应该平静朴实，而且分享任何东西之前还是要先问。",
+    "runtu": "厨房里有个会动的头像，有点多。我炒菜时它能直接回答我，就够了。"
+   }
+  }
+ ]
+}

@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-06",
+   "number": 12,
+   "headline": "Apple's kitchen screen is not out yet, and its code already guards your calendar",
+   "brief": "A slow Friday. Code in the iOS 27.3 beta shows Apple preparing chatbot apps for HomeView, plus a lockout that asks for an iPhone after repeated face-spoofing attempts. HomeView ships Nov 13 for $299. Meta's Muse agent learned to hold live voice chats with an animated avatar, US only for now.",
+   "generated_at": "Daily run",
+   "item_count": 2,
+   "zh": {
+    "headline": "苹果厨房屏还没发货，代码里已经先给你的日历配了保安",
+    "brief": "周五消息不多。iOS 27.3 测试版代码显示，苹果在为 HomeView 准备聊天机器人应用，还有反复冒充人脸后要用 iPhone 解锁的机制。HomeView 11 月 13 日发货，售价 299 美元。Meta 的 Muse 代理学会了带虚拟形象的实时语音聊天，暂时只限美国。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-05",
    "number": 11,
    "headline": "Amazon blocks outside shopping agents and says its own Alexa will win, with 400 million users as the receipt",
