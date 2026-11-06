@@ -1,0 +1,104 @@
+{
+ "issue": {
+  "id": "2026-11-04",
+  "number": 10,
+  "headline": "Apple's kitchen screen ships Nov 13, and its $1,000 robot version may not show up until 2028",
+  "brief": "A slow Wednesday. HomeView lands on Nov 13 at $299 with recipes, calendar and FaceTime, tabletop or wall-mounted. A report says Apple's follow-up robot display may slip to 2028 because the software is not ready. Apple's own camera, lock and thermostat line starts shipping in December.",
+  "generated_at": "Daily run",
+  "item_count": 3,
+  "zh": {
+   "headline": "苹果厨房屏 11 月 13 日发货，1000 美元的机器人版可能要拖到 2028 年",
+   "brief": "周三消息不多。HomeView 11 月 13 日发售，售价 299 美元，有食谱、日历和 FaceTime，台式和壁挂两种。有报道称苹果后续的机器人屏幕可能因软件没准备好拖到 2028 年。苹果自家的摄像头、门锁和温控器 12 月开始发货。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-04-01",
+   "date": "2026-11-04",
+   "rank": 1,
+   "topic": "bigtech",
+   "priority": "high",
+   "source": "The Next Web",
+   "url": "https://thenextweb.com/news/apple-home-robot-homeview-ultra-1000-2028",
+   "published": "Nov 3",
+   "title": "Apple's $1,000 tabletop home robot may slip to 2028",
+   "summary": "The Information reports that Apple's tabletop home robot, codenamed J595, targets 2027 but may not ship until 2028. Former employees expect it to be called HomeView Ultra: a 9-inch screen on a swivelling arm that follows people during FaceTime calls. The hardware was reportedly finished about two years ago, but the software is not ready.",
+   "relevance": "Apple is aiming past the wall screen toward a screen that moves and acts on its own in the home. The delay gives Kora time, but it shows where Apple thinks family displays are going.",
+   "take": "Apple built the arm two years ago and is still waiting for the brain. Relatable, if you have ever shipped a calendar sync. Kora's useful move: be great at the boring family jobs now, because the robot cat-wrangler is not arriving soon.",
+   "runtu": "A screen that turns to watch me cook sounds a bit much. I'd take one that just shows the right dinner and the right pickup time.",
+   "deep_analysis": {
+    "what": "The report says Apple is building a tabletop robot that could cost about $1,000, maybe more depending on memory and component costs. It would put a 9-inch screen on a robotic arm with cameras and sensors, turn to follow people on FaceTime, switch on lights when someone enters a room and react to things like a cat on a table. Apple reportedly has about 10 true roboticists and about 300 people on software, and many early engineers have left. The software team pushed for a delay and wanted to cut features to a few tied to FaceTime and home tasks. The standard $299 HomeView launched in October and reaches customers Nov 13. TNW says it has not verified the report.",
+    "impact": "Nothing changes for Kora this week. The signal is direction: Apple wants a premium screen that senses people and acts, not just displays a calendar. If it arrives, it will push families to expect a screen that knows who is in the room, which is a privacy question as much as a feature. A 2028 slip leaves the $299 HomeView as Apple's only kitchen play for two holiday seasons.",
+    "next": [
+     "Keep the pitch on the shared, no-camera-needed family screen while Apple's premium version is years away",
+     "Write a plain answer for parents who ask what Kora sees and hears in the kitchen",
+     "Track HomeView reviews after Nov 13 for the gaps families complain about first"
+    ]
+   },
+   "zh": {
+    "published": "11月3日",
+    "title": "苹果 1000 美元的桌面家用机器人可能推迟到 2028 年",
+    "summary": "The Information 报道，苹果代号 J595 的桌面家用机器人目标是 2027 年，但可能要到 2028 年才发货。前员工预计它会叫 HomeView Ultra：9 英寸屏幕装在可旋转机械臂上，视频通话时会跟着人转。硬件据说两年前就做完了，但软件还没准备好。",
+    "relevance": "苹果的目光已经越过挂墙屏，想做一块会动、会自己行动的家用屏。延迟给了 Kora 时间，但也说明苹果认为家庭屏要往哪走。",
+    "take": "苹果两年前就做好了机械臂，还在等大脑。能理解，谁没交付过日历同步呢。Kora 现在该做的是把家庭里的琐事做到最好，会抓猫的机器人短期内不会来。",
+    "runtu": "一块会转过来看我做饭的屏幕，有点过了。我更想要一块直接显示对的晚饭、对的接送时间的屏。",
+    "deep_analysis": {
+     "what": "报道称苹果在做一款桌面机器人，价格约 1000 美元，视内存和零部件成本可能更高。它把 9 英寸屏幕装在机械臂上，带摄像头和传感器，FaceTime 时会跟着人转，有人进房间会开灯，也会对桌上的猫这类情况做出反应。苹果据说只有约 10 位真正的机器人专家，软件团队约 300 人，不少早期工程师已离开。软件团队主张推迟，并想把功能砍到只剩几个，围绕 FaceTime 和家务。299 美元的标准版 HomeView 10 月发布，11 月 13 日到货。TNW 说它没有核实这则报道。",
+     "impact": "这周对 Kora 没有影响。值得看的是方向：苹果想要的是能感知人、会行动的高端屏，而不只是显示日历。如果真做出来，家庭会开始期待屏幕知道谁在房间里，这既是功能也是隐私问题。拖到 2028 年的话，299 美元的 HomeView 将在两个节日季里独自代表苹果的厨房屏。",
+     "next": [
+      "苹果的高端版还有几年，Kora 继续主打全家共用、不需要摄像头的家庭屏",
+      "给家长准备一个直白的回答：Kora 在厨房里看到什么、听到什么",
+      "11 月 13 日后盯 HomeView 的评测，看家庭最先抱怨哪些缺口"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-04-02",
+   "date": "2026-11-04",
+   "rank": 2,
+   "topic": "bigtech",
+   "priority": "high",
+   "source": "MacRumors",
+   "url": "https://macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming",
+   "published": "Nov 2",
+   "title": "Apple HomeView lands Nov 13 at $299, with recipes, calendar and FaceTime",
+   "summary": "MacRumors lists what Apple still has coming this year. HomeView ships Nov 13 for $299 in tabletop and wall-mounted versions. It answers with Siri AI, shows photos, recipes and calendar events, plays music and makes FaceTime calls. It will not initially be sold in the EU.",
+   "relevance": "Recipes plus calendar on a $299 kitchen screen is Kora's pitch at a lower price from the biggest brand in the room. Canadian and US shoppers get a direct comparison in under two weeks.",
+   "take": "Apple's kitchen screen does recipes and the family calendar for $299. Welcome to the melon patch, neighbour. Kora has the fridge photo, the chores loop and Instacart ordering, so make the comparison table before Nov 13 does it for you.",
+   "runtu": "Price matters, but so does who in my house can actually use it. Can the kids add a chore, or is it all my phone?",
+   "zh": {
+    "published": "11月2日",
+    "title": "苹果 HomeView 11 月 13 日发售，299 美元，带食谱、日历和 FaceTime",
+    "summary": "MacRumors 列出了苹果今年还没发的东西。HomeView 11 月 13 日发货，售价 299 美元，有台式和壁挂两种。它用 Siri AI 回答问题，能显示照片、食谱和日历，播放音乐，也能打 FaceTime。欧盟暂时不卖。",
+    "relevance": "299 美元的厨房屏就带食谱加日历，这正是 Kora 的卖点，只是价格更低，品牌是屋里最大的那个。加拿大和美国的买家不到两周就能直接对比。",
+    "take": "苹果的厨房屏用 299 美元做食谱和家庭日历。欢迎来瓜田，邻居。Kora 有冰箱拍照、家务闭环和 Instacart 下单，趁 11 月 13 日替你做对比之前，自己先把对比表做出来。",
+    "runtu": "价格要紧，但家里谁真能用上更要紧。孩子能自己加家务吗，还是全得靠我的手机？"
+   }
+  },
+  {
+   "id": "2026-11-04-03",
+   "date": "2026-11-04",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "Apple Newsroom",
+   "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+   "published": "Oct 13",
+   "title": "Apple Home Collection: LG and Schneider cameras, lock and thermostats ship in December",
+   "summary": "Apple announced a lineup of home accessories made with LG and Schneider Electric: a $249.95 video doorbell, cameras, a $349.95 Matter smart deadbolt, two thermostats and sensors. Everything ships in December, with a few items in early 2027. Cameras need HomeView or another Apple home hub, and the doorbell chime and live camera views show up on HomeView.",
+   "relevance": "Apple is building a whole home around its screen, and most of it sells in Canada. A kitchen display that shows the doorbell and controls the thermostat is the bar families may start expecting from any screen.",
+   "take": "Apple now sells the screen and the things the screen looks at. Neat trick. Kora should decide this quarter which Matter devices it will show on the counter, and which it will happily leave to Apple.",
+   "runtu": "I'd like to see who is at the door from the kitchen. I do not need another subscription to see it, though.",
+   "zh": {
+    "published": "10月13日",
+    "title": "苹果 Home Collection：LG 和 Schneider 的摄像头、门锁、温控器 12 月发货",
+    "summary": "苹果发布与 LG 和 Schneider Electric 合作的家居配件系列：249.95 美元的视频门铃、多款摄像头、349.95 美元支持 Matter 的智能门锁、两款温控器和传感器。全部 12 月发货，少数产品要到 2027 年初。摄像头需要 HomeView 或其他苹果家庭中枢，门铃铃声和实时画面会显示在 HomeView 上。",
+    "relevance": "苹果在围着它的屏建一整个家，而且大部分产品在加拿大也有售。厨房屏能看门铃、能控温，这会成为家庭对任何屏幕的期待。",
+    "take": "苹果现在连屏和屏要看的东西一起卖。招数不错。Kora 这个季度该定下来：台面上要显示哪些 Matter 设备，哪些愿意痛快地留给苹果。",
+    "runtu": "我想在厨房就能看到门口是谁。不过我不想为这个再多交一份订阅费。"
+   }
+  }
+ ]
+}

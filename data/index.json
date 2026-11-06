@@ -27,6 +27,19 @@
    }
   },
   {
+   "id": "2026-11-04",
+   "number": 10,
+   "headline": "Apple's kitchen screen ships Nov 13, and its $1,000 robot version may not show up until 2028",
+   "brief": "A slow Wednesday. HomeView lands on Nov 13 at $299 with recipes, calendar and FaceTime, tabletop or wall-mounted. A report says Apple's follow-up robot display may slip to 2028 because the software is not ready. Apple's own camera, lock and thermostat line starts shipping in December.",
+   "generated_at": "Daily run",
+   "item_count": 3,
+   "zh": {
+    "headline": "苹果厨房屏 11 月 13 日发货，1000 美元的机器人版可能要拖到 2028 年",
+    "brief": "周三消息不多。HomeView 11 月 13 日发售，售价 299 美元，有食谱、日历和 FaceTime，台式和壁挂两种。有报道称苹果后续的机器人屏幕可能因软件没准备好拖到 2028 年。苹果自家的摄像头、门锁和温控器 12 月开始发货。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-03",
    "number": 9,
    "headline": "The FTC wants to know if Instacart's price depends on who you are, and Amazon's Echoes now know who is in your kitchen",
