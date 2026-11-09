@@ -1,0 +1,81 @@
+{
+ "issue": {
+  "id": "2026-11-09",
+  "number": 15,
+  "headline": "Meta's Muse now builds family-event planners on request, and Apple's CEO is reportedly tired of waiting on Siri",
+  "brief": "A slow Monday. Meta's Muse agent can now spin up a Space for things like a holiday gift tracker or a family event recipe board, and keep it updated in the background. Apple's new CEO is reportedly pushing software chief Craig Federighi to move faster on Siri, days before HomeView ships.",
+  "generated_at": "Daily run",
+  "item_count": 2,
+  "zh": {
+   "headline": "Meta 的 Muse 现在能按需给你搭家庭活动计划板，苹果新 CEO 据说已经等 Siri 等得不耐烦",
+   "brief": "周一消息不多。Meta 的 Muse 代理现在能按需建一个“空间”，比如节日礼物追踪或家庭聚会食谱板，还会在后台自动更新。据报道，苹果新 CEO 正催软件主管 Craig Federighi 加快 Siri 进度，而 HomeView 几天后就要发货。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-09-01",
+   "date": "2026-11-09",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "published": "Nov 6",
+   "title": "Meta introduces Spaces, a way to build trackers and planners with its Muse agent",
+   "summary": "Meta's Muse agent can now create Spaces, which are breakout conversations built around one goal. You describe an idea in chat and Muse builds a tracker, planner or project board. Meta's examples include vacation planning, collecting recipes for a family event and a holiday gift tracker. Spaces can connect to third-party apps and update in the background.",
+   "relevance": "Meta is pitching a general agent at the same jobs Kora does for families: planning, recipes and shared lists. The article does not say whether Spaces can be shared with family or how data is handled.",
+   "take": "Meta has discovered that families want a planner, and its answer is a chatbot that builds you a fresh planner every time. Cute. Kora already ships the planner. Make sure the 'it's already set up' story is the first thing a new family sees.",
+   "runtu": "I don't want to describe my week to a chatbot every time I need a list. I want the list to already be on the counter when I walk in.",
+   "deep_analysis": {
+    "what": "Muse can now open a Space for a single goal, such as a holiday gift tracker or recipes for a family event. You describe the idea, Muse builds the tracker or planner, and the Space can pull in third-party apps and refresh in the background with things like price changes or savings progress. It launched a day after Muse Voice. Zuckerberg said on the October earnings call that Muse agents had 10 million users in the US and Canada.",
+    "impact": "Kora's pitch is one calm, ready-made home for the family calendar, meals and chores. Spaces attacks the same jobs from the other direction: a blank chat that builds whatever you ask. For Canadian and US parents already trying Muse, a gift tracker or recipe board is a free substitute for some Kora features. The open questions are family sharing and privacy, which the article does not cover. Those are Kora's strengths if Meta stays quiet on them.",
+    "next": [
+     "Watch for whether Spaces can be shared with a partner or kids, and how Meta describes data use.",
+     "Test a holiday gift tracker and a family-event recipe board in Muse and compare with Kora's meal plan and calendar flow.",
+     "Prepare a short line on why a shared wall display beats a private chat for family planning."
+    ]
+   },
+   "zh": {
+    "published": "11月6日",
+    "title": "Meta 推出 Spaces，让 Muse 代理帮你搭追踪表和计划板",
+    "summary": "Meta 的 Muse 代理现在能创建“空间”，也就是围绕一个目标的分支对话。你在聊天里说出想法，Muse 就搭出追踪表、计划表或项目板。Meta 举的例子有度假计划、家庭活动的食谱收集和节日礼物追踪。空间可以连接第三方应用，并在后台自动更新。",
+    "relevance": "Meta 想用通用代理做 Kora 在做的事：计划、食谱和共享清单。文章没说空间能否与家人共享，也没说数据怎么处理。",
+    "take": "Meta 发现家庭需要计划板，办法是每次现给你搭一个。可爱。Kora 早就有现成的了，新家庭第一眼就该看到“开箱即用”。",
+    "runtu": "我不想每次要个清单都先跟聊天机器人讲一遍这周的安排。我想进门时清单已经在台面上了。",
+    "deep_analysis": {
+     "what": "Muse 现在能为单一目标开一个空间，比如节日礼物追踪或家庭活动食谱。你说出想法，Muse 就搭好追踪表或计划板，空间还能接入第三方应用，在后台刷新价格变化、储蓄进度之类的信息。它在 Muse Voice 发布的第二天上线。Zuckerberg 在十月财报电话会上说，Muse 代理在美国和加拿大已有 1000 万用户。",
+     "impact": "Kora 的卖点是为家庭日历、膳食和家务准备一个安静、现成的家。Spaces 从另一头切入：一个空白对话，你要什么它就搭什么。对已经在试 Muse 的加拿大和美国家长来说，礼物追踪或食谱板可以替代 Kora 的一部分功能。家人共享和隐私文章里都没提，如果 Meta 继续不提，这正是 Kora 的强项。",
+     "next": [
+      "关注 Spaces 能否与伴侣或孩子共享，以及 Meta 如何说明数据使用。",
+      "在 Muse 里试一个节日礼物追踪和一个家庭活动食谱板，与 Kora 的膳食计划和日历流程对比。",
+      "准备一句简短说法：为什么挂在墙上的共享屏比私人聊天更适合家庭计划。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-09-02",
+   "date": "2026-11-09",
+   "rank": 2,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-ceo-pushes-for-greater-progress-on-ai/",
+   "published": "Nov 8",
+   "title": "Apple CEO reportedly pushes Federighi to move faster than 'necessary' Siri fixes",
+   "summary": "Bloomberg's Mark Gurman reports that Apple CEO John Ternus pressed software chief Craig Federighi in a closed-door meeting. Ternus wants Apple to speed up its road map and go beyond merely making necessary improvements to Siri. Sources say he is frustrated that Apple seems more hesitant on AI than its rivals.",
+   "relevance": "HomeView ships Nov 13 and leans on Siri. If Apple speeds up, the Apple kitchen screen could get smarter faster than expected. The report does not mention HomeView.",
+   "take": "Apple's new boss wants Siri to hurry up, which is the most relatable thing Apple has done all year. Plan for a HomeView that is good now and scary-good in a year.",
+   "runtu": "Honestly, I just want the timer and the grocery list to work the first time. A faster road map is fine, but I'll judge it on this week.",
+   "zh": {
+    "published": "11月8日",
+    "title": "据报道苹果 CEO 催 Federighi：Siri 别只做“必要的改进”",
+    "summary": "Bloomberg 的 Mark Gurman 报道，苹果 CEO John Ternus 在闭门会议上向软件主管 Craig Federighi 施压。Ternus 希望苹果加快路线图，不要只停留在对 Siri 做必要改进。消息人士称，他对苹果在 AI 上比对手更犹豫感到不满。",
+    "relevance": "HomeView 11 月 13 日发货，很依赖 Siri。如果苹果提速，这块厨房屏可能比预期更快变聪明。报道没有提到 HomeView。",
+    "take": "苹果新老板想让 Siri 快点，这是苹果今年最让人有共鸣的一件事。规划时要想到：HomeView 现在够用，一年后可能强得吓人。",
+    "runtu": "说实话，我只想让定时器和购物清单一次就好用。路线图加快当然好，但我这周只看眼前。"
+   }
+  }
+ ]
+}

@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-09",
+   "number": 15,
+   "headline": "Meta's Muse now builds family-event planners on request, and Apple's CEO is reportedly tired of waiting on Siri",
+   "brief": "A slow Monday. Meta's Muse agent can now spin up a Space for things like a holiday gift tracker or a family event recipe board, and keep it updated in the background. Apple's new CEO is reportedly pushing software chief Craig Federighi to move faster on Siri, days before HomeView ships.",
+   "generated_at": "Daily run",
+   "item_count": 2,
+   "zh": {
+    "headline": "Meta 的 Muse 现在能按需给你搭家庭活动计划板，苹果新 CEO 据说已经等 Siri 等得不耐烦",
+    "brief": "周一消息不多。Meta 的 Muse 代理现在能按需建一个“空间”，比如节日礼物追踪或家庭聚会食谱板，还会在后台自动更新。据报道，苹果新 CEO 正催软件主管 Craig Federighi 加快 Siri 进度，而 HomeView 几天后就要发货。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-06",
    "number": 12,
    "headline": "Apple's kitchen screen is not out yet, and its code already guards your calendar",
