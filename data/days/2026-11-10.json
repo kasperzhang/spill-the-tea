@@ -1,0 +1,81 @@
+{
+ "issue": {
+  "id": "2026-11-10",
+  "number": 16,
+  "headline": "Meta's Muse agent reaches your wrist, and its helper model costs ten cents a million tokens",
+  "brief": "A slow Tuesday. Meta says its Muse agent now runs on Apple Watch and Wear OS, though the report rests on one roundup source. Meta also released Muse Ember, a very cheap model for repetitive agent work, which could push down the cost of always-on assistants.",
+  "generated_at": "Daily run",
+  "item_count": 2,
+  "zh": {
+   "headline": "Meta 的 Muse 代理戴上了手腕，配套小模型每百万 token 只要 10 美分",
+   "brief": "周二消息不多。Meta 称 Muse 代理现在可在 Apple Watch 和 Wear OS 上运行，不过该消息目前只有一篇汇总文章作来源。Meta 还发布了 Muse Ember，一个专干重复代理活的超便宜模型，可能拉低常驻助手的成本。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-10-01",
+   "date": "2026-11-10",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/technology/major-ai-upgrades-meta-muse-openai-dot-multi-device-support-google-maps-platform-in-ai-studio-and-claude-fable-mythos-enn26111002884",
+   "published": "Nov 9",
+   "title": "Meta's Muse agent moves onto the wrist, on Apple Watch and Wear OS",
+   "summary": "Meta says its Muse AI agent can now be installed on Apple Watch and Wear OS. You can talk or type to it, and it can handle tasks like booking event tickets, tracking expenses and auditing subscriptions. Meta's line is that it works around the clock and now on your wrist. The report comes from a roundup of the day's AI releases, so details such as regions are thin.",
+   "relevance": "Muse is another always-on assistant reaching for the family's daily chores and bookings. Kora's edge is a shared screen the whole house can see, not a private watch.",
+   "take": "Meta has put a chatbot on the one device that still can't show your kid's soccer schedule without squinting. Bold. Pitch Kora as the shared place every wrist-based agent eventually has to write to.",
+   "runtu": "A watch is just mine. My family's plan still needs one place we can all look at.",
+   "deep_analysis": {
+    "what": "Muse, Meta's consumer agent, is now downloadable on Apple Watch and Wear OS. Users can speak or type to it and ask it to book event tickets, track expenses or audit subscriptions. It follows Spaces and Voice earlier this month. The source is a roundup piece, and I found no second source for the watch launch, so treat details as unconfirmed.",
+    "impact": "Agents are spreading to every screen a parent touches. That raises the bar for answers to 'what is on tomorrow' and pushes the family calendar toward being one of many surfaces rather than the home base. It also sharpens Kora's argument: personal agents are private by design, while a family needs a shared, glanceable view.",
+    "next": [
+     "Check Meta's own announcement to confirm the watch launch and regions.",
+     "Test whether Muse can read or write a shared family calendar.",
+     "Draft a line on why shared household state beats per-person agents."
+    ]
+   },
+   "zh": {
+    "published": "11月9日",
+    "title": "Meta 的 Muse 代理戴上手腕，登陆 Apple Watch 和 Wear OS",
+    "summary": "Meta 称其 Muse AI 代理现在可以装在 Apple Watch 和 Wear OS 上。可以语音或打字，让它订活动门票、记账、梳理订阅。Meta 的说法是它全天候工作，现在还到了你手腕上。消息来自一篇当日 AI 发布汇总，地区等细节不多。",
+    "relevance": "Muse 是又一个想接管家庭日常琐事和预订的全天候助手。Kora 的优势是全家都看得见的共享屏幕，而不是一只私人手表。",
+    "take": "Meta 把聊天机器人放上了唯一还没法清楚显示孩子足球日程的设备。大胆。把 Kora 讲成所有腕上代理最终都得写入的那个共享地方。",
+    "runtu": "手表只是我自己的。我们一家人的安排，还是得有个大家都能看的地方。",
+    "deep_analysis": {
+     "what": "Meta 的消费级代理 Muse 现在可以在 Apple Watch 和 Wear OS 上下载。用户可语音或打字，让它订活动门票、记账或梳理订阅。此前本月早些时候刚推出 Spaces 和语音功能。消息来自汇总类文章，我没找到第二个来源证实手表版发布，细节请视为未经证实。",
+     "impact": "代理正在铺到家长手边的每块屏幕上。这抬高了“明天有什么安排”这类问题的门槛，也让家庭日历从“大本营”变成众多入口之一。这反而强化了 Kora 的论点：个人代理天生是私人的，而一家人需要共享、一眼能看懂的视图。",
+     "next": [
+      "去 Meta 官方公告核实手表版发布和上线地区。",
+      "测试 Muse 能否读写共享的家庭日历。",
+      "起草一句话，说明共享的家庭状态为什么胜过每人一个代理。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-10-02",
+   "date": "2026-11-10",
+   "rank": 2,
+   "topic": "agents",
+   "priority": "fyi",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "published": "Nov 9",
+   "title": "Meta releases Muse Ember, a cheap model built for agent grunt work",
+   "summary": "Meta released Muse Ember on Monday, its lightest and cheapest model so far, aimed at the repetitive work agents do all day, such as tool calls, routing and extraction. It costs 10 cents per million input tokens. Meta pitches it as the volume worker that pairs with the larger Muse Wonder planner. The article gives enterprise examples and does not say Ember powers the consumer Muse agent.",
+   "relevance": "Cheaper agent models lower the cost of things like AI phone calls and always-on assistants. That matters for what Kora Plus can offer at a steady price.",
+   "take": "Meta is now selling agent labor by the pennies. Great for margins, bad for anyone whose moat is 'we have an AI.' Make sure Kora's edge is the family context, not the model.",
+   "runtu": "Cheaper for them is only good for me if it shows up as lower prices or fewer mistakes.",
+   "zh": {
+    "published": "11月9日",
+    "title": "Meta 发布 Muse Ember，专干代理杂活的廉价模型",
+    "summary": "Meta 周一发布 Muse Ember，这是它迄今最轻、最便宜的模型，面向代理整天重复做的工作，比如调用工具、分流和信息提取。输入价格为每百万 token 10 美分。Meta 把它定位成配合大模型 Muse Wonder 的“干活主力”。文章举的是企业场景的例子，没有说 Ember 驱动消费端的 Muse 代理。",
+    "relevance": "代理模型越便宜，AI 代打电话和常驻助手的成本就越低。这关系到 Kora Plus 能用多稳的价格提供什么。",
+    "take": "Meta 现在按几分钱卖代理的劳力。对毛利是好事，对只靠“我们有 AI”的人是坏事。确保 Kora 的壁垒是家庭上下文，而不是模型。",
+    "runtu": "对他们便宜，只有变成更低的价格或更少的出错，对我才算好事。"
+   }
+  }
+ ]
+}

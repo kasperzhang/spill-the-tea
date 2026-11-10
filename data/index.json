@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-10",
+   "number": 16,
+   "headline": "Meta's Muse agent reaches your wrist, and its helper model costs ten cents a million tokens",
+   "brief": "A slow Tuesday. Meta says its Muse agent now runs on Apple Watch and Wear OS, though the report rests on one roundup source. Meta also released Muse Ember, a very cheap model for repetitive agent work, which could push down the cost of always-on assistants.",
+   "generated_at": "Daily run",
+   "item_count": 2,
+   "zh": {
+    "headline": "Meta 的 Muse 代理戴上了手腕，配套小模型每百万 token 只要 10 美分",
+    "brief": "周二消息不多。Meta 称 Muse 代理现在可在 Apple Watch 和 Wear OS 上运行，不过该消息目前只有一篇汇总文章作来源。Meta 还发布了 Muse Ember，一个专干重复代理活的超便宜模型，可能拉低常驻助手的成本。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-09",
    "number": 15,
    "headline": "Meta's Muse now builds family-event planners on request, and Apple's CEO is reportedly tired of waiting on Siri",
