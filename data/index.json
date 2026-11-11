@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-11",
+   "number": 17,
+   "headline": "Uber's AI agents booked four rides in a week, and Skylight answered with an egg timer",
+   "brief": "A slow Wednesday. Uber, DoorDash and Airbnb say outside AI agents bring in almost nothing, and they are betting on their own in-app helpers like photo-to-cart grocery. Skylight keeps shipping small free features, now timers. Alexa+ reaches the browser in Germany, with calendar entries from images on its roadmap.",
+   "generated_at": "Daily run",
+   "item_count": 3,
+   "zh": {
+    "headline": "Uber 的 AI 代理一周只叫了 4 趟车，Skylight 则回了一个煮蛋计时器",
+    "brief": "周三消息不多。Uber、DoorDash 和 Airbnb 都说外部 AI 代理几乎没带来生意，转而押注自家应用里的助手，比如拍照变购物车。Skylight 继续推出免费小功能，这次是计时器。Alexa+ 在德国上了网页版，路线图上还有“图片生成日程”。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-10",
    "number": 16,
    "headline": "Meta's Muse agent reaches your wrist, and its helper model costs ten cents a million tokens",

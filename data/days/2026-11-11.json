@@ -1,0 +1,104 @@
+{
+ "issue": {
+  "id": "2026-11-11",
+  "number": 17,
+  "headline": "Uber's AI agents booked four rides in a week, and Skylight answered with an egg timer",
+  "brief": "A slow Wednesday. Uber, DoorDash and Airbnb say outside AI agents bring in almost nothing, and they are betting on their own in-app helpers like photo-to-cart grocery. Skylight keeps shipping small free features, now timers. Alexa+ reaches the browser in Germany, with calendar entries from images on its roadmap.",
+  "generated_at": "Daily run",
+  "item_count": 3,
+  "zh": {
+   "headline": "Uber 的 AI 代理一周只叫了 4 趟车，Skylight 则回了一个煮蛋计时器",
+   "brief": "周三消息不多。Uber、DoorDash 和 Airbnb 都说外部 AI 代理几乎没带来生意，转而押注自家应用里的助手，比如拍照变购物车。Skylight 继续推出免费小功能，这次是计时器。Alexa+ 在德国上了网页版，路线图上还有“图片生成日程”。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-11",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/10/ai-agents-uber-doordash-airbnb-limited-traction/",
+   "published": "Nov 10",
+   "title": "Uber says AI agents booked four rides in a week of 320 million trips and orders",
+   "summary": "Uber's CFO said AI agents booked just four rides and 500 Uber Eats deliveries in Halloween week, out of 320 million rides and deliveries. DoorDash counts maybe several hundred agent orders in total, and Airbnb calls its agent bookings a very non-material number. All three are pushing their own in-app helpers instead, like Uber's Cart Assistance, which fills a grocery basket from a handwritten list or a recipe screenshot.",
+   "relevance": "Outside agents are not yet a real sales channel, but photo-to-cart grocery is now table stakes at Uber and DoorDash. Kora's fridge-photo meal plans need to feel faster than those apps, and Kora Plus calls should go where the big apps can't, like local businesses with no app.",
+   "take": "Four rides. The agent revolution fits in a minivan. The lesson for Kora: people don't want an agent to replace a 50-second tap, they want it for the jobs no app does, so sell the phone call, not the button.",
+   "runtu": "Ordering a ride takes me under a minute, so I'd never ask a robot to do it. Booking the dentist on a Tuesday afternoon while I'm at work? That one I'd hand off today.",
+   "deep_analysis": {
+    "what": "On Q3 earnings calls, Uber, DoorDash and Airbnb all said third-party AI agents such as Meta's Muse, OpenAI's Dots and Instinct bring in almost no business. Uber's CEO said a median customer needs 50 seconds to order a ride and 90 seconds for Uber Eats, so agents save little time. Analysts quoted by Fortune point to agents overcomplicating simple tasks and to weak trust around data and payments.",
+    "impact": "The money is moving to in-app assistants. Uber's Cart Assistance baskets are roughly twice the average size, DoorDash offers Ask DoorDash and Text DoorDash, and Airbnb plans its own trip agent early next year. For Kora, this means grocery and booking partners will favour their own assistants, and the value of an agent is highest on slow, awkward tasks like phone calls.",
+    "next": [
+     "Position Kora Plus calls around tasks with no app: clinics, salons, local restaurants.",
+     "Benchmark fridge-photo to Instacart cart against Uber and DoorDash photo-to-cart flows on time and accuracy.",
+     "Show plainly what data and payment info Kora uses for an agent task, since trust is a named blocker."
+    ]
+   },
+   "zh": {
+    "published": "11月10日",
+    "title": "Uber 说：一周 3.2 亿单里，AI 代理只叫了 4 趟车",
+    "summary": "Uber 的 CFO 说，万圣节那周 AI 代理只叫了 4 趟车、点了 500 单 Uber Eats，而那周总共有 3.2 亿单出行和外卖。DoorDash 说代理带来的订单加起来也就几百单，Airbnb 则说代理预订量“微不足道”。三家都转而主推自家应用里的助手，比如 Uber 的 Cart Assistance，拍一张手写清单或食谱截图就能装好购物车。",
+    "relevance": "外部代理还算不上真正的销售渠道，但“拍照变购物车”已经成了 Uber 和 DoorDash 的标配。Kora 的冰箱拍照做膳食计划得比这些应用更快，Kora Plus 代打电话则应该去做大应用够不着的事，比如没有 App 的本地商家。",
+    "take": "4 趟车。整个代理革命塞一辆面包车都够。给 Kora 的启发：没人想让代理替他点那 50 秒的按钮，大家要的是 App 干不了的活，所以该卖的是打电话，不是按按钮。",
+    "runtu": "叫车我一分钟不到就搞定，犯不着让机器人来。可周二下午我在上班，帮我约个牙医？这活我今天就想交出去。",
+    "deep_analysis": {
+     "what": "在三季度财报电话会上，Uber、DoorDash 和 Airbnb 都表示，Meta 的 Muse、OpenAI 的 Dots、Instinct 这类第三方 AI 代理几乎没带来生意。Uber CEO 说，普通用户叫车只要 50 秒，点 Uber Eats 只要 90 秒，代理省不了多少时间。Fortune 引用的分析师认为，代理把简单的事搞复杂了，用户对数据和支付也不放心。",
+     "impact": "钱正在流向各家应用内的助手。Uber 的 Cart Assistance 购物车大约是平均单的两倍，DoorDash 有 Ask DoorDash 和 Text DoorDash，Airbnb 明年初要上自己的行程代理。对 Kora 来说，买菜和预订的合作方会更偏向自家助手，而代理最值钱的地方，是打电话这种又慢又麻烦的活。",
+     "next": [
+      "把 Kora Plus 代打电话定位在没有 App 的场景：诊所、理发店、本地餐馆。",
+      "拿冰箱拍照到 Instacart 购物车的流程，和 Uber、DoorDash 的拍照下单比一比速度和准确度。",
+      "把代理任务用了哪些数据和支付信息讲清楚，信任是明确的拦路虎。"
+     ]
+    }
+   },
+   "id": "2026-11-11-01"
+  },
+  {
+   "date": "2026-11-11",
+   "rank": 2,
+   "topic": "competitors",
+   "priority": "watch",
+   "source": "Tech Between the Lines",
+   "url": "https://techbetweenthelines.com/skylight-calendar-timers",
+   "published": "Nov 10",
+   "title": "Skylight adds free kitchen timers, its ninth update since late August",
+   "summary": "Skylight started rolling out Timers to every Skylight Calendar on Nov 5, free of charge. You tap Timer, enter minutes, and a coloured pie shrinks as time runs out. The reviewer counts nine Skylight updates since late August, most of them in the free tier, including a screensaver that keeps the next two events on screen.",
+   "relevance": "Skylight is shipping small, visible family features every couple of weeks and putting most of them in the free tier. Kora needs a steady drumbeat of release notes too, and timers are a basic kitchen-counter job Kora should cover well.",
+   "take": "Skylight just discovered the egg timer, and announced it like a moon landing. Cheap move, smart move: nine free updates in ten weeks makes owners feel looked after, so Kora should ship and say so just as often.",
+   "runtu": "Honestly, a big timer kids can see is what stops the screen-time fight in my house. Small feature, but it's the one we'd use every night.",
+   "zh": {
+    "published": "11月10日",
+    "title": "Skylight 免费加上厨房计时器，这是 8 月底以来第九次更新",
+    "summary": "Skylight 从 11 月 5 日起给所有 Skylight 日历推送计时器功能，免费。点“计时器”、输入分钟数，屏幕上一块彩色饼图会随时间缩小。评测作者统计，Skylight 自 8 月底以来已有九次更新，大多放在免费版里，其中包括一个屏保，照片轮播时仍显示接下来两项日程。",
+    "relevance": "Skylight 每隔几周就推出一个看得见的小功能，而且大多免费。Kora 也需要稳定节奏地发更新说明；计时器是厨房台面屏的基本功，Kora 得做好。",
+    "take": "Skylight 刚发现了煮蛋计时器，宣传得像登月。招数便宜，但聪明：十周九次免费更新，让老用户觉得有人在管。Kora 也该一样勤快地发、一样大声地说。",
+    "runtu": "说实话，一个孩子看得见的大计时器，就能少吵一架“还能再玩几分钟”。功能小，但我们家每晚都会用。"
+   },
+   "id": "2026-11-11-02"
+  },
+  {
+   "date": "2026-11-11",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "fyi",
+   "source": "inside digital",
+   "url": "https://inside-digital.de/news/alexa-plus-browser-alexa-com-deutschland-early-access",
+   "published": "Nov 11",
+   "title": "Alexa+ opens in the browser in Germany, with plans for calendar entries from photos",
+   "summary": "Amazon's Alexa+ is now usable at Alexa.com in Germany for early-access members, after launching there in the US earlier this year. Chats started on an Echo Show carry over to the browser, smart home controls sit beside the chat, and reminders set on a computer should show up on the Echo Show. Amazon also describes planned features like calendar entries from uploaded documents, emails and images, plus meal plans and shopping lists.",
+   "relevance": "Amazon is turning Alexa+ into one family assistant across Echo Show, phone and laptop, and screenshot-to-calendar is on its list. Kora's screenshot-to-calendar and cross-device sync are about to be compared with a free-with-Prime option.",
+   "take": "Alexa finally escaped the kitchen and moved into your laptop, like a teenager who won't leave. The part to watch is calendar entries from images, Kora's party trick, coming free with Prime, so Kora's version had better be the faster one.",
+   "runtu": "Setting a reminder on my work laptop and seeing it on the kitchen screen at dinner is genuinely handy. I just want to know who else can read it.",
+   "zh": {
+    "published": "11月11日",
+    "title": "Alexa+ 在德国上了网页版，还计划拍照就能加日程",
+    "summary": "亚马逊的 Alexa+ 现在可以在德国通过 Alexa.com 使用，限抢先体验用户；美国今年早些时候已上线。在 Echo Show 上开始的对话能在浏览器里接着聊，智能家居控制就放在聊天框旁边，电脑上设的提醒也会出现在 Echo Show 上。亚马逊还提到计划中的功能：从上传的文件、邮件和图片生成日程，以及膳食计划和购物清单。",
+    "relevance": "亚马逊在把 Alexa+ 做成横跨 Echo Show、手机和电脑的全家助手，截图生成日程也在它的清单上。Kora 的截图转日程和跨设备同步，很快就要和一个 Prime 会员免费的选项正面比较。",
+    "take": "Alexa 终于从厨房搬进了你的笔记本电脑，像个赖着不走的熊孩子。真正要盯的是“图片生成日程”，这可是 Kora 的拿手戏，Prime 会员免费送，Kora 的版本最好更快。",
+    "runtu": "在公司电脑上设个提醒，晚饭时厨房屏上就能看到，确实方便。我只想知道，还有谁能看到。"
+   },
+   "id": "2026-11-11-03"
+  }
+ ]
+}
