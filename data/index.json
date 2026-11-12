@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-12",
+   "number": 18,
+   "headline": "Nori gives its family hub a wake word, and Google lets your personal agent program the house",
+   "brief": "Nori adds hands-free 'Hey Nori' voice to its family display and says 200,000 families already use it, the closest copy yet of Kora's own pitch. Google's Nov 11 Home update lets personal agents create automations and puts images in Gemini's display answers, while the Pixel Drop bundles family controls into a settings hub and lets Gemini phone businesses. Gopuff opens to Grok Bot, Grok Bot's call terms make you the caller of record, and Apple HomeView lands Friday without the EU.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "headline": "Nori 给家庭屏加了唤醒词，Google 让个人代理直接编排家里的自动化",
+    "brief": "Nori 给自家家庭屏加上免提的“Hey Nori”语音，并称已有 20 万个家庭在用，这是目前最像 Kora 的一套说法。Google 11 月 11 日的 Home 更新让个人代理可以新建自动化，Gemini 在屏幕上的回答也开始带图；Pixel Drop 把家庭管理塞进设置页，还让 Gemini 替你给商家打电话。Gopuff 接入 Grok Bot，Grok Bot 的通话条款把你定为“主叫方”，Apple HomeView 周五开卖但不进欧盟。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-11",
    "number": 17,
    "headline": "Uber's AI agents booked four rides in a week, and Skylight answered with an egg timer",

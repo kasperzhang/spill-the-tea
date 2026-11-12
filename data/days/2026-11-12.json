@@ -1,0 +1,173 @@
+{
+ "issue": {
+  "id": "2026-11-12",
+  "number": 18,
+  "headline": "Nori gives its family hub a wake word, and Google lets your personal agent program the house",
+  "brief": "Nori adds hands-free 'Hey Nori' voice to its family display and says 200,000 families already use it, the closest copy yet of Kora's own pitch. Google's Nov 11 Home update lets personal agents create automations and puts images in Gemini's display answers, while the Pixel Drop bundles family controls into a settings hub and lets Gemini phone businesses. Gopuff opens to Grok Bot, Grok Bot's call terms make you the caller of record, and Apple HomeView lands Friday without the EU.",
+  "generated_at": "Daily run",
+  "item_count": 6,
+  "zh": {
+   "headline": "Nori 给家庭屏加了唤醒词，Google 让个人代理直接编排家里的自动化",
+   "brief": "Nori 给自家家庭屏加上免提的“Hey Nori”语音，并称已有 20 万个家庭在用，这是目前最像 Kora 的一套说法。Google 11 月 11 日的 Home 更新让个人代理可以新建自动化，Gemini 在屏幕上的回答也开始带图；Pixel Drop 把家庭管理塞进设置页，还让 Gemini 替你给商家打电话。Gopuff 接入 Grok Bot，Grok Bot 的通话条款把你定为“主叫方”，Apple HomeView 周五开卖但不进欧盟。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-12-01",
+   "date": "2026-11-12",
+   "rank": 1,
+   "topic": "competitors",
+   "priority": "high",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/nori-brings-family-ai-beyond-the-screen-with-voice-first-household-coordination-302934921.html",
+   "published": "Nov 10",
+   "title": "Nori adds a 'Hey Nori' wake word to its family hub, and says 200,000 families already use it",
+   "summary": "Nori, the AI family assistant behind the Nori Family Hub display, added hands-free voice on Nov 10. Any household member can say 'Hey Nori' on the Hub or in the app to check the calendar, add items to the shared grocery list or set reminders, and voice can run multi-step plans tied to the family's shared plan. The company says more than 200,000 families use Nori, households average 9.4 AI interactions a day, the Hub shipped to thousands of families within two months of launch, it has no camera and a hardware mic switch, and in North America the shopping list can be sent to Instacart for checkout.",
+   "relevance": "This is Kora's pitch almost line for line: a shared screen, a wake word, recipe to meal plan to Instacart, on cheaper hardware. Nori is now shipping devices and publishing usage numbers, so Kora needs its own numbers and a clear reason to choose a bigger screen on the wall.",
+   "take": "No camera, a mic switch, Instacart checkout and 9.4 interactions a day: Nori just read Kora's roadmap out loud, then added a wake word. The one thing a small countertop screen cannot fake is a 21-inch calendar the whole family sees from the hallway, so lead with that. Loudly.",
+   "runtu": "A wake word while my hands are in the sink is the only voice feature I ever wanted. The real test is whether the kids use it to add snacks to the list, or just to shout at it.",
+   "deep_analysis": {
+    "what": "Domus Next, the San Francisco company behind Nori, announced 'Hey Nori' voice on Nov 10. It works on the Nori Family Hub, a dedicated shared display with hands-free voice, and in the iOS, Android and web apps. Voice covers calendar checks, shared grocery lists, reminders and multi-step plans. The release also restates Nori's recipe flow: a link, video or photo becomes a saved recipe, goes into a meal plan, and its ingredients move to a shared shopping list that North American users can send to Instacart. Nori says it has over 200,000 families, 9.4 AI interactions per household per day, and a Google Play editorial feature.",
+    "impact": "Nori is the first direct competitor to put voice, meals, lists and Instacart checkout on one family screen and back it with usage data. Its privacy story is concrete: no camera, a physical mic cutoff. For Kora, the differentiators shrink to screen size and wall mounting, calendar depth across Google, Apple and Outlook, chores and the reward shop, screenshot-to-calendar, receipts, and Kora Plus phone calls. Reviewers who already frame Nori as the cheap AI option will now ask what Kora does that Nori cannot.",
+    "next": [
+     "Publish Kora's own engagement number, such as interactions per household per day, so Nori's 9.4 is not the only figure in the market.",
+     "Put a side-by-side on the website: Hey Kora versus Hey Nori on calendar, meals, chores, rewards, phone calls and privacy controls.",
+     "Decide on a hardware mic switch or an equally clear privacy control for the 15-inch model, since Nori is making that a headline feature."
+    ]
+   },
+   "zh": {
+    "published": "11月10日",
+    "title": "Nori 给家庭屏加上“Hey Nori”唤醒词，并称已有 20 万个家庭在用",
+    "summary": "做 Nori Family Hub 家庭屏的 AI 家庭助手 Nori，11 月 10 日上线了免提语音。家里任何人对着 Hub 或 App 说“Hey Nori”，就能查日历、往共享购物清单里加东西、设提醒，语音还能执行和全家计划挂钩的多步任务。公司称 Nori 用户已超过 20 万个家庭，每户平均每天 9.4 次 AI 互动，Hub 上市两个月内已发货给数千个家庭；设备不带摄像头，有硬件级麦克风开关；在北美，购物清单可以直接发到 Instacart 结账。",
+    "relevance": "这几乎是逐句照着 Kora 的卖点来的：共享屏幕、唤醒词、食谱变膳食计划再到 Instacart，硬件还更便宜。Nori 已经在发货、在公布使用数据，Kora 也得拿出自己的数字，并讲清楚为什么要选一块挂在墙上的大屏。",
+    "take": "没摄像头、有麦克风开关、Instacart 结账、每天 9.4 次互动：Nori 把 Kora 的路线图当众念了一遍，还顺手加了个唤醒词。小桌面屏唯一装不出来的，是全家从走廊就能看见的 21 寸日历，所以把这点放最前面。大声点。",
+    "runtu": "手泡在洗碗池里的时候喊一声就能加东西，这是我唯一真想要的语音功能。真正的考验是孩子会不会用它往清单里加零食，还是只对着它吼。",
+    "deep_analysis": {
+     "what": "Nori 背后的旧金山公司 Domus Next 在 11 月 10 日发布了“Hey Nori”语音。它能在 Nori Family Hub（一块带免提语音的共享家庭屏）以及 iOS、Android 和网页版 App 上使用，覆盖查日历、共享购物清单、提醒和多步计划。公告还重申了 Nori 的食谱流程：链接、视频或照片变成保存的食谱，加进膳食计划，食材进入共享购物清单，北美用户可以把清单发到 Instacart。Nori 称用户超过 20 万个家庭，每户每天 9.4 次 AI 互动，还被 Google Play 编辑推荐。",
+     "impact": "Nori 是第一个把语音、膳食、清单和 Instacart 结账放在同一块家庭屏上，并拿使用数据背书的直接竞品。它的隐私故事也很具体：没摄像头、物理切断麦克风。对 Kora 来说，差异点收窄到屏幕尺寸和挂墙、Google/Apple/Outlook 三家日历的深度、家务和奖励商店、截图变日程、小票记录，以及 Kora Plus 代打电话。已经把 Nori 当成“便宜的 AI 方案”的评测者，接下来会问 Kora 有什么是 Nori 做不到的。",
+     "next": [
+      "公布 Kora 自己的使用数据，比如每户每天的互动次数，别让 Nori 的 9.4 成为市场上唯一的数字。",
+      "在官网放一张对照表：Hey Kora 和 Hey Nori 在日历、膳食、家务、奖励、打电话和隐私控制上各自怎么样。",
+      "决定 15 寸机型要不要加硬件麦克风开关，或者同样直白的隐私控制，Nori 已经把这点当成头条功能。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-12-02",
+   "date": "2026-11-12",
+   "rank": 2,
+   "topic": "bigtech",
+   "priority": "high",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
+   "published": "Nov 11",
+   "title": "Google Home's Nov 11 update puts images in Gemini's display answers and lets your agent write automations",
+   "summary": "Google's Nov 11 Home update gives Gemini for Home Early Access users visual answers on smart displays, with relevant images when helpful, and a short clarifying question such as 'which bedroom?' when a smart home command is ambiguous. Timers, alarms and broadcasts respond faster, and you can edit a voice message before it sends. Google Home MCP, also Early Access, now lets a personal AI agent view, create and update home automations and control more device types including kitchen appliances, though agents cannot delete routines and sensitive security actions stay blocked.",
+   "relevance": "The kitchen display is turning into a surface where an outside agent can program the house. Hey Kora will be judged on the same basics Google is still fixing, fast timers and clarifying questions, and Kora's calendar and chores could soon be something a family's agent wants to read and write too.",
+   "take": "Google needed a release to make Gemini ask 'which bedroom?' instead of guessing, and it still ships behind Early Access. The line that matters is MCP: the agent now writes the routines, so whoever owns the family's data model owns the house. Expose Kora's calendar and chores to agents before someone else's hub does it for you.",
+   "runtu": "Pictures in the answer are nice, but an agent quietly rewriting my bedtime routine is not. If Kora ever lets an agent touch the chore chart, show me what changed, every single time.",
+   "zh": {
+    "published": "11月11日",
+    "title": "Google Home 11 月 11 日更新：Gemini 在屏幕上的回答带图了，你的代理还能直接写自动化",
+    "summary": "Google 11 月 11 日的 Home 更新里，Gemini for Home 的 Early Access 用户在智能屏上提问时，回答会在合适的时候配上相关图片；智能家居指令有歧义时，Gemini 会反问一句“哪个卧室？”而不是瞎猜。计时器、闹钟和广播响应更快，语音消息发出前还能改。同样处于 Early Access 的 Google Home MCP，现在允许个人 AI 代理查看、新建和修改家里的自动化，可控设备也扩展到厨房电器等，但代理不能删除例程，涉及安全的敏感操作仍被禁止。",
+    "relevance": "厨房里的屏幕正在变成外部代理可以“编程”整个家的入口。Hey Kora 会被拿来和 Google 还在修的基本功比，比如计时器够不够快、会不会反问；而 Kora 的日历和家务，很快也可能成为家里的代理想读写的对象。",
+    "take": "Google 得专门发个版本，Gemini 才学会问“哪个卧室？”而不是乱猜，而且还只给 Early Access。真正要紧的是 MCP 那一行：代理现在能自己写例程，谁握着这个家的数据模型，谁就握着这个家。趁别人的 Hub 还没替你动手，先把 Kora 的日历和家务开放给代理。",
+    "runtu": "回答里带图挺好，可一个代理悄悄改掉我家睡觉流程就不好了。要是 Kora 哪天让代理碰家务表，每一次都得让我看到改了什么。"
+   }
+  },
+  {
+   "id": "2026-11-12-03",
+   "date": "2026-11-12",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "Android Sage",
+   "url": "https://www.androidsage.com/2026/11/11/november-2026-pixel-drop/",
+   "published": "Nov 11",
+   "title": "Google's November Pixel Drop adds a Family Hub to settings and lets Gemini phone businesses for you",
+   "summary": "The November 2026 Pixel Drop adds a top-level Family Hub to Pixel settings for anyone in a Google family group, pulling location sharing, parental controls, shared household calendars, family password vaults and pooled Google One storage into one panel on Pixel 6 and newer. Gemini can also call businesses for you in a public beta on Pixel 10 and 11, navigating phone menus, waiting on hold and showing a live transcript you can take over at any time. Call Screen now has Gemini ask unknown callers why they are calling. The rollout is staged over the coming weeks.",
+   "relevance": "Google is bundling the family's calendar, location and controls at the operating system level, the same 'one place for the family' promise Kora makes on the wall. AI phone calls are now a built-in Pixel feature, so Kora Plus calls need to win on knowing the family's schedule and preferences, not on the trick itself.",
+   "take": "Google's answer to a family hub is a settings page. Apple shipped Family Sharing years ago, and nobody has ever called that a product. The sting is the free Gemini phone call on a Pixel: Kora Plus calling just lost its novelty, so sell the context, not the dial tone.",
+   "runtu": "A settings page won't get my family looking at the same calendar, a screen on the wall might. But Gemini ringing the clinic from my own phone while I watch the transcript is exactly the help I'd try this week.",
+   "zh": {
+    "published": "11月11日",
+    "title": "Google 11 月 Pixel Drop：设置里多了个“家庭中心”，Gemini 还能替你给商家打电话",
+    "summary": "2026 年 11 月的 Pixel Drop 在 Pixel 设置里新增了顶级入口 Family Hub，面向加入了 Google 家庭群组的用户，把位置共享、家长控制、家庭共享日历、家庭密码库和合用的 Google One 存储放进同一个面板，支持 Pixel 6 及更新机型。Gemini 还能在 Pixel 10 和 11 上以公测形式替你给商家打电话：穿过语音菜单、排队等候，并显示实时文字记录，你随时可以接管。来电筛选现在也由 Gemini 先问陌生来电有什么事。更新将在未来几周分批推送。",
+    "relevance": "Google 把家庭的日历、位置和管理权限打包进了系统层，这和 Kora 挂在墙上承诺的“全家一个地方”是同一句话。AI 打电话已经成了 Pixel 的自带功能，所以 Kora Plus 代打电话要赢在懂这家人的日程和偏好，而不是打电话这件事本身。",
+    "take": "Google 对“家庭中心”的回答，是一个设置页。Apple 几年前就做了家人共享，从没人把它叫产品。真正扎人的是 Pixel 上免费的 Gemini 打电话：Kora Plus 的代打电话刚失去了新鲜感，所以卖的得是上下文，不是拨号音。",
+    "runtu": "一个设置页不会让我全家看同一本日历，墙上的屏幕也许能。可用我自己的手机让 Gemini 给诊所打电话、我在旁边看文字记录，这恰恰是我这周就想试的。"
+   }
+  },
+  {
+   "id": "2026-11-12-04",
+   "date": "2026-11-12",
+   "rank": 4,
+   "topic": "grocery",
+   "priority": "watch",
+   "source": "Supermarket News",
+   "url": "https://www.supermarketnews.com/grocery-technology/gopuff-is-now-connected-through-grok-bot",
+   "published": "Nov 11",
+   "title": "Gopuff plugs into Grok Bot, so a chat can order groceries for 15-minute delivery",
+   "summary": "Gopuff said on Nov 11 that customers can shop through Grok Bot, SpaceXSI's AI agent, after linking their account with 'Connect to Gopuff'. Users ask for a weekly grocery order, movie-night snacks or cold medicine, review the cart, pick a payment method and check out inside the chat, and Grok Bot shows the total and estimated delivery time. Gopuff says inventory, pricing and promotions come from the same systems as its app, delivery is as fast as 15 minutes, and its order accuracy rate is 99.5%.",
+   "relevance": "Another retailer chooses to be reachable from inside a general assistant instead of only its own app, a week after Amazon shut agents out. Kora's grocery flow sends a plan to Instacart, and families will soon expect any assistant on the counter to finish the order rather than hand them a cart.",
+   "take": "Gopuff is 'first and only' on Grok Bot a week after Amazon said agents aren't welcome and Uber counted four rides. One of them is wrong. Watch the accuracy number: 99.5% on tissues is easy, on a weekly shop with substitutions it is the whole game.",
+   "runtu": "Cold medicine and tissues at 9pm without opening an app, yes please. A whole weekly shop by chat, no: I need to see the substitutions before I pay.",
+   "zh": {
+    "published": "11月11日",
+    "title": "Gopuff 接入 Grok Bot，聊天里就能下单，15 分钟送达",
+    "summary": "Gopuff 11 月 11 日宣布，用户在 Grok Bot（SpaceXSI 的 AI 代理）里说一句“Connect to Gopuff”绑定账号后，就能直接购物。你可以要一份每周采购、电影之夜的零食或者感冒药，在对话里检查购物车、选支付方式并结账，Grok Bot 会显示总价和预计送达时间。Gopuff 称库存、价格和促销与自家 App 同源，最快 15 分钟送达，订单准确率 99.5%。",
+    "relevance": "又一家零售商选择让通用助手直接触达自己，而不只守着自家 App，离 Amazon 把代理拒之门外才一周。Kora 的买菜流程是把计划发给 Instacart，而家庭很快会期待台面上的任何助手都能把单下完，而不是只递一个购物车。",
+    "take": "Amazon 刚说代理不受欢迎、Uber 刚数出 4 趟车，Gopuff 就在 Grok Bot 上当了“第一且唯一”。总有一方是错的。盯着准确率那个数：纸巾 99.5% 很容易，一周采购加替换商品才是全部考题。",
+    "runtu": "晚上九点不用打开 App 就能买感冒药和纸巾，好啊。整周的菜靠聊天买，不行：付钱之前我得先看清替换成了什么。"
+   }
+  },
+  {
+   "id": "2026-11-12-05",
+   "date": "2026-11-12",
+   "rank": 5,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/grok-bot-calls-customer-service-but-humans-remain-on-the-hook/",
+   "published": "Nov 9",
+   "title": "Grok Bot will phone your cable company, but you are the 'caller of record'",
+   "summary": "PYMNTS reports that Grok Bot's phone feature, available from the $30 a month tier, calls businesses from a temporary SpaceXSI number, waits on hold, negotiates bills and books appointments while the user watches a live transcript and answers questions the agent cannot. The terms make the customer 'the caller of record and solely responsible' for each call, including telemarketing and call-recording law, and each call announces itself as a virtual assistant. Users report a cable bill cut from $84 to $45 and a same-day pediatric appointment, but also a rep who refused to cancel a subscription once an AI was on the line, and long holds drain the weekly usage allowance.",
+   "relevance": "Kora Plus sells the same job: AI calls for reservations and inquiries. The fine print here shows what families will ask, whose number shows up, who is liable, whether the call says it is an AI, and whether a 51-minute hold costs extra. Plain answers to those are a selling point.",
+   "take": "SpaceXSI's agent cuts your Comcast bill and its lawyers cut you loose: 'caller of record' means the robot talks and you carry the Telephone Consumer Protection Act. Write Kora's call terms in one plain paragraph, families will read that before any feature list.",
+   "runtu": "Forty dollars a month off the cable bill would get me to try it tonight. My real worry is the pediatric office hearing 'this is a virtual assistant' and hanging up, so tell me right away when a call failed.",
+   "zh": {
+    "published": "11月9日",
+    "title": "Grok Bot 能替你给有线电视公司打电话，但“主叫方”是你",
+    "summary": "PYMNTS 报道，Grok Bot 的打电话功能从每月 30 美元档开始提供：它用 SpaceXSI 分配的临时号码致电商家，排队等候、砍账单、约预约，用户在旁边看实时文字记录，代理答不上来的问题由用户补答。条款把用户定为“主叫方并独自承担责任”，包括电话营销和通话录音相关法律，每通电话都会表明自己是虚拟助理。有用户把有线电视账单从每月 84 美元砍到 45 美元，还有人当天约到了儿科；但也有客服一听出是 AI 就拒绝取消订阅，长时间等候还会耗掉每周的用量额度。",
+    "relevance": "Kora Plus 卖的正是同一件事：AI 代打电话做预订和咨询。这些小字告诉我们家庭会问什么：显示的是谁的号码、出了事谁负责、电话会不会说明自己是 AI、等了 51 分钟要不要额外付费。把这些答得明明白白，本身就是卖点。",
+    "take": "SpaceXSI 的代理帮你砍 Comcast 的账单，它的律师则把你推出门外：“主叫方”意思是机器人开口、法律责任你扛。把 Kora 的通话条款写成一段大白话，家庭会先读这一段，再看功能列表。",
+    "runtu": "每月省 40 美元有线电视费，我今晚就愿意试。我真正担心的是儿科诊所一听“这是虚拟助理”就挂电话，所以通话失败请马上告诉我。"
+   }
+  },
+  {
+   "id": "2026-11-12-06",
+   "date": "2026-11-12",
+   "rank": 6,
+   "topic": "bigtech",
+   "priority": "fyi",
+   "source": "MacRumors",
+   "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/",
+   "published": "Nov 9",
+   "title": "Apple HomeView goes on sale Friday at $299, and skips the EU entirely",
+   "summary": "MacRumors says HomeView and the fourth-generation Apple TV 4K both launch Friday Nov 13 after pre-orders since mid-October. HomeView is a 7-inch square display with an A18 chip and Siri AI, in tabletop and wall-mounted models at $299, and it recognizes up to six people by face with a personal Home Screen for each. It will not be sold in the European Union because Siri AI is unavailable there under regulatory constraints; Apple says it is working with the EU but gave no timeline.",
+   "relevance": "From Friday, Apple's screen is in homes in Kora's two markets, Canada and the US, at a price below Kora's entry model. It has no shared calendar or chores, so the comparison families make will be 'Apple's pretty hub' versus 'the one that runs the house'.",
+   "take": "Six faces, no chore chart, no EU: Apple built a very nice doorbell panel for the countries where Siri is allowed to talk. The clock starts Friday, so by Monday there should be a HomeView on the team's desk and a one-page 'what it can't do' sheet for sales.",
+   "runtu": "A $299 Apple screen will be on a lot of counters by Christmas, mine too if someone gifts it. But it won't tell me who has hockey on Tuesday, and that is the only question I ask a kitchen screen.",
+   "zh": {
+    "published": "11月9日",
+    "title": "Apple HomeView 周五开卖，299 美元，完全不进欧盟",
+    "summary": "MacRumors 称，HomeView 和第四代 Apple TV 4K 都在 11 月 13 日周五上市，10 月中旬起已开放预订。HomeView 是一块 7 英寸方形屏，搭载 A18 芯片和 Siri AI，有桌面和壁挂两种版本，售价 299 美元，能通过人脸识别最多六个人，每人有自己的主屏。它不会在欧盟销售，因为 Siri AI 受监管限制在当地不可用；Apple 说正在和欧盟沟通，但没有给出时间表。",
+    "relevance": "从周五起，Apple 的屏幕就会进入 Kora 的两个市场，加拿大和美国，价格还低于 Kora 的入门机型。它没有共享日历也没有家务功能，所以家庭会拿来比的是“Apple 那块好看的 Hub”和“真正管家的那块屏”。",
+    "take": "认六张脸、没有家务表、不进欧盟：Apple 给允许 Siri 开口的国家做了一块很漂亮的门铃面板。周五开始计时，下周一团队桌上应该有一台 HomeView，销售手里应该有一页“它做不到什么”。",
+    "runtu": "299 美元的 Apple 屏幕到圣诞节会出现在很多台面上，要是有人送我，我家也会有。但它不会告诉我周二谁要去打冰球，而这是我对厨房屏幕唯一的问题。"
+   }
+  }
+ ]
+}
