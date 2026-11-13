@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-13",
+   "number": 19,
+   "headline": "HomeView hits shelves today, and a reviewer could read her kid's texts on it",
+   "brief": "Apple's $299 HomeView (C$429) goes on sale today with strong reviews for hardware and family profiles, but The Verge found a nearby unlocked phone can expose another family member's messages. Meta's Muse now phones US businesses for paying subscribers, and a third party sells call-making to any agent. Instacart puts 20,000 Dollar General stores on 30-minute delivery, Greenlight posts its own HomeView comparison, and Maple's shutdown clock has seven weeks left.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "headline": "HomeView 今日开售，评测人在上面读到了自家孩子的短信",
+    "brief": "苹果 299 美元（加币 429）的 HomeView 今天上市，硬件和家庭档案好评居多，但 The Verge 发现只要附近有一部已解锁的手机，就能看到另一位家庭成员的短信。Meta 的 Muse 开始替美国付费用户给商家打电话，另有第三方把“打电话”能力卖给任何代理。Instacart 把两万家 Dollar General 门店接入 30 分钟送达，Greenlight 自己发了 HomeView 对比页，Maple 关停倒计时还剩七周。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-12",
    "number": 18,
    "headline": "Nori gives its family hub a wake word, and Google lets your personal agent program the house",

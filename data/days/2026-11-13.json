@@ -1,0 +1,173 @@
+{
+ "issue": {
+  "id": "2026-11-13",
+  "number": 19,
+  "headline": "HomeView hits shelves today, and a reviewer could read her kid's texts on it",
+  "brief": "Apple's $299 HomeView (C$429) goes on sale today with strong reviews for hardware and family profiles, but The Verge found a nearby unlocked phone can expose another family member's messages. Meta's Muse now phones US businesses for paying subscribers, and a third party sells call-making to any agent. Instacart puts 20,000 Dollar General stores on 30-minute delivery, Greenlight posts its own HomeView comparison, and Maple's shutdown clock has seven weeks left.",
+  "generated_at": "Daily run",
+  "item_count": 6,
+  "zh": {
+   "headline": "HomeView 今日开售，评测人在上面读到了自家孩子的短信",
+   "brief": "苹果 299 美元（加币 429）的 HomeView 今天上市，硬件和家庭档案好评居多，但 The Verge 发现只要附近有一部已解锁的手机，就能看到另一位家庭成员的短信。Meta 的 Muse 开始替美国付费用户给商家打电话，另有第三方把“打电话”能力卖给任何代理。Instacart 把两万家 Dollar General 门店接入 30 分钟送达，Greenlight 自己发了 HomeView 对比页，Maple 关停倒计时还剩七周。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-13-01",
+   "date": "2026-11-13",
+   "rank": 1,
+   "topic": "bigtech",
+   "priority": "high",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2313999/apple-homeview-review/",
+   "published": "Nov 12",
+   "title": "Apple HomeView goes on sale today: reviewers love the hardware, and one could read her daughter's messages",
+   "summary": "Apple's 7-inch HomeView launches today at $299 in the US and C$429 in Canada, with a wall mount sold separately. Engadget scored it 8.4 and praised the sound, design and face and voice profiles for family members, but said it leans heavily on a nearby iPhone and is weak for video and third-party apps. The Verge gave it 7 out of 10 and reported that face recognition plus a nearby unlocked phone let the reviewer read her daughter's texts. Six Colors kept it in the kitchen and returned an Echo Show and a Nest Hub, while noting buggy apps and inflexible layouts.",
+   "relevance": "A premium kitchen screen is now on sale in Kora's two markets, with Siri recipe mode, calendar widgets and per-person profiles. Its gaps are Kora's pitch: no shared family calendar view, no chores or rewards, iPhone-only, and a fresh privacy scare about kids' messages showing up on a shared screen.",
+   "take": "Apple built a beautiful 7-inch window into one iPhone at a time, then called it a family device. The one thing reviewers agree it does well on launch day is leak a teenager's texts. Kora's shared screen should say out loud what it never shows: other people's DMs.",
+   "runtu": "Seven inches on the counter is a nice photo frame, not a week planner for a family of five. What matters at home this week is who sees what, and a kid finding their messages on the kitchen wall is a dinner-table fight nobody needs.",
+   "deep_analysis": {
+    "what": "Apple HomeView reaches stores and doorsteps on Nov 13. It is a 7-inch square Liquid Retina touchscreen on a speaker base, or a wall-mounted version at the same $299 price that needs a separate mount from $59.95. In Canada both models are C$429, with English Siri AI at launch and Canadian French promised later. It recognizes up to six family members by face and voice, mirrors apps from a nearby iPhone or iPad the way CarPlay does, and shows personal Siri data only when that person's phone is nearby and recently unlocked. Engadget rated it 8.4 of 10 for design, category-leading sound and family usefulness, with recipes from Safari opening in a cooking mode with ingredient checklists and timers. The Verge scored it 7 of 10, called it a new favorite smart display, and reported that the reviewer could read her daughter's messages on it. PCMag gave it an Editors' Choice as the best smart display for iPhone-centric homes. Six Colors found the seams: parts of watchOS, StandBy, iOS and CarPlay stitched together, buggy third-party audio, Handoff prompts that fire too readily, and face layouts that cannot be rearranged.",
+    "impact": "HomeView sets the new reference price and design bar for a kitchen display in the US and Canada. Families who are all-Apple get strong audio, FaceTime, Home control and per-person profiles with no subscription. But it is a personal device that happens to sit in a shared room: every reviewer notes the iPhone dependence, Greenlight's own comparison lists shared family calendar, chores and Android as unsupported, and the launch-week story is a parent reading a child's texts. That is the exact fear Kora's design has to answer, because a 15, 21 or 32-inch screen on the wall is far more visible than a 7-inch one on the counter. Expect buyers to compare Kora against a $299 Apple product on price, and against Skylight and Hearth on calendar depth.",
+    "next": [
+     "Write the privacy answer now: on Kora, personal messages never appear on the shared screen, and each person's private data stays in their phone. Put it on the product page and in onboarding.",
+     "Publish a plain comparison: HomeView versus Kora on shared calendar, chores and rewards, meal planning with Instacart, Android support, screen size and wall mounting.",
+     "Watch Apple's December shipping backlog and Black Friday pricing from Skylight and Amazon; a $299 anchor changes what a 15-inch Kora at $399 CAD has to justify."
+    ]
+   },
+   "zh": {
+    "published": "11月12日",
+    "title": "苹果 HomeView 今日开售：评测盛赞硬件，但有人在上面读到了女儿的短信",
+    "summary": "苹果 7 英寸 HomeView 今天上市，美国 299 美元，加拿大 429 加币，壁挂支架另购。Engadget 打出 8.4 分，称赞音质、设计以及按脸和声音识别家庭成员的档案，但指出它严重依赖附近的 iPhone，视频和第三方应用都弱。The Verge 给 7 分，并报告人脸识别加上附近一部已解锁手机，让评测人读到了自己女儿的短信。Six Colors 把它留在了厨房，退掉了 Echo Show 和 Nest Hub，但也提到应用有 bug、版式不能调整。",
+    "relevance": "一块高端厨房屏现在在 Kora 的两个市场同时开卖，带 Siri 菜谱模式、日历小组件和按人档案。它的短板正是 Kora 的卖点：没有共享家庭日历视图，没有家务和奖励，只支持 iPhone，还在首发周闹出孩子短信出现在共享屏上的隐私风波。",
+    "take": "苹果造了一块精美的 7 英寸窗户，一次只能照进一部 iPhone，然后管它叫家庭设备。首发日评测人唯一一致认可的功能，是把青少年的短信泄露出来。Kora 的共享屏应该大声说出它永远不会显示的东西：别人的私信。",
+    "runtu": "台面上七英寸，是个不错的相框，不是五口之家的周计划表。这周对家里真正要紧的是谁能看到什么，孩子发现自己的短信挂在厨房墙上，那是一场谁都不想要的饭桌争吵。",
+    "deep_analysis": {
+     "what": "Apple HomeView 于 11 月 13 日到店到户。它是一块 7 英寸方形 Liquid Retina 触摸屏，坐在音箱底座上；壁挂版同价 299 美元，但需另购 59.95 美元起的支架。加拿大两款均为 429 加币，首发只有英文 Siri AI，加拿大法语稍后更新。它能按脸和声音识别最多六位家庭成员，像 CarPlay 一样镜像附近 iPhone 或 iPad 上的应用，只有在本人手机在附近且刚解锁时才显示个人 Siri 数据。Engadget 给 8.4 分，称赞设计、同类最佳的音质和家庭实用性，Safari 里的菜谱可以进入带食材清单和计时器的烹饪模式。The Verge 给 7 分，称它是自己新的最爱智能屏，同时报告评测人能在上面读到女儿的短信。PCMag 授予编辑之选，称其为“以 iPhone 为中心的家庭的最佳智能屏”。Six Colors 指出了接缝：watchOS、StandBy、iOS 和 CarPlay 的拼接，第三方音频有 bug，Handoff 提示太容易弹出，表盘版式不能重排。",
+     "impact": "HomeView 为美加两地的厨房屏定下了新的参考价和设计标杆。全苹果家庭能免订阅获得好音质、FaceTime、家居控制和按人档案。但它本质是一台放在公共空间的个人设备：所有评测都提到对 iPhone 的依赖，Greenlight 自己的对比页把共享家庭日历、家务和安卓列为不支持，首发周的新闻则是家长读到了孩子的短信。这正是 Kora 的设计必须回答的恐惧，因为挂在墙上的 15、21 或 32 英寸屏幕，比台面上的 7 英寸显眼得多。预计买家会拿 299 美元的苹果产品比价格，拿 Skylight 和 Hearth 比日历深度。",
+     "next": [
+      "现在就写好隐私答案：在 Kora 上，个人消息永远不会出现在共享屏上，每个人的私密数据留在自己手机里。写进产品页和新手引导。",
+      "发布一份直白的对比：HomeView 与 Kora 在共享日历、家务与奖励、带 Instacart 的膳食规划、安卓支持、屏幕尺寸和壁挂上的差别。",
+      "盯住苹果 12 月的发货积压，以及 Skylight 和亚马逊的黑五定价；299 美元的锚点改变了 399 加币的 15 英寸 Kora 需要证明的东西。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-13-02",
+   "date": "2026-11-13",
+   "rank": 2,
+   "topic": "agents",
+   "priority": "high",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+   "published": "Nov 12",
+   "title": "Meta's Muse now phones US businesses for you, but only if you pay $20 a month",
+   "summary": "Meta opened Muse's phone-calling feature to all paying US subscribers on Nov 12, after a small test that began in September. Plans start at $20 a month for 500 million tokens a week, or $100 a month for 3 billion. Meta's chief AI officer pitched it for calls to cable companies, the DMV and restaurants without online booking. TechCrunch notes Instinct and Google's Gemini offer similar calling, and that many receptionists hang up once they realize an AI is on the line.",
+   "relevance": "Kora Plus sells AI phone calls for reservations and inquiries to families. Meta just put the same feature behind a $20 monthly plan with more than 10 million Muse users, which sets a public price and raises the odds that businesses screen AI callers.",
+   "take": "Meta spent a decade teaching people to never answer the phone, and now charges $20 a month to make the calls for them. The catch is on the other end: receptionists are already hanging up on robots. Kora's call feature wins on the callback, not the dial tone.",
+   "runtu": "Twenty dollars a month to avoid calling the dentist sounds silly until it is 4 p.m. and the dentist closes at 5. What I want to know is whether the restaurant actually wrote the booking down, so a call log with the confirmation beats any token count.",
+   "zh": {
+    "published": "11月12日",
+    "title": "Meta 的 Muse 开始替你给美国商家打电话，但每月要付 20 美元",
+    "summary": "Meta 于 11 月 12 日向所有美国付费用户开放 Muse 的打电话功能，此前从 9 月起只在小范围测试。套餐每月 20 美元起，含每周 5 亿 token；重度用户 100 美元换 30 亿。Meta 首席 AI 官把它推销给打有线电视公司、车管所和没有在线预订的餐厅。TechCrunch 指出 Instinct 和谷歌 Gemini 也有类似功能，而且很多前台一听出是 AI 就挂断。",
+    "relevance": "Kora Plus 向家庭出售 AI 代打电话做预订和咨询。Meta 刚把同样的功能放进 20 美元月费里，面向一千多万 Muse 用户，等于公开了一个定价，也提高了商家筛掉 AI 来电的概率。",
+    "take": "Meta 花了十年教大家别接电话，现在每月收 20 美元替他们打电话。坑在电话那头：前台已经开始挂机器人的电话了。Kora 的打电话功能要赢在回电确认，不是拨号音。",
+    "runtu": "每月 20 美元就为了不用给牙医打电话，听着挺傻，直到下午四点而牙医五点下班。我真正想知道的是餐厅到底有没有把预订记下来，所以一条带确认的通话记录，比任何 token 数都管用。"
+   }
+  },
+  {
+   "id": "2026-11-13-03",
+   "date": "2026-11-13",
+   "rank": 3,
+   "topic": "competitors",
+   "priority": "watch",
+   "source": "Greenlight",
+   "url": "https://greenlight.com/learning-center/reviews/apple-homeview-review",
+   "published": "Oct 26",
+   "title": "Greenlight posts its own HomeView comparison: no shared calendar, no chores, no Android",
+   "summary": "Greenlight's learning center runs a 'who should get one' page on Apple HomeView, written by Greenlight staff from Apple's announced specs. Its table lists HomeView at $299 for 7 inches with the wall mount extra, against Greenlight Family Hub at $199 for 10.1 inches or $299 for 15.6 inches plus a $9.99 monthly Family Hub+ tier. It marks shared family calendar, chores and rewards, allowance, Android and arrival alerts as unsupported on HomeView, and smart home control and video calls as unsupported on Family Hub. It also points to Echo Show 21 at $499.99 and Skylight from $169.99.",
+   "relevance": "A direct competitor is already using Apple's launch to frame the category as 'organizer versus smart display'. Kora can own the same frame with a bigger screen and more of the organizer checklist, but only if its comparison page exists and ranks.",
+   "take": "Greenlight wrote a review of a product it had not touched, graded it against its own spec sheet, and still got the headline right: Apple shipped a smart display, not a family organizer. The lesson is not the honesty, it is the SEO. Get Kora's version indexed before the holiday searches start.",
+   "runtu": "Fair or not, this page lists the things a family actually asks about: shared calendar, chores, allowance, Android. If Kora ticks those boxes, say so in one table, because that is how I would shop.",
+   "zh": {
+    "published": "10月26日",
+    "title": "Greenlight 自己发了 HomeView 对比页：没有共享日历、没有家务、不支持安卓",
+    "summary": "Greenlight 的学习中心刊登了一篇 Apple HomeView“谁该买”的文章，由 Greenlight 员工根据苹果公布的规格撰写。对比表里 HomeView 是 299 美元 7 英寸、壁挂另购，Greenlight Family Hub 则是 199 美元 10.1 英寸或 299 美元 15.6 英寸，外加每月 9.99 美元的 Family Hub+。文中把共享家庭日历、家务与奖励、零花钱、安卓和到家提醒标为 HomeView 不支持，把智能家居控制和视频通话标为 Family Hub 不支持。文章还顺带提到 499.99 美元的 Echo Show 21 和 169.99 美元起的 Skylight。",
+    "relevance": "一个直接竞争对手已经借苹果的发布把品类定义成“家庭管理器 vs 智能屏”。Kora 可以用更大的屏幕和更全的管理器清单占住同一个框架，前提是 Kora 自己的对比页得先存在，还得能被搜到。",
+    "take": "Greenlight 评测了一款自己没摸过的产品，拿自家规格表给它打分，标题却没说错：苹果发的是智能屏，不是家庭管理器。这里的教训不是诚实，是 SEO。赶在假期搜索潮之前，把 Kora 的版本收录进去。",
+    "runtu": "公不公平另说，这页列的正是一家人真正会问的东西：共享日历、家务、零花钱、安卓。Kora 要是都能打钩，就用一张表说清楚，因为我就是这么买东西的。"
+   }
+  },
+  {
+   "id": "2026-11-13-04",
+   "date": "2026-11-13",
+   "rank": 4,
+   "topic": "grocery",
+   "priority": "watch",
+   "source": "The Shelby Report",
+   "url": "https://theshelbyreport.com/2026/11/10/dollar-general-popshelf-go-live-on-instacart-nationwide/",
+   "published": "Nov 10",
+   "title": "Instacart adds 20,000 Dollar General stores with delivery in as little as 30 minutes",
+   "summary": "Dollar General and its pOpshelf banner went live on the Instacart Marketplace nationwide on Nov 10, covering about 20,000 stores in 48 states. Orders can arrive in as little as 30 minutes and span groceries, pantry staples, household essentials, health and beauty, and baby, pet and seasonal items. A $10 introductory offer applies to a first qualifying $50 order through Dec 31. Instacart says Dollar General joins more than 2,200 retail banners on the marketplace.",
+   "relevance": "Kora's meal plans check out through Instacart, and this adds the largest low-price store network in the US to that checkout. For budget-minded families, a cheaper fill-in order for milk, diapers and pantry basics now lands in the same cart flow.",
+   "take": "Instacart just bolted a 20,000-store discount chain onto the app a week after agreeing to be swallowed by DoorDash. Nothing says 'we are worth $17 billion' like diapers in 30 minutes. For Kora, the useful bit is that the budget option now lives in the cart you already connect to.",
+   "runtu": "Half my grocery list is cheap staples I forget until bedtime, so a 30-minute Dollar General run from the couch is real. Just make sure the meal plan can pick the cheaper store without me rebuilding the whole order.",
+   "zh": {
+    "published": "11月10日",
+    "title": "Instacart 接入两万家 Dollar General 门店，最快 30 分钟送达",
+    "summary": "Dollar General 及其 pOpshelf 品牌于 11 月 10 日在 Instacart Marketplace 全美上线，覆盖 48 个州约两万家门店。订单最快 30 分钟送达，品类包括食品杂货、常备食材、家居用品、个护美妆，以及母婴、宠物和季节性商品。首单满 50 美元有 10 美元优惠，截至 12 月 31 日。Instacart 称 Dollar General 加入后，平台零售品牌已超过 2200 个。",
+    "relevance": "Kora 的膳食计划通过 Instacart 结账，这次等于把美国最大的低价门店网络接进了同一个结账流程。对精打细算的家庭来说，牛奶、尿布和常备食材的补货单，现在能以更低价格走进同一个购物车。",
+    "take": "Instacart 在同意被 DoorDash 收购一周后，又把两万家折扣店焊进了 app。没有什么比“尿布 30 分钟送到”更能证明“我们值 170 亿美元”。对 Kora 有用的一点是：省钱选项现在就在你已经接好的那个购物车里。",
+    "runtu": "我购物单上一半是临睡前才想起来的便宜日用品，所以躺在沙发上 30 分钟买到 Dollar General 的东西，是实打实的。只要膳食计划能自己挑便宜的店，别让我把整单重来一遍。"
+   }
+  },
+  {
+   "id": "2026-11-13-05",
+   "date": "2026-11-13",
+   "rank": 5,
+   "topic": "agents",
+   "priority": "fyi",
+   "source": "Manila Times (press release)",
+   "url": "https://www.manilatimes.net/2026/11/13/tmt-newswire/media-outreach-newswire/call-e-lets-ai-agents-in-chatgpt-muse-and-openclaw-make-real-phone-calls-on-their-users-behalf/2469685",
+   "published": "Nov 13",
+   "title": "CALL-E sells phone calls to any AI agent, and lets users switch off the 'I am a voice agent' line",
+   "summary": "AI Rudder, a Singapore company that says it has handled more than 80 billion AI calls, launched CALL-E on Nov 13. It lets agents inside ChatGPT, Muse, OpenClaw and coding tools place real calls after the user approves a call plan, then reports back what was agreed with the supporting call lines. By default the call introduces itself as a voice agent, but the release says users can change that. A pre-check blocks impersonating entities such as the FBI or 911, and new users get 100 free credits. These are the vendor's own claims from a paid press release.",
+   "relevance": "Kora Plus makes calls for families and has to decide how it discloses itself. When a cheap add-on lets any chatbot call businesses and optionally hide that it is an AI, restaurants will trust AI callers less, so Kora's calls need clear disclosure and a confirmation trail to stay welcome.",
+   "take": "A company that has placed 80 billion robocalls now sells the dialer to every chatbot with a wallet, with the honesty setting on a toggle. Businesses will answer this by treating every unfamiliar caller as a bot. Kora should be the one AI caller that always says its name and proves what it booked.",
+   "runtu": "If an AI calls my kid's daycare and hides that it is an AI, that is not convenience, that is trouble waiting to happen. For my family the deal is simple: say you are an assistant, say who you are calling for, and send me the proof.",
+   "zh": {
+    "published": "11月13日",
+    "title": "CALL-E 把“打电话”卖给任何 AI 代理，还允许用户关掉“我是语音代理”的自报",
+    "summary": "自称已处理超过 800 亿通 AI 电话的新加坡公司 AI Rudder，于 11 月 13 日推出 CALL-E。它让 ChatGPT、Muse、OpenClaw 和编程工具里的代理在用户批准通话计划后拨打真实电话，再把达成的内容连同对应的通话原句汇报回来。默认通话会自报是语音代理，但新闻稿称用户可以更改。预检会拦截冒充 FBI 或 911 等机构的通话，新用户有 100 个免费额度。以上均为付费新闻稿中厂商自己的说法。",
+    "relevance": "Kora Plus 替家庭打电话，必须决定如何自报身份。当一个廉价插件能让任何聊天机器人给商家打电话、还可以选择不说自己是 AI，餐厅对 AI 来电的信任只会更低，Kora 的电话需要清楚的自报和确认记录才能继续被接听。",
+    "take": "一家打过 800 亿通机器人电话的公司，现在把拨号器卖给每一个有钱包的聊天机器人，诚实选项做成了开关。商家的回应会是把所有陌生来电都当机器人。Kora 应该做那个永远报名字、永远能证明订了什么的 AI 来电者。",
+    "runtu": "要是一个 AI 给我孩子的托儿所打电话还隐瞒自己是 AI，那不叫方便，那是等着出事。对我家来说规矩很简单：说清你是助手，说清替谁打的，然后把凭证发给我。"
+   }
+  },
+  {
+   "id": "2026-11-13-06",
+   "date": "2026-11-13",
+   "rank": 6,
+   "topic": "competitors",
+   "priority": "fyi",
+   "source": "Maple",
+   "url": "https://www.growmaple.com/",
+   "published": "Jul 29",
+   "title": "Seven weeks left: Maple's family app shuts down Dec 31 and deletes everything, calendar links included",
+   "summary": "Maple, the family app that combined calendars, tasks, meals, recipes and chat, says it has been acquired by Wander and will sunset on Dec 31, 2026. Accounts and data stay accessible until then, after which all data is deleted with no recovery, including connections to Google Calendar, Apple Calendar, Outlook and TeamSnap. Annual subscriptions will not renew. Maple promises transition guidance but has not announced a one-click export. Wander's announcement dates to July 29, and switcher guides from rival apps are now piling up ahead of the deadline.",
+   "relevance": "Thousands of organized families are about to lose their planner in the middle of the holidays and need a new home for calendars, chores and meal plans. That is Kora's exact user, and the free app plus calendar sync is a low-friction landing spot if Kora says so before Dec 31.",
+   "take": "A family app got acquired by a vacation-rental company and the families got a deletion date. Every small planner app has already written its 'switching from Maple' page. The only one that matters is the one with a screen, a chores board and a free app, which is Kora, if it bothers to publish one.",
+   "runtu": "Losing a year of recurring chores and recipes over the holidays is a real headache, not a product story. If Kora can import a calendar and a recipe list in an afternoon, tell those families now, not on Dec 30.",
+   "zh": {
+    "published": "7月29日",
+    "title": "还剩七周：家庭应用 Maple 12 月 31 日关停并删光数据，连日历连接也不留",
+    "summary": "把日历、任务、膳食、菜谱和聊天合在一起的家庭应用 Maple 宣布已被 Wander 收购，将于 2026 年 12 月 31 日关停。在此之前账户和数据都可以访问，之后所有数据将被删除且无法恢复，包括与 Google 日历、Apple 日历、Outlook 和 TeamSnap 的连接。年度订阅不再续费。Maple 承诺提供迁移指导，但没有宣布一键导出。Wander 的公告可追溯到 7 月 29 日，眼下各家竞品的“从 Maple 搬家”指南正赶在截止日前扎堆出现。",
+    "relevance": "成千上万个有条理的家庭即将在假期中途失去自己的计划本，需要给日历、家务和膳食计划找个新家。这正是 Kora 的目标用户，免费 app 加日历同步是最省力的落脚点，前提是 Kora 要在 12 月 31 日前说出来。",
+    "take": "一个家庭应用被度假租赁公司收购，用户得到的是一个删除日期。每个小型规划 app 都已经写好了“从 Maple 迁移”页面。真正有分量的只有那个有屏幕、有家务板、有免费 app 的，也就是 Kora，前提是它肯写一篇。",
+    "runtu": "假期里丢掉一整年的循环家务和菜谱，是实实在在的麻烦，不是什么产品故事。如果 Kora 能在一个下午导入日历和菜谱清单，现在就告诉这些家庭，别等到 12 月 30 日。"
+   }
+  }
+ ]
+}
