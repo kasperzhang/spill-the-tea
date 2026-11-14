@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-14",
+   "number": 20,
+   "headline": "ChatGPT gets a wallet, and Skylight has already planned 48.5 million dinners",
+   "brief": "A Saturday with real news. OpenAI replaced Instant Checkout with ChatGPT Wallet, a tokenized card plus Face ID approval that lets its agents pay for US Pro users. Skylight put 20 Joanna Gaines recipes on its Target calendar and revealed 48.5 million meals planned, 33.5 million of them in the past year. Apple promised a December fix after Siri on HomeView refused to open a reviewer's garage, Alexa's text shopping went wide in 13 countries including Canada, and a Tyson survey says 72% of parents already ask AI for holiday cooking help.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "headline": "ChatGPT 有了钱包，Skylight 已经替用户安排了 4850 万顿饭",
+    "brief": "周六有正经新闻。OpenAI 用 ChatGPT Wallet 取代 Instant Checkout，令牌卡加刷脸确认，让代理替美国 Pro 用户付款。Skylight 把 20 道 Joanna Gaines 食谱装进 Target 限定日历屏，并透露用户累计规划 4850 万顿饭，其中 3350 万顿在过去一年。HomeView 上的 Siri 拒绝给评测人开车库门后，苹果承诺 12 月修复；Alexa 短信购物在包括加拿大的 13 个国家全面开放；Tyson 的调查称 72% 的家长已经在用 AI 处理节日做饭。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-13",
    "number": 19,
    "headline": "HomeView hits shelves today, and a reviewer could read her kid's texts on it",
