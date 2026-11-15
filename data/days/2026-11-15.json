@@ -1,0 +1,127 @@
+{
+ "issue": {
+  "id": "2026-11-15",
+  "number": 21,
+  "headline": "Apple says HomeView was built around Siri, and Siri is still in beta",
+  "brief": "A quiet Sunday. Apple's hardware chief says HomeView was 'constructed around Siri' with no logging in or out, while the fine print shows Siri AI in beta with daily usage limits, a future fee, and voice door unlocking not arriving until December. Instacart is giving away 50,000 turkeys next week to pull Thanksgiving carts its way, a new app called AI Parent turns chores and homework into time-blocked plans, and a Matter-plus-AI home hub picked up a CES 2027 award.",
+  "generated_at": "Daily run",
+  "item_count": 4,
+  "zh": {
+   "headline": "苹果说 HomeView 是围着 Siri 造的，可 Siri 还在测试版",
+   "brief": "周日消息不多。苹果硬件负责人说 HomeView 是“围着 Siri 构建的”，不用登录登出；但细则显示 Siri AI 仍是测试版，有每日用量上限，未来还要收费，语音开门要等到 12 月。Instacart 下周送出 5 万只火鸡，把感恩节购物车往自家拉；一款叫 AI Parent 的新应用把家务和作业排成分时段计划；一个 Matter 加 AI 的家庭中枢拿了 CES 2027 创新奖。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-15-01",
+   "date": "2026-11-15",
+   "rank": 1,
+   "topic": "bigtech",
+   "priority": "high",
+   "source": "MacRumors",
+   "url": "https://macrumors.com/2026/11/13/apple-says-homeview-sets-new-record",
+   "published": "Nov 13",
+   "title": "Apple's hardware chief says HomeView was 'constructed around Siri', while Siri AI ships in beta with daily limits and a future fee",
+   "summary": "In a TechRadar interview on launch day, Apple hardware VP Matthew Costello said HomeView was 'constructed around Siri', has 'no logging in, logging out', and clears a person's information when they step away. He also said its screen dims to 0.3 nits, the lowest of any Apple product. The fine print tells a different story: Siri AI runs in beta on HomeView software 27.2, Apple says server-side features have daily usage limits and expanded access will cost a fee later, and Canadian French has no date. Units ship with 26.5 and update to 27.2, which fixed nine security vulnerabilities on Nov 12, and Siri will not unlock doors by voice for recognized users until a December update.",
+   "relevance": "Apple is selling the same promise as Kora: walk up, be recognized, see your own stuff, no login. But Apple ties personal content to a paired iPhone that is nearby and recently unlocked, and its assistant is a metered beta. Kora's pitch for mixed Android and iPhone households, and for an assistant that works on day one without a quota, just got sharper.",
+   "take": "Built around Siri, says the hardware chief, which is a bit like building a house around a tenant who has not moved in yet and will start charging rent when they do. Lesson for Kora: never ship the word 'beta' on a kitchen wall.",
+   "runtu": "At home the test is simpler than nits: can a kid see the dinner plan when the parent's phone is in the car? Apple says no, not yet. That is the line Kora should keep repeating.",
+   "deep_analysis": {
+    "what": "HomeView went on sale Nov 13 at $299 in the US, Canada, the UK, Australia, India, New Zealand and Singapore, with no EU launch. Apple's VP of Hardware Engineering, Matthew Costello, told TechRadar the device was 'constructed around Siri' with a custom home interface, that there is 'no logging in, logging out', and that it recognizes people and clears their information when they walk away. He highlighted a 0.3 nit minimum brightness, the lowest Apple has shipped, against a 500 nit maximum. Separately, Apple's own notes say Siri AI is a beta feature on HomeView software 27.2, available in English in eight countries with Canadian French promised later and no date. Server-side Siri AI features have daily usage limits, and Apple says expanded access will cost a fee in the future, price unset. Setup and multiuser support require an iPhone on iOS 27.2 or an iPad on iPadOS 27.2. HomeView recognizes up to six faces, and each person's Messages, Calendar, Reminders and Find My content appears only when they are recognized and their paired device is present and recently unlocked. Devices ship with software 26.5 and prompt an update to 27.2, released Nov 12 with fixes for nine security vulnerabilities. Siri AI still refuses to unlock doors or open garages by voice; Apple says a December update will extend that to recognized users. Wall mounting needs a separate Schneider mount at $59.95 to $129.95, with the PoE version due early 2027.",
+    "impact": "For families, the launch-week picture is a beautiful screen attached to a half-finished assistant. The 'no login' experience depends on every household member owning an up-to-date iPhone or iPad and keeping it nearby and unlocked, which rules out many kids and most mixed-platform homes. The metered beta is the bigger signal: Apple is telling customers up front that the assistant on their wall has a daily quota and a price tag coming. That is new in this category. Amazon bundles Alexa+ with Prime, Google gates parts of Gemini for Home behind Premium, and now Apple plans a Siri fee. Every competitor is training families to expect a subscription for the assistant itself, which makes Kora's included 'Hey Kora' voice and the Kora Plus line between free and paid easier to explain. The security story also cuts both ways. Apple's caution on voice unlocking looks slow, but it sets a norm: a kitchen screen should not open doors on a voice alone.",
+    "next": [
+     "Watch the December HomeView update for how Apple handles voice unlocking for recognized users, and whether it requires the paired phone too.",
+     "Track when Apple names the Siri AI fee and the daily limit numbers; both will shape what families think an assistant should cost.",
+     "Put a side-by-side in Kora's comparison material: who in the household gets personal content on HomeView versus Kora, and what each needs in their pocket."
+    ]
+   },
+   "zh": {
+    "published": "11月13日",
+    "title": "苹果硬件负责人说 HomeView“围着 Siri 构建”，可 Siri AI 还是测试版，有每日上限，将来还要收费",
+    "summary": "发售当天，苹果硬件工程副总裁 Matthew Costello 在 TechRadar 的采访中说，HomeView 是“围着 Siri 构建的”，“没有登录和登出”，人一走开就清掉对应信息。他还说屏幕最低亮度 0.3 尼特，是苹果产品里最暗的。细则却是另一回事：Siri AI 在 HomeView 27.2 系统上仍是测试版，苹果说服务器端功能有每日用量上限，以后扩展使用要收费，加拿大法语没有时间表。机器出厂是 26.5，开机后升到 27.2，这个版本 11 月 12 日修了九个安全漏洞；已识别的用户要到 12 月更新后才能用语音开门。",
+    "relevance": "苹果卖的和 Kora 是同一个承诺：走过去、被认出来、看到自己的东西、不用登录。但苹果把个人内容绑在一部必须在旁边且刚解锁过的 iPhone 上，助手还是限量的测试版。Kora 面向安卓和 iPhone 混用家庭、助手第一天就能用且没有配额，这个卖点更清楚了。",
+    "take": "硬件负责人说“围着 Siri 造的”，大概就像围着一个还没搬进来的租客盖房子，而且人家搬进来就要收房租。给 Kora 的教训：别把“测试版”三个字挂上厨房的墙。",
+    "runtu": "在家里，考题比尼特简单：家长手机在车里的时候，孩子能不能看到今晚吃什么？苹果的答案是现在还不行。这句话 Kora 应该一直说下去。",
+    "deep_analysis": {
+     "what": "HomeView 11 月 13 日在美国、加拿大、英国、澳大利亚、印度、新西兰和新加坡开售，售价 299 美元，不进欧盟。苹果硬件工程副总裁 Matthew Costello 对 TechRadar 说，这台设备“围着 Siri 构建”，界面是专为家庭定制的，“没有登录和登出”，它会认人，人走开就清掉其信息。他强调最低亮度 0.3 尼特是苹果出过的最暗屏幕，最高 500 尼特。另一边，苹果自己的说明写着：Siri AI 在 HomeView 27.2 系统上是测试版，支持八个国家的英语，加拿大法语承诺稍后推出、没有日期；服务器端 Siri AI 功能有每日用量上限，苹果说未来扩展使用要收费，价格未定。设置和多用户功能需要 iOS 27.2 的 iPhone 或 iPadOS 27.2 的 iPad。HomeView 最多识别六张脸，每个人的信息、日历、提醒事项和“查找”内容只在本人被识别、且配对设备在附近并刚解锁过时才显示。设备出厂为 26.5 系统，开机提示升级到 11 月 12 日发布的 27.2，该版本修复了九个安全漏洞。Siri AI 目前仍拒绝用语音开门或开车库，苹果说 12 月的更新会向已识别用户开放这项能力。壁挂需要另购 Schneider 支架，59.95 到 129.95 美元，PoE 版 2027 年初才有。",
+     "impact": "对家庭来说，发售首周的画面是一块漂亮的屏幕，配着一个半成品助手。“不用登录”的体验，前提是每个家庭成员都有一部系统最新的 iPhone 或 iPad，而且要放在旁边、刚解锁过，这就把很多孩子和大多数混用平台的家庭排除在外。更大的信号是“限量的测试版”：苹果一开始就告诉顾客，墙上的助手有每日配额，而且价格在路上。这在这个品类里是头一次。亚马逊把 Alexa+ 捆进 Prime，谷歌把 Gemini for Home 的一部分锁在 Premium 里，现在苹果也打算给 Siri 收费。所有竞品都在教家庭“助手本身要订阅”，这让 Kora 自带的“Hey Kora”语音、以及 Kora Plus 免费和付费的分界更容易解释。安全这件事也有两面：苹果在语音开门上的谨慎看着慢，却立了一条规矩：厨房屏不该只凭一句话就开门。",
+     "next": [
+      "盯 12 月的 HomeView 更新：已识别用户的语音开门怎么做，是否还要配对手机在场。",
+      "跟进苹果何时公布 Siri AI 的收费和每日上限数字，这两项会影响家庭对“助手该花多少钱”的预期。",
+      "在 Kora 的对比材料里加一张表：家里谁能在 HomeView 和 Kora 上看到个人内容，各自口袋里需要什么设备。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-15-02",
+   "date": "2026-11-15",
+   "rank": 2,
+   "topic": "grocery",
+   "priority": "watch",
+   "source": "Taste of Home",
+   "url": "https://www.tasteofhome.com/article/instacart-turkey-giveaway-2026/",
+   "published": "Nov 13",
+   "title": "Instacart gives away 50,000 turkeys next week: $40 off with a $50 order, 10,000 a day at noon ET",
+   "summary": "From Wednesday Nov 18 to Sunday Nov 22, Instacart will release up to 10,000 turkey offers a day at noon ET, worth up to $40 off a fresh or frozen whole turkey from participating retailers. Shoppers need a $50 grocery order, which can include the turkey, and alcohol does not count. One redemption per customer, and the order must be placed the same day it is claimed. From Nov 23 to 25, delivery fees drop to $0 on eligible Thanksgiving orders of $10 or more. Instacart CMO Laura Jones said 'this year more people are watching what the meal costs.'",
+   "relevance": "Instacart is Kora's grocery checkout, and this is the busiest grocery week of the US year. A noon-ET daily drop is exactly the kind of time-boxed deal a kitchen display can surface in the meal plan or as a reminder. It also shows Instacart buying Thanksgiving carts with a loss leader while its sale to DoorDash is pending.",
+   "take": "Fifty thousand turkeys, ten thousand a day, gone by 12:01. The real product here is the $50 cart built around a $40 coupon. Kora could at least set the alarm.",
+   "runtu": "A free turkey only helps if the rest of the list is ready to go at noon on a workday. If the week's meal plan already has the sides in the cart, this is a two-tap win; otherwise it is another thing to remember.",
+   "zh": {
+    "published": "11月13日",
+    "title": "Instacart 下周送 5 万只火鸡：满 50 美元减 40，每天中午 12 点放 1 万只",
+    "summary": "11 月 18 日周三到 22 日周日，Instacart 每天美东时间中午 12 点放出最多 1 万份火鸡优惠，参与零售商的新鲜或冷冻整只火鸡最多减 40 美元。需要 50 美元的杂货订单，火鸡可以算在内，酒类不算。每位顾客只能领一次，领了当天就要下单。11 月 23 日到 25 日，10 美元以上的感恩节订单配送费降为 0。Instacart 首席营销官 Laura Jones 说，“今年更多人在盯着这顿饭要花多少钱”。",
+    "relevance": "Instacart 是 Kora 的买菜结账口，而这是美国一年里买菜最忙的一周。每天中午定点放券，正是厨房屏能在膳食计划里或用提醒接住的那类限时优惠。它也说明 Instacart 在卖给 DoorDash 的交易悬着的时候，愿意亏本换感恩节的购物车。",
+    "take": "五万只火鸡，每天一万，12 点 01 分就没了。这里真正的产品是围着一张 40 美元券凑出来的 50 美元购物车。Kora 起码可以帮大家定个闹钟。",
+    "runtu": "免费火鸡只有在工作日中午那一刻清单已经备好时才有用。要是这周的菜单已经把配菜放进购物车，这就是点两下的事，否则又多一件要记的事。"
+   }
+  },
+  {
+   "id": "2026-11-15-03",
+   "date": "2026-11-15",
+   "rank": 3,
+   "topic": "competitors",
+   "priority": "watch",
+   "source": "AI Parent press release (via Nebraska News Desk)",
+   "url": "https://www.nebraskanewsdesk.com/news/story/574125/ai-parent-launches-daily-routine-and-task-planning-tool-for-busy-families.html",
+   "published": "Nov 14",
+   "title": "AI Parent launches a planner that turns chores and homework into time-blocked daily plans, synced with Google, Apple and Outlook",
+   "summary": "AI Parent, founded by Tony Bode Lin, announced an app and web platform that builds a profile for each family member, lets parents pick priorities like morning readiness, homework, chores or bedtime, and breaks them into small steps sized to each child's age. Tasks can repeat daily, completed tasks earn streaks and points, and profiles can be shared with partners, grandparents, babysitters or tutors. It syncs with Google Calendar, Apple Calendar and Outlook and runs on iOS, Android and the web. Math games and flashcards in seven languages sit behind a paid monthly Premium plan; the release does not give a price. This is a company announcement, not a review.",
+   "relevance": "This is another app-only entrant aiming at the same calendar-plus-chores-plus-rewards stack Kora runs on a shared screen, with the same three calendar integrations. The new angle is the planner building a child's day step by step and sharing it with sitters and tutors, a feature parents with packed activity schedules will compare against Kora's chores and reward shop.",
+   "take": "Another family app that syncs with Google, Apple and Outlook, which is now the price of entry, not a feature. The one idea worth stealing is sharing a kid's routine with the babysitter; the rest is a press release with a Premium button.",
+   "runtu": "Time-blocking a nine-year-old's afternoon sounds great until soccer runs late. What I want is a plan that bends when the day does, and that lives where the whole family can see it, not in one parent's phone.",
+   "zh": {
+    "published": "11月14日",
+    "title": "AI Parent 推出把家务和作业排成分时段日程的计划工具，同步 Google、Apple 和 Outlook 日历",
+    "summary": "由 Tony Bode Lin 创立的 AI Parent 宣布推出应用和网页版：为每位家庭成员建档，家长选定优先事项（早晨准备、作业、家务或睡觉时间），再按孩子的年龄拆成小步骤。任务可以每天重复，完成后积累连胜和积分，档案可以分享给伴侣、祖父母、保姆或家教。它同步 Google 日历、Apple 日历和 Outlook，支持 iOS、安卓和网页。七种语言的数学游戏和闪卡要付费订阅 Premium，稿子没写价格。这是公司通稿，不是评测。",
+    "relevance": "又一个纯应用的入局者，瞄准的正是 Kora 在共享屏幕上跑的那套“日历加家务加奖励”，连三家日历的集成都一样。新花样是把孩子的一天一步步排好并分享给保姆和家教，活动排得满的家长会拿它和 Kora 的家务与奖励商店做对比。",
+    "take": "又一个同步 Google、Apple 和 Outlook 的家庭应用，这如今是入场券，不是功能。值得抄的就一条：把孩子的作息分享给保姆；其余是一份带着 Premium 按钮的通稿。",
+    "runtu": "把九岁孩子的下午按时段排好听着很美，足球课一拖堂就全乱。我要的是一张会跟着当天变的计划，而且挂在全家都能看到的地方，不是锁在某位家长的手机里。"
+   }
+  },
+  {
+   "id": "2026-11-15-04",
+   "date": "2026-11-15",
+   "rank": 4,
+   "topic": "smarthome",
+   "priority": "fyi",
+   "source": "The Elec",
+   "url": "https://thelec.net/news/articleView.html?idxno=15598",
+   "published": "Nov 13",
+   "title": "A Matter hub with an AI agent wins a CES 2027 Innovation Award, and claims to cut cloud LLM calls by 80%",
+   "summary": "Korean company WhatsMatter's ModusHome AI Home Core was named a CES 2027 Innovation Award honoree in the Smart Home category. The edge hub is built on Matter and pairs it with an AI agent that reads indoor sensors and device data for care, safety and energy use, including a 'Quiet Care' mode that spots changes in daily routines without cameras or wearables. Natural language commands go to the cloud, routine and spatial data stay local, and the company says its 'Home Intent Memory' reuses past interpreted commands to cut cloud LLM calls by up to 80%. Proof-of-concept testing is done for five scenarios, and it will be shown at CES, Jan 6 to 9 in Las Vegas.",
+   "relevance": "Kora will be on the CES 2027 floor too, and this is the kind of hub that will be a few aisles over: Matter plus a local agent, pitched on privacy and lower AI cost. The 'reuse past commands locally' idea is directly useful for 'Hey Kora' repeat requests like timers, lights and the daily schedule.",
+   "take": "An award for a hub that remembers you asked for the kitchen light yesterday so it does not have to ask the cloud again. Clever, and a quiet admission that always-on assistants are too expensive to run as built. Kora, cache the boring stuff.",
+   "runtu": "Routine-change alerts without cameras is the part a family with an older relative would actually pay for. Energy savings are nice, but nobody at dinner is going to notice which server answered the light switch.",
+   "zh": {
+    "published": "11月13日",
+    "title": "一个带 AI 代理的 Matter 中枢拿下 CES 2027 创新奖，号称把云端大模型调用砍掉 80%",
+    "summary": "韩国公司 WhatsMatter 的 ModusHome AI Home Core 获评 CES 2027 创新奖智能家居类别的获奖产品。这个边缘中枢基于 Matter，搭配一个读取室内传感器和设备数据的 AI 代理，用于照护、安全和节能，其中“静默照护”模式不用摄像头和可穿戴设备就能发现日常作息的变化。自然语言指令上云处理，作息和空间数据留在本地；公司称其“家庭意图记忆”会复用过去解析过的指令，最多可减少 80% 的云端大模型调用。五个场景的概念验证已经完成，产品将在 1 月 6 日到 9 日的拉斯维加斯 CES 上展出。",
+    "relevance": "Kora 也会在 CES 2027 的展馆里，而这种中枢大概就在几排之外：Matter 加本地代理，卖点是隐私和更低的 AI 成本。“把过去的指令在本地复用”这个思路，对“Hey Kora”的重复请求（计时器、灯、每天的日程）直接可用。",
+    "take": "给一个中枢颁奖，因为它记得你昨天也要开厨房灯，这次不用再问云端。聪明，也是在悄悄承认常驻助手按现在的做法跑起来太贵。Kora，把无聊的那部分缓存起来。",
+    "runtu": "不用摄像头就能提醒作息变化，这才是家里有老人的家庭真会掏钱的那部分。节能当然好，可饭桌上没人会在意是哪台服务器回答了开灯。"
+   }
+  }
+ ]
+}

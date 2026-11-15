@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-15",
+   "number": 21,
+   "headline": "Apple says HomeView was built around Siri, and Siri is still in beta",
+   "brief": "A quiet Sunday. Apple's hardware chief says HomeView was 'constructed around Siri' with no logging in or out, while the fine print shows Siri AI in beta with daily usage limits, a future fee, and voice door unlocking not arriving until December. Instacart is giving away 50,000 turkeys next week to pull Thanksgiving carts its way, a new app called AI Parent turns chores and homework into time-blocked plans, and a Matter-plus-AI home hub picked up a CES 2027 award.",
+   "generated_at": "Daily run",
+   "item_count": 4,
+   "zh": {
+    "headline": "苹果说 HomeView 是围着 Siri 造的，可 Siri 还在测试版",
+    "brief": "周日消息不多。苹果硬件负责人说 HomeView 是“围着 Siri 构建的”，不用登录登出；但细则显示 Siri AI 仍是测试版，有每日用量上限，未来还要收费，语音开门要等到 12 月。Instacart 下周送出 5 万只火鸡，把感恩节购物车往自家拉；一款叫 AI Parent 的新应用把家务和作业排成分时段计划；一个 Matter 加 AI 的家庭中枢拿了 CES 2027 创新奖。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-14",
    "number": 20,
    "headline": "ChatGPT gets a wallet, and Skylight has already planned 48.5 million dinners",
