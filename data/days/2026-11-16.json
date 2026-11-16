@@ -1,0 +1,219 @@
+{
+ "issue": {
+  "id": "2026-11-16",
+  "number": 22,
+  "headline": "Black Friday hits the family wall: Hearth cuts 20%, Nori $150, and Amazon discounts an Echo Show that has barely shipped",
+  "brief": "Family displays are going on sale: Hearth is 20% off, Nori is $150 off, Skylight discounts only bundles, and all three keep subscriptions at full price. Amazon will cut the Echo Show 16 by up to 35% from Nov 19. On the agent side, Shopify switched on Sierra's Poppy protocol for every store, Zocdoc says agent traffic is up nearly 30-fold, and Meta quietly put Muse into Chrome.",
+  "generated_at": "Daily run",
+  "item_count": 8,
+  "zh": {
+   "headline": "黑五打到家庭屏：Hearth 八折、Nori 减 150 美元，亚马逊给还没怎么发货的 Echo Show 打折",
+   "brief": "家庭屏集体促销：Hearth 八折、Nori 减 150 美元、Skylight 只打折套装，三家的订阅费一分不降。亚马逊 11 月 19 日起给 Echo Show 16 最高打 65 折。代理这边，Shopify 为所有店铺开启了 Sierra 的 Poppy 协议，Zocdoc 称代理流量涨了近 30 倍，Meta 悄悄把 Muse 装进了 Chrome。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-16-01",
+   "date": "2026-11-16",
+   "rank": 1,
+   "topic": "competitors",
+   "priority": "high",
+   "source": "Codot",
+   "url": "https://codot.ai/blog/calendar-comparisons/skylight-calendar-alternatives-2026-family-calendars-without-the-plus-subscription",
+   "published": "Nov 12",
+   "title": "Black Friday reaches the family wall: Hearth takes 20% off, Nori $150, Skylight up to $120 on bundles only",
+   "summary": "A price check by Codot, updated Nov 12, found Hearth Display at $559.20 with code BLACKFRIDAY, down from $699, while Nori advertises $150 off its Family Hub and Skylight offers up to $120 off only when a Calendar is bundled with its Buddy. Subscriptions are not on sale: Hearth membership stays $9 a month, Nori Plus $59.90 a year and Skylight Plus $79 a year, which is excluded from promotions. Hearth's own site now calls this 'our biggest sale of the year', and Nori's banner adds a free extra frame for the first 1,000 US orders.",
+   "relevance": "Kora sells a $399 CAD display into the same holiday window, and every rival is cutting hardware while protecting the subscription. Shoppers comparing screens this week will see Kora's sticker next to a $219 Nori bundle and a $559 Hearth.",
+   "take": "Hardware 20% off, membership 0% off: the whole category just admitted the screen is the lure and the subscription is the hook. Kora's counter is to say out loud what the box does with no monthly fee. Clarity sells.",
+   "runtu": "A $150 sticker moves me less than knowing the thing still works in February when the free month ends. Put the yearly cost on the box and I'll decide at the kitchen table.",
+   "deep_analysis": {
+    "what": "Three of the four family-display makers are discounting hardware for Black Friday, and none are touching subscription prices. Hearth is $139.80 off at 20%, Nori is $150 off its Plus bundle and $120 off the device alone, and Skylight's $120 applies only to Calendar plus Buddy bundles. Hearth's site confirms the 20% as its biggest sale of the year, and Nori's page shows $219 for the Plus plan and $249 device only.",
+    "impact": "The price anchor for a family screen this week runs from $219 (Nori with Plus) to $559 (Hearth), with Kora's $399 CAD in the middle. Excluding subscriptions from every sale is the real signal: these companies expect to earn after the checkout, so the total two-year cost is where Kora can win the comparison.",
+    "next": [
+     "Decide this week whether Kora runs a Black Friday price or a device plus app bundle, and publish it before Nov 19 when Amazon's event starts.",
+     "Put a plain two-year all-in cost comparison (device plus subscription) on the website, since none of the rivals show one.",
+     "Watch whether Hearth or Skylight extend the sale past Cyber Monday, which would point to weak sell-through."
+    ]
+   },
+   "zh": {
+    "published": "11月12日",
+    "title": "黑五打到家庭屏：Hearth 八折、Nori 减 150 美元，Skylight 只给套装减 120",
+    "summary": "Codot 11 月 12 日更新的比价显示，Hearth Display 用码 BLACKFRIDAY 从 699 美元降到 559.20 美元，Nori 给 Family Hub 直降 150 美元，Skylight 只在日历搭配 Buddy 的套装上最多减 120 美元。订阅费一分不降：Hearth 会员仍是每月 9 美元，Nori Plus 每年 59.90 美元，Skylight Plus 每年 79 美元且不参与任何促销。Hearth 官网现在称这是“全年最大促销”，Nori 还给前 1000 个美国订单送一个相框。",
+    "relevance": "Kora 的 399 加元屏幕也在这个假日档口卖，而所有对手都在砍硬件、保订阅。这周比价的买家会把 Kora 的标价放在 219 美元的 Nori 套装和 559 美元的 Hearth 旁边看。",
+    "take": "硬件打八折，会员打零折：整个品类集体承认屏幕是鱼饵，订阅才是钩子。Kora 的回击就是把“不要月费也能干什么”写在最显眼的地方。说清楚，就是卖点。",
+    "runtu": "150 美元的降价标签不如一句“免费月结束后二月份还好不好用”打动我。把一年总价印在盒子上，我在饭桌上就能拍板。",
+    "deep_analysis": {
+     "what": "四家家庭屏厂商里有三家在黑五砍硬件价，没有一家动订阅价。Hearth 八折相当于减 139.80 美元；Nori 的 Plus 套装减 150 美元、裸机减 120 美元；Skylight 的 120 美元只针对日历加 Buddy 的套装。Hearth 官网确认八折是全年最大促销，Nori 页面显示 Plus 套装 219 美元、裸机 249 美元。",
+     "impact": "这周家庭屏的价格锚点从 219 美元（Nori 含 Plus）到 559 美元（Hearth），Kora 的 399 加元正好在中间。所有促销都把订阅排除在外才是真正的信号：这些公司指望在结账之后赚钱，所以两年总花费才是 Kora 能赢的比较维度。",
+     "next": [
+      "本周决定 Kora 是做黑五直降还是做设备加 App 的套装，并在 11 月 19 日亚马逊活动开始前公布。",
+      "在官网放一张两年总成本（设备加订阅）的对比表，对手没有一家敢放。",
+      "留意 Hearth 或 Skylight 是否把促销延长到网络星期一之后，延长就说明卖得不好。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-16-02",
+   "date": "2026-11-16",
+   "rank": 2,
+   "topic": "bigtech",
+   "priority": "high",
+   "source": "PPC Land",
+   "url": "https://ppc.land/amazon-to-cut-echo-show-16-and-alexa-tablet-prices-up-to-35-for-black-friday/",
+   "published": "Nov 15",
+   "title": "Amazon will cut the Echo Show 16 by up to 35% from Nov 19, along with Alexa Tablets, Echo Time and the Photo Frame",
+   "summary": "Amazon's Black Friday preview, reported by PPC Land on Nov 15, lists the Echo Show 16, the Alexa Tablets 8, 11 and 12 Pro, the Kids Tablets, Echo Time and the Alexa Photo Frame at up to 35% off. The deal events run from 12:01 a.m. PST on Nov 19 through Nov 30, with extra drops at midnight and 8 a.m. on Black Friday and Cyber Monday. The Echo Show 16 opened for preorder at $499.99 in October, so the floor could sit near $325.",
+   "relevance": "Amazon's family-organizer screen could be priced near $325 US for twelve days of the holiday rush, and Alexa+ comes free with Prime. That is the device most Kora shoppers will compare against.",
+   "take": "A 35% cut on a screen that has barely shipped is not a sale, it is a confession about the launch price. The useful bit for Kora: Amazon just told everyone a 16-inch family screen is really worth about $325.",
+   "runtu": "Cheaper is nice, but my question is what it does on a Tuesday night: chores, calendar, dinner. A big Alexa screen that mostly suggests more Alexa is still a big Alexa screen.",
+   "zh": {
+    "published": "11月15日",
+    "title": "亚马逊 11 月 19 日起给 Echo Show 16 最高打 65 折，Alexa 平板、Echo Time 和相框同步降价",
+    "summary": "据 PPC Land 11 月 15 日报道，亚马逊黑五预告把 Echo Show 16、Alexa 平板 8、11 和 12 Pro、儿童平板、Echo Time 和 Alexa 相框都列为最高 35% 折扣。活动从太平洋时间 11 月 19 日 0:01 开始到 11 月 30 日，黑五和网络星期一当天在零点和早上 8 点各加一轮。Echo Show 16 十月预售价 499.99 美元，底价可能接近 325 美元。",
+    "relevance": "亚马逊的家庭管家屏在假日旺季的十二天里可能只卖 325 美元左右，而且 Prime 会员免费用 Alexa+。这是大多数 Kora 买家会拿来对比的那台设备。",
+    "take": "一台几乎还没发货的屏幕就打 65 折，这不叫促销，叫对首发价的坦白。对 Kora 有用的信息是：亚马逊亲口告诉大家，16 寸家庭屏的真实价值大约 325 美元。",
+    "runtu": "便宜当然好，可我想知道它周二晚上能干啥：家务、日历、晚饭。一块主要在推销更多 Alexa 的大屏，还是一块 Alexa 大屏。"
+   }
+  },
+  {
+   "id": "2026-11-16-03",
+   "date": "2026-11-16",
+   "rank": 3,
+   "topic": "agents",
+   "priority": "high",
+   "source": "The Next Web",
+   "url": "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents",
+   "published": "Nov 13",
+   "title": "Sierra's Poppy 1.0 gives personal agents a rulebook for every business, and Shopify switched it on for every store",
+   "summary": "Sierra published Poppy 1.0 on Nov 13, a protocol that lets a company tell a visiting AI agent who it is dealing with and what it may do, such as check an order or book a flight. Shopify enabled it across its platform with no action from store owners, Meta's Muse now looks for Poppy first on every site it visits, and Sierra says more than 100 companies have joined, including Delta, Intuit, Salesforce and Zoom. Customers sign in with their normal logins and choose what their agent can access. The spec is still labelled a draft.",
+   "relevance": "Kora Plus makes calls and inquiries for families. If businesses start publishing what an agent may do, Kora's agent can walk through a front door instead of a phone tree, and merchants who block agents, like Amazon and United, become the exception.",
+   "take": "Every business gets to hang a sign saying 'agents welcome, here are the rules', and Shopify just hung it on a few million doors at once. Whoever reads those signs first wins the errand. Kora should learn to read.",
+   "runtu": "I don't care about protocols, I care that the dance studio's booking page lets my assistant book without a phone call. If this makes that happen next month, good. If it's another standard, wake me later.",
+   "zh": {
+    "published": "11月13日",
+    "title": "Sierra 发布 Poppy 1.0，给个人代理一本“商家规则手册”，Shopify 已为所有店铺开启",
+    "summary": "Sierra 11 月 13 日发布 Poppy 1.0，这是一个让商家告诉来访 AI 代理“你在和谁打交道、你能做什么”的协议，比如查订单或订机票。Shopify 在全平台默认开启，店主什么都不用做；Meta 的 Muse 现在访问每个网站时先找 Poppy；Sierra 称已有 100 多家公司加入，包括达美航空、Intuit、Salesforce 和 Zoom。用户用平时的账号登录，自己选择代理能访问什么。规范目前仍标为草案。",
+    "relevance": "Kora Plus 替家庭打电话、问事情。如果商家开始公开“代理可以做什么”，Kora 的代理就能走正门而不是闯电话菜单，而亚马逊、联合航空这类拒绝代理的商家会变成少数派。",
+    "take": "每家商户都能挂个牌子写“欢迎代理，规矩如下”，Shopify 一口气把牌子挂到了几百万扇门上。谁先学会读牌子，谁就接到跑腿活。Kora 该学认字了。",
+    "runtu": "我不关心协议，我关心舞蹈班的预约页面能不能让我的助手不打电话就订上。下个月能做到，好；又是一个新标准，到时再叫我。"
+   }
+  },
+  {
+   "id": "2026-11-16-04",
+   "date": "2026-11-16",
+   "rank": 4,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/zocdoc-ai-agent-traffic-30-fold/",
+   "published": "Nov 11",
+   "title": "Zocdoc says AI agent traffic grew nearly 30-fold since July, with Instinct as the first agent allowed to book",
+   "summary": "Zocdoc CEO Oliver Kharraz said traffic from AI agents has grown nearly 30-fold since July and has roughly doubled every 10 days since early September. On Oct 28 Zocdoc opened its scheduling system to registered agents, which can search more than 200,000 verified providers, check insurance and book slots, but only with explicit patient consent. Instinct is the first dedicated partner with direct access to Zocdoc's MCP server, while Google Gemini and Amazon Health AI connect through Zocdoc's wider network. No figures on completed bookings were given.",
+   "relevance": "Pediatrician and dentist appointments are the calls parents dread most, and Kora Plus phones for them today. A booking API with consent built in is the shape that feature could take if Zocdoc or a Canadian equivalent opens up.",
+   "take": "Thirty-fold growth from a base of almost nothing is a chart, not a business, and Zocdoc carefully gave no booking count. Still, 'explicit patient consent' is the clause worth stealing for any agent that touches a family's calendar.",
+   "runtu": "If my assistant can get the kid a dentist slot without me on hold, I'll forgive a lot. Just ask me before it books, and tell me which doctor it picked.",
+   "zh": {
+    "published": "11月11日",
+    "title": "Zocdoc 称 AI 代理流量自七月以来涨了近 30 倍，Instinct 成为首个获准预约的代理",
+    "summary": "Zocdoc 首席执行官 Oliver Kharraz 说，来自 AI 代理的流量自七月以来增长近 30 倍，九月初以来大约每 10 天翻一番。10 月 28 日 Zocdoc 向注册代理开放预约系统，代理可以搜索 20 多万经核实的医生、核对保险并预约时段，但必须获得患者明确同意。Instinct 是首个直接接入 Zocdoc MCP 服务器的合作伙伴，Google Gemini 和 Amazon Health AI 通过 Zocdoc 更大的网络接入。公司没有公布实际完成的预约数。",
+    "relevance": "儿科和牙医预约是家长最头疼的电话，Kora Plus 现在就在替他们打。一个内置同意机制的预约接口，正是这个功能未来的形态，前提是 Zocdoc 或加拿大的对应平台也开放。",
+    "take": "从几乎为零的基数涨 30 倍，那是一张图表，不是一门生意，Zocdoc 也很小心地没给预约数。不过“患者明确同意”这一条，值得所有碰家庭日历的代理抄回去。",
+    "runtu": "要是我的助手能不让我排队就给孩子约上牙医，别的我都能原谅。只要订之前问我一声，再告诉我它挑的是哪位医生。"
+   }
+  },
+  {
+   "id": "2026-11-16-05",
+   "date": "2026-11-16",
+   "rank": 5,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "TestingCatalog",
+   "url": "https://www.testingcatalog.com/meta-brings-muse-ai-agent-to-chrome-with-new-extension/",
+   "published": "Nov 13",
+   "title": "Meta quietly ships a Muse Chrome extension: the agent sits in the sidebar, drives web pages and books tickets",
+   "summary": "TestingCatalog spotted a 'Muse from Meta' extension on the Chrome Web Store on Nov 13, with no announcement from Meta. It puts the Muse agent in Chrome's sidebar, where users can continue conversations, hand off whole tasks, or ask Muse to navigate sites, control pages, shop or book cinema tickets. The store listing says users can approve actions before they happen, see a full activity log and revoke any connector at any time. How well it automates across different sites is untested.",
+   "relevance": "Parents do much of their family admin at a work laptop, which the team discussed last week. An agent in the browser sidebar reaches school portals and booking pages that a kitchen screen cannot, and the result still needs to land on the family calendar.",
+   "take": "Meta skipped the press release and shipped the sidebar, which tells you where it thinks errands actually happen: at a desk, during work hours. Kora's app is not in that tab yet.",
+   "runtu": "A sidebar helper on my laptop is handy for the school portal, but I still want the result to show up on the screen the whole house looks at. Otherwise it's one more place to check.",
+   "zh": {
+    "published": "11月13日",
+    "title": "Meta 悄悄上架 Muse Chrome 扩展：代理住进侧边栏，能操作网页、订电影票",
+    "summary": "TestingCatalog 11 月 13 日在 Chrome 应用商店发现了“Muse from Meta”扩展，Meta 没有任何公告。它把 Muse 代理放进 Chrome 侧边栏，用户可以接着聊、把整件事交给它，或让它浏览网站、操作页面、购物、订电影票。商店页面称用户可以在动作执行前确认、查看完整活动日志，并随时撤销任何连接。跨网站自动化到底好不好用还没人测过。",
+    "relevance": "家长的很多家庭事务是在上班的电脑上处理的，团队上周正聊过这点。浏览器侧边栏里的代理能碰到厨房屏碰不到的学校门户和预约页面，但结果终究得落到家庭日历上。",
+    "take": "Meta 跳过新闻稿直接发了侧边栏，等于告诉你它认为跑腿真正发生的地方：办公桌前，上班时间。Kora 的 App 还不在那个标签页里。",
+    "runtu": "笔记本上有个侧边栏帮手处理学校门户挺方便，可我还是希望结果出现在全家都看的那块屏上。不然就又多了一个要查的地方。"
+   }
+  },
+  {
+   "id": "2026-11-16-06",
+   "date": "2026-11-16",
+   "rank": 6,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "MacRumors",
+   "url": "https://www.macrumors.com/2026/11/13/apple-shares-homeview-27-2-release-notes/",
+   "published": "Nov 13",
+   "title": "Apple's HomeView 27.2 notes: your calendar appears only when you are recognized and your iPhone is on the same Wi-Fi",
+   "summary": "Apple published its first HomeView release notes on Nov 13. Personal content such as Messages and Calendar shows only when an enrolled user is recognized and their iPhone or iPad is nearby on the same network; up to six people can be recognized by face and voice. Siri AI ships in beta, English only, and takes personal context from a paired Apple Intelligence iPhone or iPad. Six Colors' review adds that there is no App Store, third-party apps appear through their CarPlay interfaces, and only small iPhone widgets are supported.",
+   "relevance": "Kora's shared calendar works for everyone in the house with no phone nearby. Apple's design turns the family calendar into a per-person, phone-tethered view, which is the gap to name in comparisons.",
+   "take": "Apple built a family screen that goes quiet when your phone leaves the room. That is privacy, and it is also a calendar that does not work for the babysitter. Kora should put that line on a slide.",
+   "runtu": "A screen that only shows my week when I'm standing there with my phone is a screen for me, not for the family. The whole point of a wall calendar is that the kids can see it when I'm not home.",
+   "zh": {
+    "published": "11月13日",
+    "title": "苹果 HomeView 27.2 更新说明：只有认出你、且你的 iPhone 在同一 Wi-Fi 上，日历才会出现",
+    "summary": "苹果 11 月 13 日发布了首份 HomeView 更新说明。信息和日历这类个人内容，只在已登记用户被识别、且其 iPhone 或 iPad 在同一网络附近时才显示；最多可通过人脸和声音识别六个人。Siri AI 以测试版形式提供，仅限英语，个人上下文来自配对的 Apple Intelligence iPhone 或 iPad。Six Colors 的评测补充：没有 App Store，第三方应用以 CarPlay 界面形式出现，只支持小尺寸 iPhone 小组件。",
+    "relevance": "Kora 的共享日历对家里每个人都可用，不需要手机在旁边。苹果的设计把家庭日历变成了按人显示、绑着手机的视图，这正是对比时该点名的差距。",
+    "take": "苹果造了一块手机一离开房间就闭嘴的家庭屏。这叫隐私，也叫“保姆看不到的日历”。Kora 该把这句话放进 PPT。",
+    "runtu": "一块只在我拿着手机站在跟前时才显示我这周安排的屏幕，是我的屏幕，不是全家的。挂墙日历的意义就是我不在家时孩子也能看见。"
+   }
+  },
+  {
+   "id": "2026-11-16-07",
+   "date": "2026-11-16",
+   "rank": 7,
+   "topic": "smarthome",
+   "priority": "fyi",
+   "source": "PR Newswire via The Manila Times",
+   "url": "https://manilatimes.net/2026/11/16/tmt-newswire/pr-newswire/switchbot-launches-hub-4-with-hello-kata-voice-control-for-a-more-connected-home/2470876",
+   "published": "Nov 16",
+   "title": "SwitchBot Hub 4 lands at C$149.99 with 'Hello Kata' voice, a 2.8-inch screen and a Matter bridge for 30 devices",
+   "summary": "SwitchBot launched Hub 4 on Nov 16, sold from its site and Amazon in the US, Canada, the UK and Europe at $119.99 US or $149.99 CAD. It combines Hello Kata voice control, a 2.8-inch color display, four on-screen shortcut buttons and a rotary knob, and can run scenes such as Movie Night or Away by voice. Matter Bridge 1.3 exposes SwitchBot devices to Apple Home and other Matter platforms, with up to 30 Matter sub-devices. Infrared control works locally after setup, but the release does not claim the voice assistant works offline.",
+   "relevance": "Another cheap box wants to be the 'shared household interface' by the door. Kora's screen is bigger and already has a wake word; the open question is whether families will expect it to run the AC and curtains too.",
+   "take": "A $120 hub with a wake word, a knob and a 2.8-inch screen is what a kitchen display looks like when a curtain-motor company designs one. Cute. Kora's edge is the fifteen inches of context around the button.",
+   "runtu": "Nobody in my house wants to learn a second wake word for the curtains. If Kora can say 'lights off' through Matter, that's one fewer gadget on the counter.",
+   "zh": {
+    "published": "11月16日",
+    "title": "SwitchBot Hub 4 上市，149.99 加元，带“Hello Kata”语音、2.8 寸屏和可桥接 30 台设备的 Matter",
+    "summary": "SwitchBot 11 月 16 日发布 Hub 4，通过官网和亚马逊在美国、加拿大、英国和欧洲发售，售价 119.99 美元或 149.99 加元。它集成 Hello Kata 语音控制、2.8 英寸彩屏、四个屏幕快捷键和一个旋钮，可以用语音执行“电影之夜”或“离家”等场景。Matter Bridge 1.3 把 SwitchBot 设备接入 Apple Home 和其他 Matter 平台，最多支持 30 个 Matter 子设备。红外控制匹配后可本地运行，但新闻稿没说语音助手能离线工作。",
+    "relevance": "又一个便宜盒子想当门口的“全家共用界面”。Kora 的屏更大、也早有唤醒词；悬而未决的是，家庭会不会也指望它顺手管空调和窗帘。",
+    "take": "120 美元的集线器，带唤醒词、旋钮和 2.8 寸小屏，这就是窗帘电机公司设计厨房屏的样子。挺可爱。Kora 的优势是按钮周围那十五英寸的上下文。",
+    "runtu": "我家没人愿意为了窗帘再学第二个唤醒词。要是 Kora 能通过 Matter 说一句“关灯”就关灯，台面上就少一个小玩意。"
+   }
+  },
+  {
+   "id": "2026-11-16-08",
+   "date": "2026-11-16",
+   "rank": 8,
+   "topic": "agents",
+   "priority": "fyi",
+   "source": "RAND",
+   "url": "https://www.rand.org/news/press/2026/11/higher-income-parents-more-likely-to-use-ai-encourage.html",
+   "published": "Nov 12",
+   "title": "RAND: 72% of US parents now use AI, up from 54% last year, and the highest earners use it most",
+   "summary": "A RAND report released Nov 12 says the share of parents using AI for work or personal reasons rose from 54% in 2025 to 72% in 2026. Use reaches 84% in families earning $150,000 or more versus 63% under $50,000, and higher-income parents are far more likely to encourage their teens to use AI for schoolwork (67% versus 45%). The surveys covered about 1,000 parents and 1,800 teens aged 12 to 18.",
+   "relevance": "Kora's target buyer, the busy dual-income parent, is now the heaviest AI user in the house. The pitch no longer needs to explain AI; it needs to explain why a shared screen beats the chatbot already on their phone.",
+   "take": "The parents who can afford a $400 screen are the same ones already asking a chatbot to plan dinner. The sale is not 'try AI', it is 'get it off your phone and onto the wall'. Position accordingly.",
+   "runtu": "Using AI is one thing, and I do. Trusting it with the family calendar is another. The 72% are curious, not converted, so show me it won't double-book the kids.",
+   "zh": {
+    "published": "11月12日",
+    "title": "RAND：72% 的美国家长已在用 AI，去年是 54%，收入最高的家庭用得最多",
+    "summary": "RAND 11 月 12 日发布的报告称，因工作或个人原因使用 AI 的家长比例从 2025 年的 54% 升至 2026 年的 72%。年收入 15 万美元以上的家庭达到 84%，5 万美元以下为 63%；高收入家长也更可能鼓励青少年用 AI 做功课（67% 对 45%）。调查覆盖约 1000 名家长和 1800 名 12 到 18 岁的青少年。",
+    "relevance": "Kora 的目标买家，忙碌的双职工父母，现在是家里用 AI 最多的人。推销词不用再解释 AI 是什么，而要解释为什么一块共享屏比他们手机里已有的聊天机器人更好。",
+    "take": "买得起 400 美元屏幕的家长，正是已经在让聊天机器人安排晚饭的那批人。卖点不是“试试 AI”，而是“把它从手机挪到墙上”。定位照此调整。",
+    "runtu": "用 AI 是一回事，我也在用。把家庭日历交给它是另一回事。那 72% 是好奇，不是皈依，先让我看到它不会给孩子排重活动。"
+   }
+  }
+ ]
+}

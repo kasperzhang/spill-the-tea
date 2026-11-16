@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-16",
+   "number": 22,
+   "headline": "Black Friday hits the family wall: Hearth cuts 20%, Nori $150, and Amazon discounts an Echo Show that has barely shipped",
+   "brief": "Family displays are going on sale: Hearth is 20% off, Nori is $150 off, Skylight discounts only bundles, and all three keep subscriptions at full price. Amazon will cut the Echo Show 16 by up to 35% from Nov 19. On the agent side, Shopify switched on Sierra's Poppy protocol for every store, Zocdoc says agent traffic is up nearly 30-fold, and Meta quietly put Muse into Chrome.",
+   "generated_at": "Daily run",
+   "item_count": 8,
+   "zh": {
+    "headline": "黑五打到家庭屏：Hearth 八折、Nori 减 150 美元，亚马逊给还没怎么发货的 Echo Show 打折",
+    "brief": "家庭屏集体促销：Hearth 八折、Nori 减 150 美元、Skylight 只打折套装，三家的订阅费一分不降。亚马逊 11 月 19 日起给 Echo Show 16 最高打 65 折。代理这边，Shopify 为所有店铺开启了 Sierra 的 Poppy 协议，Zocdoc 称代理流量涨了近 30 倍，Meta 悄悄把 Muse 装进了 Chrome。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-15",
    "number": 21,
    "headline": "Apple says HomeView was built around Siri, and Siri is still in beta",
