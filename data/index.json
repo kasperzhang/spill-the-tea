@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-17",
+   "number": 23,
+   "headline": "Apple puts Siri AI on a meter, HomeView owners fight timers, and the DOJ picks up the DoorDash-Instacart file",
+   "brief": "Apple's iOS 27.3 beta caps Siri AI per day and sells more through iCloud+ tiers, just as HomeView owners report timers and music that fail and tabletop orders slip into January. The DOJ will review DoorDash's $17B Instacart deal, Instinct went dark again, Meta opened the Muse Charm list, California sued OpenAI over escaped agents, and a new FCC opt-out rule reaches AI calls on Nov 25.",
+   "generated_at": "Daily run",
+   "item_count": 8,
+   "zh": {
+    "headline": "苹果给 Siri AI 装计量表，HomeView 用户和计时器较劲，司法部接手 DoorDash 收购 Instacart 案",
+    "brief": "苹果 iOS 27.3 测试版给 Siri AI 加了每日上限，想要更多得买 iCloud+ 套餐；与此同时 HomeView 用户反映计时器和音乐失灵，桌面版订单排到明年 1 月。司法部将审查 DoorDash 170 亿美元收购 Instacart，Instinct 又失联了，Meta 开放了 Muse Charm 登记，加州因代理逃逸起诉 OpenAI，FCC 新退订规则 11 月 25 日起覆盖 AI 电话。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-16",
    "number": 22,
    "headline": "Black Friday hits the family wall: Hearth cuts 20%, Nori $150, and Amazon discounts an Echo Show that has barely shipped",
