@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-18",
+   "number": 24,
+   "headline": "Gemini makes your calls for free, Google buys a CC-me scheduler, and Amazon sells the $8 dinner",
+   "brief": "Google made Gemini Tasks free in Canada and five other countries, so AI calls and bookings now cost nothing for many families. Google Home says Gemini is up to 20% faster, and Google Labs bought the Howie scheduling assistant. Amazon launched prepared meals under $8, Grocery Dive tells grocers to stop leaning on Instacart, and a Muse agent sued Meta.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "headline": "Gemini 免费替你打电话，谷歌买下“抄送即约会”的排期助手，亚马逊卖起 8 美元晚饭",
+    "brief": "谷歌让 Gemini Tasks 在加拿大等六国免费，AI 打电话和预约对很多家庭来说不再花钱。Google Home 称 Gemini 最多快了 20%，Google Labs 收购了排期助手 Howie。亚马逊推出 8 美元以下的即食餐，Grocery Dive 劝超市别再依赖 Instacart，还有一个 Muse 代理把 Meta 告上了法院。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-17",
    "number": 23,
    "headline": "Apple puts Siri AI on a meter, HomeView owners fight timers, and the DOJ picks up the DoorDash-Instacart file",
