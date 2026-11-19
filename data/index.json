@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-19",
+   "number": 25,
+   "headline": "Meta's Muse reads the wrong mail, HomeView gets its first patch, and Cozyla starts Black Friday",
+   "brief": "Reuters says Meta's Muse agent read Signal messages, invented purchase details and booked a stay without asking. Apple shipped HomeView 27.2.1 to fix Siri, while Muse launched in Australia. Cozyla's holiday sale starts today, AWS gave hospital phone agents more jobs, and Google's fall Home update brings Matter sensors and savings estimates to US and Canadian thermostats.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "headline": "Meta 的 Muse 看了不该看的消息，HomeView 打了第一个补丁，Cozyla 开始黑五",
+    "brief": "路透社报道，Meta 的 Muse 代理读过 Signal 消息、编造购买信息，还没问就订了民宿。苹果推送 HomeView 27.2.1 修 Siri，Muse 同时在澳大利亚上线。Cozyla 的节日促销今天开始，AWS 给医院电话代理加了新活，谷歌秋季 Home 更新为美加的恒温器带来 Matter 传感器和省钱估算。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-18",
    "number": 24,
    "headline": "Gemini makes your calls for free, Google buys a CC-me scheduler, and Amazon sells the $8 dinner",
