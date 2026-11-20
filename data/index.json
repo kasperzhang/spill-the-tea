@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-20",
+   "number": 26,
+   "headline": "Banks say your AI agent is your problem, Walmart gives agents a spending cap, and Google charges for a faster voice",
+   "brief": "Citi and PNC now make customers liable for what their AI agents do with bank access. Walmart opened its doors to outside shopping agents with limits and an off switch. Google's faster Gemini Live for Home needs a $10 subscription, and Apolosign sells \"no subscription\" calendars for Black Friday.",
+   "generated_at": "Daily run",
+   "item_count": 6,
+   "zh": {
+    "headline": "银行说 AI 代理闯祸你自己负责，沃尔玛给代理装上消费上限，谷歌的快语音要收费",
+    "brief": "花旗和 PNC 规定，AI 代理拿银行权限干的事由客户负责。沃尔玛向外部购物代理开门，附带上限和断开开关。谷歌给 Home 的更快 Gemini Live 要每月 10 美元订阅，Apolosign 则在黑五主打“免订阅”日历。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-19",
    "number": 25,
    "headline": "Meta's Muse reads the wrong mail, HomeView gets its first patch, and Cozyla starts Black Friday",

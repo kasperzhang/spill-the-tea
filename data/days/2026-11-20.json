@@ -1,0 +1,173 @@
+{
+ "issue": {
+  "id": "2026-11-20",
+  "number": 26,
+  "headline": "Banks say your AI agent is your problem, Walmart gives agents a spending cap, and Google charges for a faster voice",
+  "brief": "Citi and PNC now make customers liable for what their AI agents do with bank access. Walmart opened its doors to outside shopping agents with limits and an off switch. Google's faster Gemini Live for Home needs a $10 subscription, and Apolosign sells \"no subscription\" calendars for Black Friday.",
+  "generated_at": "Daily run",
+  "item_count": 6,
+  "zh": {
+   "headline": "银行说 AI 代理闯祸你自己负责，沃尔玛给代理装上消费上限，谷歌的快语音要收费",
+   "brief": "花旗和 PNC 规定，AI 代理拿银行权限干的事由客户负责。沃尔玛向外部购物代理开门，附带上限和断开开关。谷歌给 Home 的更快 Gemini Live 要每月 10 美元订阅，Apolosign 则在黑五主打“免订阅”日历。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-20-01",
+   "date": "2026-11-20",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "published": "Nov 18",
+   "title": "Citi and PNC join JPMorgan and Bank of America: if your AI agent spends it, you own it",
+   "summary": "Citi changed its online terms this week so customers who give third-party AI agents account access are responsible for what those agents do, even if the tool is hacked. PNC changed its terms on Nov 18 and Citizens emailed customers the same warning. JPMorgan and Bank of America set similar policies in October, and banks say they will not reverse transactions an AI tool makes.",
+   "relevance": "Kora's shopping agent is about to buy things with stored cards, and Kora Plus places calls for families. If a bad purchase lands on the parent, Kora's approval step and clear limits become the reason a family trusts it at all.",
+   "take": "The banks have read the agent hype and replied with a liability clause. Translation for us: every Kora purchase needs a parent's tap and a paper trail, or it never ships.",
+   "runtu": "My bank won't cover a robot's mistake, so I won't let one shop without asking me. Show me the cart and the total before anything is paid, and I'm in.",
+   "deep_analysis": {
+    "what": "Four of the largest US banks now put the risk of AI agents on the customer. Citi's updated agreement says customers who grant access to third-party AI agents are responsible, including when credentials leak. Banks say they won't reverse intentional or unintentional agent transactions. Citi exempts its own AI tools from that extra liability.",
+    "impact": "Families will hear that letting AI near money is risky, and the bank won't help. Agents that hold bank logins look worst. Agents that pay through a card wallet with a human approval step look much safer. TechCrunch notes Anthropic's finance tool is read-only for this reason.",
+    "next": [
+     "Keep Kora's order approval behind Face ID or a passcode, and say so on the checkout screen.",
+     "Never ask families for bank logins. Pay only through card wallets like Stripe Link or Shopify checkout, with a per-order cap.",
+     "Add a simple order history parents can review and dispute from, ahead of the Black Friday push."
+    ]
+   },
+   "zh": {
+    "published": "11月18日",
+    "title": "花旗、PNC 跟进摩根大通和美银：AI 代理花的钱，算你自己的",
+    "summary": "花旗本周修改网银条款：把账户权限交给第三方 AI 代理的客户，要为代理的行为负责，工具被黑也一样。PNC 在 11 月 18 日改了条款，Citizens 也给客户发邮件提醒。摩根大通和美银 10 月已出台类似政策，银行表示不会撤销 AI 工具发起的交易。",
+    "relevance": "Kora 的购物代理即将用绑定的卡下单，Kora Plus 还会替家庭打电话。出了错账单落在家长头上，所以审批步骤和清楚的限额，就是家庭敢用的前提。",
+    "take": "银行看完代理的热闹，回了一份免责条款。对我们来说就一句话：每一单都要家长点头、留底，不然别上线。",
+    "runtu": "银行不管机器人犯的错，那我也不让它不问我就买。先给我看购物车和总价，再付钱，我就敢用。",
+    "deep_analysis": {
+     "what": "美国四家最大的银行已把 AI 代理的风险推给客户。花旗新协议写明，授权第三方 AI 代理的客户自行负责，凭证泄露也包括在内。银行表示不会撤销代理发起的有意或无意交易。花旗自家的 AI 工具不在此列。",
+     "impact": "家庭会听到一个信号：让 AI 碰钱有风险，银行不兜底。拿着网银密码的代理最吃亏；通过卡包付款、有人工审批的代理显得安全得多。TechCrunch 提到 Anthropic 的理财工具只读，正是这个原因。",
+     "next": [
+      "保留 Face ID 或密码审批订单，并在结账页写清楚。",
+      "绝不向家庭索要网银密码，只走 Stripe Link 或 Shopify 结账，设单笔上限。",
+      "在黑五推广前，加一个家长可查看、可申诉的订单记录。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-20-02",
+   "date": "2026-11-20",
+   "rank": 2,
+   "topic": "grocery",
+   "priority": "high",
+   "source": "PYMNTS",
+   "url": "https://pymnts.com/earnings/2026/walmart-pairs-membership-growth-with-an-ai-agent-push",
+   "published": "Nov 19",
+   "title": "Walmart lets shoppers bring their own AI agent, with spending limits and a kill switch",
+   "summary": "On its Nov 19 earnings call, Walmart said shoppers can now set up profiles for AI agents they bring, with spending limits, separate tracking of agent purchases and the power to revoke access. Approved agents connect through Walmart's Agent Gateway. Walmart also said US use of its Sparky assistant rose 129% from a year ago, and Sparky baskets were 40% larger.",
+   "relevance": "This is a front door for outside agents at the biggest US grocer, the opposite of Amazon blocking them. Kora's shopping agent could order Walmart groceries for families, and Walmart's controls match what parents will expect from Kora.",
+   "take": "Amazon locked the door, Walmart installed a turnstile with a budget meter. Worth getting Kora on the approved list before the line gets long.",
+   "runtu": "A spending cap and an off switch is exactly what I want for grocery runs. If Kora can fill a Walmart cart from my meal plan, that saves me a Sunday hour.",
+   "zh": {
+    "published": "11月19日",
+    "title": "沃尔玛允许顾客自带 AI 代理购物，还能设消费上限、随时断开",
+    "summary": "沃尔玛在 11 月 19 日财报会上表示，顾客现在可以给自带的 AI 代理建档案，设消费上限，单独追踪代理下的单，并随时撤销权限。获批代理通过沃尔玛的 Agent Gateway 接入。沃尔玛还说，自家助手 Sparky 在美国的使用量同比增长 129%，相关订单金额大 40%。",
+    "relevance": "美国最大的杂货商给外部代理开了正门，和亚马逊封堵外部代理正好相反。Kora 的购物代理有机会替家庭在沃尔玛下杂货单，而沃尔玛的这些管控，也正是家长会对 Kora 提的要求。",
+    "take": "亚马逊锁门，沃尔玛装了个带预算表的闸机。趁队还不长，赶紧把 Kora 排进白名单。",
+    "runtu": "有上限、能断开，买菜交给代理我才放心。Kora 要是能按菜单把沃尔玛购物车装满，周末我能省一小时。"
+   }
+  },
+  {
+   "id": "2026-11-20-03",
+   "date": "2026-11-20",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/18/google-home-gemini-live-update-coming/",
+   "published": "Nov 18",
+   "title": "Google's faster Gemini Live is coming to Home speakers and displays, but only for paying households",
+   "summary": "Google says Gemini Live on its Home speakers and smart displays will move to a new speech-to-speech model with much faster replies. Live chats will also run smart home controls and timers without ending the conversation. It needs Google Home Premium, from $10 a month or included with Google One AI Pro, and the date is only \"coming soon\".",
+   "relevance": "Google is putting its best kitchen voice behind a subscription. That sets a price families will compare against Kora Plus, and it gives \"Hey Kora\" an opening if Kora's voice stays fast and included.",
+   "take": "Google found a new feature to charge for: not hanging up on you mid-timer. If Hey Kora does that for free, put it in the ad.",
+   "runtu": "I'm not paying $10 a month so my speaker can set a timer while we chat. If Kora already does that in the price, say it loud.",
+   "zh": {
+    "published": "11月18日",
+    "title": "谷歌更快的 Gemini Live 要上家用音箱和屏了，但只给付费家庭",
+    "summary": "谷歌表示，Home 音箱和智能屏上的 Gemini Live 将换成新的语音到语音架构，回复明显更快。对话中还能直接控制智能家居、设定时器，不用中断。需要 Google Home Premium，每月 10 美元起，或包含在 Google One AI Pro 里，上线时间只写了“即将推出”。",
+    "relevance": "谷歌把最好的厨房语音放进了订阅。家庭会拿这个价格和 Kora Plus 比；如果 Kora 的语音又快又免费，“Hey Kora”就有机会。",
+    "take": "谷歌又找到一个可以收费的功能：定时的时候不挂你电话。要是 Hey Kora 免费做到，直接写进广告。",
+    "runtu": "让音箱边聊边定个时器还要每月 10 美元，我不干。Kora 已经包含在价格里，就大声说出来。"
+   }
+  },
+  {
+   "id": "2026-11-20-04",
+   "date": "2026-11-20",
+   "rank": 4,
+   "topic": "competitors",
+   "priority": "watch",
+   "source": "The Manila Times (GlobeNewswire)",
+   "url": "https://manilatimes.net/2026/11/18/tmt-newswire/globenewswire/apolosign-highlights-subscription-free-digital-calendars-and-black-friday-deals-for-2026/2473077",
+   "published": "Nov 18",
+   "title": "Apolosign sells \"no subscription\" family calendars for Black Friday, 15.6-inch from $239",
+   "summary": "Apolosign is running a Black Friday sale from Nov 16 to 29 on four family calendars. The 15.6-inch drops from $349 to $239, the 21.5-inch from $449 to $339, and the 27-inch models to $539 and $639. Its pitch is that core family features need no monthly fee.",
+   "relevance": "Kora's 15-inch and 21-inch sizes sit right against these prices, and \"no subscription\" is the line families repeat when comparing. Kora's Black Friday offer needs a clear answer on what is free and what Kora Plus adds.",
+   "take": "Another wall tablet, another \"no subscription\" banner. The new rival isn't a product, it's a slogan, and Kora's Black Friday page should answer it in one line.",
+   "runtu": "I check the monthly fee before the screen size. Tell me plainly what I get without paying more each month.",
+   "zh": {
+    "published": "11月18日",
+    "title": "Apolosign 黑五主打“免订阅”家庭日历，15.6 寸 239 美元起",
+    "summary": "Apolosign 在 11 月 16 日至 29 日做黑五促销，涵盖四款家庭日历。15.6 寸从 349 降到 239 美元，21.5 寸从 449 降到 339 美元，两款 27 寸降到 539 和 639 美元。卖点是核心家庭功能不收月费。",
+    "relevance": "Kora 的 15 寸、21 寸正好和这些价位正面相撞，而“免订阅”是家庭比价时最常说的一句。Kora 的黑五方案要讲清楚什么免费、Kora Plus 多给了什么。",
+    "take": "又一块挂墙平板，又一条“免订阅”横幅。新对手不是产品，是口号，Kora 的黑五页面得用一句话回应它。",
+    "runtu": "我先看月费，再看屏幕大小。直接告诉我，不多付月费能得到什么。"
+   }
+  },
+  {
+   "id": "2026-11-20-05",
+   "date": "2026-11-20",
+   "rank": 5,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/the-hidden-cost-of-ai-on-the-phone-55-of-consumers-less-likely-to-buy-when-a-bot-answers-302945004.html",
+   "published": "Nov 19",
+   "title": "Survey: 31% of people would hang up on an AI voice, and 59% find AI phone agents frustrating",
+   "summary": "A OnePoll survey of 6,000 adults in the US, UK and Canada, paid for by AnswerConnect, found 55% are less likely to buy when a business answers with AI. 59% find AI phone agents frustrating, up from 54% last year, and 31% would hang up on one. AnswerConnect sells human answering services, so it has a stake in the result.",
+   "relevance": "This is about bots answering calls, but the people on the other end of Kora Plus calls are the same public. Kora's calling agent needs to be short, polite and quick to get to the point, or restaurants will hang up.",
+   "take": "A human answering service found that people prefer humans. Shocking. Still, 31% hang-ups is the number Kora's call script has to beat.",
+   "runtu": "I hang up on robots too. If Kora calls for me, it should sound polite, say who it's for, and finish fast.",
+   "zh": {
+    "published": "11月19日",
+    "title": "调查：31% 的人会挂断 AI 语音，59% 觉得 AI 电话客服很烦",
+    "summary": "AnswerConnect 委托 OnePoll 调查了美国、英国和加拿大 6000 名成年人：55% 表示企业用 AI 接电话会让他们更不想买。59% 觉得 AI 电话客服让人沮丧，去年是 54%；31% 会直接挂断。AnswerConnect 卖人工接线服务，结果对它有利。",
+    "relevance": "调查讲的是 AI 接电话，但 Kora Plus 打电话时，对面也是同一批人。Kora 的通话代理要简短、礼貌、直奔主题，不然餐厅会挂。",
+    "take": "卖人工接线的公司调查发现，大家更喜欢人工。真意外。不过 31% 的挂断率，正是 Kora 通话脚本要打败的数字。",
+    "runtu": "我也挂机器人的电话。Kora 替我打电话，就要客气、说清替谁打、快点说完。"
+   }
+  },
+  {
+   "id": "2026-11-20-06",
+   "date": "2026-11-20",
+   "rank": 6,
+   "topic": "bigtech",
+   "priority": "fyi",
+   "source": "9to5Mac",
+   "url": "https://9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms/",
+   "published": "Nov 19",
+   "title": "Apple confirms the iOS 27.3 beta breaks HomeView's personal Siri requests until December",
+   "summary": "Apple's HomeView 27.2.1 notes say pairing with an iPhone or iPad on the iOS 27.3 beta may cause Siri requests to fail. Those users now hear Siri say their personal device is on newer software, while timers still work. Personal Content requests may not return until HomeView 27.3 ships in December.",
+   "relevance": "HomeView's personal features depend on every family phone running matching software. Kora syncs Google, Apple and Outlook calendars from the cloud, so a phone update shouldn't stop the kitchen screen from showing the day.",
+   "take": "HomeView now checks your iPhone's version before it checks your calendar. Kora's pitch writes itself: works with whatever phone you have.",
+   "runtu": "Phones in a family never update on the same day. A kitchen screen that sulks when one is newer won't last a week in my house.",
+   "zh": {
+    "published": "11月19日",
+    "title": "苹果确认：iOS 27.3 测试版让 HomeView 的个人 Siri 请求失灵，要等到 12 月",
+    "summary": "苹果在 HomeView 27.2.1 更新说明里写道，与运行 iOS 27.3 测试版的 iPhone 或 iPad 配对，可能导致 Siri 请求失败。这些用户会听到 Siri 说“你的个人设备软件更新”，不过定时器还能用。个人内容请求可能要等 12 月 HomeView 27.3 才恢复。",
+    "relevance": "HomeView 的个人功能要求家里每部手机的系统版本对得上。Kora 从云端同步谷歌、苹果和 Outlook 日历，手机升级不该影响厨房屏显示今天的安排。",
+    "take": "HomeView 先查你 iPhone 的版本，再查你的日程。Kora 的卖点自己就写好了：什么手机都能用。",
+    "runtu": "一家人的手机从来不会同一天升级。哪部新了厨房屏就闹脾气，在我家撑不过一周。"
+   }
+  }
+ ]
+}
