@@ -1,0 +1,127 @@
+{
+ "issue": {
+  "id": "2026-11-21",
+  "number": 27,
+  "headline": "Google puts grocery carts in Gemini, Skylight's kids get bored, and Nest gets an eviction date",
+  "brief": "Google now builds Target and Albertsons grocery carts inside Gemini and Search. A Skylight review praises the screen but says kids lost interest and photos sit behind a paywall. Google set firm dates to retire the Nest app and move displays off Assistant, and Apple is hiring to build its own computer-use agent.",
+  "generated_at": "Daily run",
+  "item_count": 4,
+  "zh": {
+   "headline": "谷歌把购物车塞进 Gemini，Skylight 的孩子玩腻了，Nest 收到搬家通知",
+   "brief": "谷歌现在能在 Gemini 和搜索里直接组好 Target、Albertsons 的买菜购物车。一篇 Skylight 评测夸了屏幕，但说孩子几个月就不看了，传照片也要付费。谷歌给 Nest 应用关停和智能屏告别 Assistant 定了日期，苹果则在招人做自己的电脑操作代理。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-21",
+   "rank": 1,
+   "topic": "grocery",
+   "priority": "high",
+   "source": "PPC Land",
+   "url": "https://ppc.land/google-puts-target-and-albertsons-grocery-carts-inside-search-and-gemini",
+   "published": "Nov 21",
+   "title": "Google puts Target and Albertsons grocery carts inside Gemini and Search",
+   "summary": "Google is rolling out grocery Connected Apps for Target, Albertsons, Safeway and Shaw's in Search AI Mode and the Gemini app, in the US. Google says they help people build an order and check out, using its Universal Commerce Protocol. Its Target demo ends at a pickup cart of 8 items for $37.49.",
+   "relevance": "Kora's meal plan to Instacart flow now has a rival inside the phone's main assistant, and Instacart reached AI Mode first in July. A grocer-agnostic cart from the meal plan matters more if families start shopping where Gemini sends them.",
+   "take": "Google now fills your Target cart for bagels and cream cheese. The cart is easy; knowing what dinner is on Thursday is the hard part, so own the plan, not the basket.",
+   "runtu": "I don't shop by asking a search box. I shop from the list on the fridge, so make sure that list can go to more than one store.",
+   "deep_analysis": {
+    "what": "On Nov 20 Google added grocery apps from Target, Albertsons, Safeway and Shaw's to AI Mode in Search and to the Gemini app, US only. They build an order and check out through the Universal Commerce Protocol, which launched in January. Instacart joined AI Mode in July, and the Connected Apps preview opened Oct 28. Google's example stops at the cart, and the post does not say who processes payment.",
+    "impact": "Grocery ordering is moving into general assistants that families already carry. If Gemini can turn \"plan dinners for the week\" into a Target pickup cart, a kitchen display's ordering button has to be faster or smarter to matter. Kora's edge is upstream: it knows the fridge, the calendar and who is home for dinner. A Search cart does not.",
+    "next": [
+     "Check whether Kora's shopping list can export to more than Instacart, starting with Target and Walmart pickup.",
+     "Watch if Gemini Tasks or Gemini for Home starts using these grocery apps by voice on Nest displays.",
+     "Track whether Google brings grocery Connected Apps to Canada, where Kora sells."
+    ]
+   },
+   "zh": {
+    "published": "11月21日",
+    "title": "谷歌把 Target 和 Albertsons 的购物车塞进了 Gemini 和搜索",
+    "summary": "谷歌在美国的搜索 AI 模式和 Gemini 应用里上线了 Target、Albertsons、Safeway 和 Shaw's 的买菜应用。谷歌说它们能帮用户组好订单并结账，底层是它的通用商务协议。演示里的 Target 订单是 8 件商品、37.49 美元的到店自取购物车。",
+    "relevance": "Kora 从膳食计划到 Instacart 下单的这条路，在手机主助手里有了对手，而 Instacart 7 月就先进了 AI 模式。家庭如果开始跟着 Gemini 去哪家买菜，膳食计划生成的购物车能对接不止一家店就更重要了。",
+    "take": "谷歌现在能帮你把贝果和奶油奶酪放进 Target 购物车。装车不难，难的是周四晚饭吃什么，所以抓住计划，别只抢篮子。",
+    "runtu": "我买菜不是问搜索框，是看冰箱上那张清单。那张清单能发给不止一家店，才算帮上忙。",
+    "deep_analysis": {
+     "what": "11月20日，谷歌在美国把 Target、Albertsons、Safeway 和 Shaw's 的买菜应用接入搜索 AI 模式和 Gemini 应用。它们通过1月推出的通用商务协议组单和结账。Instacart 7月已进入 AI 模式，Connected Apps 预览版10月28日开放。谷歌的示例停在购物车这一步，也没说由谁处理付款。",
+     "impact": "买菜正在搬进家人随身带着的通用助手里。如果 Gemini 能把“安排这周晚饭”直接变成 Target 自取订单，厨房屏上的下单按钮就得更快或更聪明才有意义。Kora 的优势在上游：它知道冰箱里有什么、日历怎么排、谁回家吃饭，搜索框里的购物车不知道。",
+     "next": [
+      "检查 Kora 的购物清单能否导出到 Instacart 以外的渠道，先看 Target 和沃尔玛自取。",
+      "关注 Gemini Tasks 或 Gemini for Home 是否开始在 Nest 屏上用语音调用这些买菜应用。",
+      "跟踪谷歌何时把买菜 Connected Apps 带到 Kora 销售的加拿大。"
+     ]
+    }
+   },
+   "id": "2026-11-21-01"
+  },
+  {
+   "date": "2026-11-21",
+   "rank": 2,
+   "topic": "competitors",
+   "priority": "high",
+   "source": "Pickr",
+   "url": "https://www.pickr.com.au/reviews/2026/skylight-digital-calendar-15/",
+   "published": "Nov 20",
+   "title": "Pickr gives Skylight 15 a 4 out of 5, but says the reviewer's kids lost interest after a few months",
+   "summary": "Australian site Pickr reviewed the Skylight 15, priced from A$529, with the 27-inch at A$1,199. Its Plus plan costs A$125 a year and is needed for chore rewards, AI meal and school-notice capture, and even uploading your own photos. The reviewer praised ease of use but noted no voice, no real speaker, and kids who drifted away.",
+   "relevance": "It lists the exact gaps Kora fills: voice, a real assistant, and features that keep kids coming back. It also shows how much a reviewer resents a paywall on basics like photos.",
+   "take": "Skylight charges A$125 a year to let you upload your own photos. Bold. Keep the basics free and make kids want to tap the screen in month four, not just week one.",
+   "runtu": "Every screen is fun the first month. What I need is the one my kids still check before school in March.",
+   "zh": {
+    "published": "11月20日",
+    "title": "Pickr 给 Skylight 15 打了 4 分，但评测者说孩子几个月后就不看了",
+    "summary": "澳洲网站 Pickr 评测了 Skylight 15，起价 529 澳元，27 英寸版 1199 澳元。Plus 会员每年 125 澳元，家务奖励、AI 拍照识别菜单和学校通知，甚至上传自己的照片都要它。评测称赞好上手，但指出没有语音、没有像样的扬声器，孩子也慢慢不用了。",
+    "relevance": "这篇评测列出的缺口正是 Kora 补上的：语音、真正的助手，以及让孩子持续回来用的功能。它也说明评测者很反感把照片这种基础功能锁进付费墙。",
+    "take": "Skylight 每年收 125 澳元，才让你传自己家的照片。真敢。基础功能免费，再让孩子第四个月还愿意点屏幕，而不只是第一周。",
+    "runtu": "哪块屏头一个月都好玩。我要的是三月份孩子上学前还会看一眼的那块。"
+   },
+   "id": "2026-11-21-02"
+  },
+  {
+   "date": "2026-11-21",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "Android Central",
+   "url": "https://androidcentral.com/accessories/smart-home/google-sets-hard-deadline-for-the-nest-app-and-smart-display-assistant",
+   "published": "Nov 20",
+   "title": "Google sets the dates: the Nest app ends Jan 25, and Assistant leaves smart displays on Aug 2, 2027",
+   "summary": "Google will retire the Nest app on Jan 25, 2027 and move thermostats, cameras, doorbells and alarms into Google Home. Old Nest accounts must be linked to a Google account by Mar 25, 2027 or risk losing data and subscriptions. Google Assistant stops running on compatible speakers and displays on Aug 2, 2027, replaced by Gemini for Home.",
+   "relevance": "Every Nest Hub on a kitchen counter now has a forced change on the calendar. Families re-learning their display is a natural moment to compare it with a purpose-built family screen like Kora.",
+   "take": "Google gives Nest owners a homework deadline and a new assistant they did not ask for. Migration season is shopping season, so be in the comparison when it starts.",
+   "runtu": "Saved camera clips don't move over by themselves. Remind people to download them before January, and they'll trust you with the rest.",
+   "zh": {
+    "published": "11月20日",
+    "title": "谷歌定下日期：Nest 应用 1 月 25 日关闭，Assistant 2027 年 8 月 2 日退出智能屏",
+    "summary": "谷歌将在 2027 年 1 月 25 日关闭 Nest 应用，把温控器、摄像头、门铃和报警器搬进 Google Home。旧 Nest 账户须在 2027 年 3 月 25 日前绑定谷歌账户，否则可能丢失数据和订阅。2027 年 8 月 2 日起，兼容的音箱和屏幕上不再运行 Google Assistant，由 Gemini for Home 接替。",
+    "relevance": "厨房台面上的每台 Nest Hub 都被排上了一次强制换代。家人重新学怎么用屏幕的时候，正好会拿它和 Kora 这种专为家庭做的屏比一比。",
+    "take": "谷歌给 Nest 用户布置了带截止日期的作业，外加一个没人点单的新助手。迁移季就是选购季，比较开始时得在名单里。",
+    "runtu": "存下来的摄像头片段不会自动搬过去。提醒大家一月前先下载，他们才会把别的事也交给你。"
+   },
+   "id": "2026-11-21-03"
+  },
+  {
+   "date": "2026-11-21",
+   "rank": 4,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "MacRumors",
+   "url": "https://macrumors.com/2026/11/19/apple-ai-agent-development",
+   "published": "Nov 19",
+   "title": "Apple's job listing shows it is building a 'general-purpose computer-use agent'",
+   "summary": "A Bloomberg-spotted Apple listing seeks a senior engineering manager for an 'Agentic AI, Proactive' team. The team builds agents that browse the web, work across apps, write code and coordinate sub-agents, with safety and privacy 'central to the design'. Bloomberg earlier reported Apple wants Siri to act more like an agent as soon as 2027.",
+   "relevance": "Apple, Meta, OpenAI and Google are all racing toward agents that act unprompted. Kora's AI phone calls and proactive family reminders will be judged against these, so trust and clear approval steps need to be a selling point.",
+   "take": "Apple is hiring someone to build the agent everyone else already shipped. Late, but with the trust of a billion iPhones, so Kora should win on family context before Siri learns it.",
+   "runtu": "I don't need an agent that writes code. I need one that notices the dentist moved to Tuesday and asks before it rebooks.",
+   "zh": {
+    "published": "11月19日",
+    "title": "苹果招聘启事显示，它在做“通用电脑操作代理”",
+    "summary": "彭博发现的一则苹果招聘启事，要为“Agentic AI, Proactive”团队找一位高级工程经理。该团队做能浏览网页、跨应用操作、写代码并协调子代理的 AI 代理，并称安全和隐私要“放在设计核心”。彭博此前报道，苹果希望最早 2027 年让 Siri 更像代理。",
+    "relevance": "苹果、Meta、OpenAI 和谷歌都在冲向会主动做事的代理。Kora 的 AI 代打电话和主动家庭提醒会被拿来比较，所以信任和清晰的确认步骤得成为卖点。",
+    "take": "苹果在招人做别人都已上线的代理。慢是慢，但背后有十亿台 iPhone 的信任，Kora 得趁 Siri 学会懂家之前，先在家庭场景里赢下来。",
+    "runtu": "我不需要会写代码的代理。我要的是发现牙医改到周二、先问我一声再改预约的那个。"
+   },
+   "id": "2026-11-21-04"
+  }
+ ]
+}

@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-21",
+   "number": 27,
+   "headline": "Google puts grocery carts in Gemini, Skylight's kids get bored, and Nest gets an eviction date",
+   "brief": "Google now builds Target and Albertsons grocery carts inside Gemini and Search. A Skylight review praises the screen but says kids lost interest and photos sit behind a paywall. Google set firm dates to retire the Nest app and move displays off Assistant, and Apple is hiring to build its own computer-use agent.",
+   "generated_at": "Daily run",
+   "item_count": 4,
+   "zh": {
+    "headline": "谷歌把购物车塞进 Gemini，Skylight 的孩子玩腻了，Nest 收到搬家通知",
+    "brief": "谷歌现在能在 Gemini 和搜索里直接组好 Target、Albertsons 的买菜购物车。一篇 Skylight 评测夸了屏幕，但说孩子几个月就不看了，传照片也要付费。谷歌给 Nest 应用关停和智能屏告别 Assistant 定了日期，苹果则在招人做自己的电脑操作代理。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-20",
    "number": 26,
    "headline": "Banks say your AI agent is your problem, Walmart gives agents a spending cap, and Google charges for a faster voice",
