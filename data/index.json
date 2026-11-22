@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-22",
+   "number": 28,
+   "headline": "One webpage hijacked Meta's Muse, Walmart's Sparky fills bigger carts, and HomeView breaks on the repair bench",
+   "brief": "A quiet Sunday. Researchers showed a single malicious webpage could make Meta's Muse agent leak chat history and memories with no approval prompt, now fixed. Walmart says Sparky use is up 129% and its baskets are 40% bigger. iFixit calls HomeView unnecessarily hard to repair, and the Echo Dot Max hub drops to $49.99.",
+   "generated_at": "Daily run",
+   "item_count": 4,
+   "zh": {
+    "headline": "一个网页劫持了 Meta 的 Muse，沃尔玛 Sparky 把购物车装得更满，HomeView 在维修台上散了架",
+    "brief": "周日消息不多。研究人员演示，一个恶意网页就能让 Meta 的 Muse 代理在没有确认提示的情况下泄露聊天记录和记忆，漏洞现已修复。沃尔玛称 Sparky 使用量涨了 129%，购物篮大 40%。iFixit 说 HomeView 难修得没必要，Echo Dot Max 中控降到 49.99 美元。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-21",
    "number": 27,
    "headline": "Google puts grocery carts in Gemini, Skylight's kids get bored, and Nest gets an eviction date",

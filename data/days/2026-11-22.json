@@ -1,0 +1,127 @@
+{
+ "issue": {
+  "id": "2026-11-22",
+  "number": 28,
+  "headline": "One webpage hijacked Meta's Muse, Walmart's Sparky fills bigger carts, and HomeView breaks on the repair bench",
+  "brief": "A quiet Sunday. Researchers showed a single malicious webpage could make Meta's Muse agent leak chat history and memories with no approval prompt, now fixed. Walmart says Sparky use is up 129% and its baskets are 40% bigger. iFixit calls HomeView unnecessarily hard to repair, and the Echo Dot Max hub drops to $49.99.",
+  "generated_at": "Daily run",
+  "item_count": 4,
+  "zh": {
+   "headline": "一个网页劫持了 Meta 的 Muse，沃尔玛 Sparky 把购物车装得更满，HomeView 在维修台上散了架",
+   "brief": "周日消息不多。研究人员演示，一个恶意网页就能让 Meta 的 Muse 代理在没有确认提示的情况下泄露聊天记录和记忆，漏洞现已修复。沃尔玛称 Sparky 使用量涨了 129%，购物篮大 40%。iFixit 说 HomeView 难修得没必要，Echo Dot Max 中控降到 49.99 美元。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "id": "2026-11-22-01",
+   "date": "2026-11-22",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+   "published": "Nov 21",
+   "title": "One malicious webpage let researchers hijack Meta's Muse and copy chat history and memories, with no approval prompt",
+   "summary": "Security firm NebuSec showed that a single webpage opened by the Muse agent could send a user's conversation history and stored memories to an outside server, and change them, without any approval prompt. By chaining a flaw in Muse's built-in browser with a Linux kernel bug, they took full control of the user's cloud machine, including the credential store for connected accounts. NebuSec says every exploit was fixed before publication; Meta has not commented.",
+   "relevance": "Kora's agent also reads outside content: screenshots, web pages for calls and checkout pages. Families will judge every agent by Muse's headlines, so Kora needs to show that untrusted content can never trigger an action or leak the family's calendar and memory.",
+   "take": "Muse had approval prompts, a monitoring layer and a sandbox, and one webpage walked past all of them. Every control 'worked as designed.' Write that on the whiteboard and then check what our agent does when a page tells it to.",
+   "runtu": "I don't care how clever the attack was. I care whether the thing that knows my kids' schedule can be tricked by a link, so tell me plainly what it can't do.",
+   "deep_analysis": {
+    "what": "On Nov 20 NebuSec published a lab demo against Meta's Muse agent, which launched Sept 8. A malicious page the agent opened could pull conversation history and stored memories to an external server and alter them, with no approval prompt. Chaining a flaw in Muse's built-in browser (used for tasks like making PDFs) with a Linux kernel flaw gave the researchers full control of one user's cloud machine: memories, saved files, the credential store for connected accounts, and Sentinel, the layer meant to gate outbound agent traffic. They did not reach other users. NebuSec says all exploits were fixed before publication; Meta has not confirmed or commented.",
+    "impact": "This is the third Muse trust story in a week, after Reuters' report of the agent reading Signal messages and booking without asking. Prompt injection from web content is now a mainstream worry, not a research footnote. Kora's agent touches the same risky inputs: web pages, screenshots, receipts and phone call transcripts. A family display also holds exactly what attackers want: kids' schedules, addresses and payment links for groceries.",
+    "next": [
+     "Run a prompt-injection test pass on every path where Kora reads outside content: screenshots, receipts, web search results and checkout pages.",
+     "Keep the new rule that phone calls only start from the Call button, and apply the same 'human tap required' rule to checkout and to sharing family data.",
+     "Write a one-page plain-language note on what Kora's agent can and cannot do with family data, ready for when parents ask about Muse."
+    ]
+   },
+   "zh": {
+    "published": "11月21日",
+    "title": "一个恶意网页就劫持了 Meta 的 Muse，聊天记录和记忆被拷走，全程没有确认提示",
+    "summary": "安全公司 NebuSec 演示：Muse 代理只要打开一个恶意网页，用户的对话历史和存储的记忆就会被发到外部服务器，还能被篡改，期间没有任何确认提示。研究人员再把 Muse 内置浏览器的漏洞和一个 Linux 内核漏洞串起来，拿下了用户整台云端机器，连接账号的凭据库也在其中。NebuSec 称所有漏洞在发布前已修复，Meta 未置评。",
+    "relevance": "Kora 的代理同样会读外部内容：截图、打电话前查的网页、结账页面。家长会拿 Muse 的新闻来衡量所有代理，Kora 需要证明外部内容既不能触发操作，也拿不走家里的日历和记忆。",
+    "take": "确认弹窗、监控层、沙箱，Muse 一样不缺，结果一个网页全绕过去了，而且每道防线都“按设计工作”。这句话抄到白板上，然后去试试我们的代理被网页使唤时会干什么。",
+    "runtu": "攻击多高明我不关心。我只想知道，记着我家孩子日程的东西，会不会被一个链接骗了。它不能干什么，请说清楚。",
+    "deep_analysis": {
+     "what": "11 月 20 日，NebuSec 公布了针对 Meta Muse 代理（9 月 8 日上线）的实验室演示。代理打开的恶意网页可以把对话历史和记忆发到外部服务器并篡改，没有确认提示。把 Muse 内置浏览器（用于生成 PDF 等任务）的漏洞和 Linux 内核漏洞串联后，研究人员完全控制了单个用户的云端机器：记忆、保存的文件、连接账号的凭据库，以及本应把关代理外发流量的 Sentinel。他们没有触及其他用户。NebuSec 称漏洞已在发布前全部修复，Meta 未确认也未置评。",
+     "impact": "这是一周内 Muse 第三条信任类新闻，此前路透社报道它读了 Signal 消息、没问就订了住处。网页内容带来的提示注入，已经从论文脚注变成大众担心的问题。Kora 的代理碰的是同一类高风险输入：网页、截图、小票和电话记录。家庭屏里存的又正是攻击者想要的：孩子日程、住址、买菜的支付链接。",
+     "next": [
+      "对 Kora 读取外部内容的每条路径做一轮提示注入测试：截图、小票、搜索结果和结账页面。",
+      "保留“电话只能由 Call 按钮发起”的新规则，并把“必须人手点一下”推广到结账和分享家庭数据。",
+      "写一页大白话说明：Kora 代理能对家庭数据做什么、不能做什么，家长问起 Muse 时直接给。"
+     ]
+    }
+   }
+  },
+  {
+   "id": "2026-11-22-02",
+   "date": "2026-11-22",
+   "rank": 2,
+   "topic": "grocery",
+   "priority": "watch",
+   "source": "Customer Experience Dive",
+   "url": "https://www.customerexperiencedive.com/news/walmart-is-building-an-omnichannel-environment-around-agentic-ai/875251/",
+   "published": "Nov 19",
+   "title": "Walmart says Sparky use is up 129% in a year, and shoppers who use it build 40% bigger baskets",
+   "summary": "On its third-quarter earnings call, Walmart said US use of its Sparky shopping assistant rose 129% year over year, and customers build 40% larger baskets with it. CEO John Furner said Walmart is creating an environment where agents help customers discover items and decide what to buy, and that its business is built on trust.",
+   "relevance": "A big retailer now has numbers showing AI help grows the grocery basket. That supports Kora's meal plan to cart flow, and it is a reason to keep Walmart in mind as a second checkout next to Instacart.",
+   "take": "Sparky doubled its users and fattened every cart by 40%, which is what an assistant looks like when the store owns it. Basket size is the metric retailers will listen to, so measure ours.",
+   "runtu": "Bigger baskets are great for Walmart. In my house the win is a smaller basket with no wasted food, so show me that number too.",
+   "zh": {
+    "published": "11月19日",
+    "title": "沃尔玛：Sparky 使用量一年涨 129%，用它的顾客购物车大 40%",
+    "summary": "沃尔玛在第三季度财报电话会上说，美国用户对 Sparky 购物助手的使用同比增长 129%，用它下单的购物篮大 40%。CEO John Furner 说，沃尔玛在打造一个让代理帮顾客发现商品、决定买什么的环境，而它的生意建立在信任之上。",
+    "relevance": "大零售商拿出了 AI 能把买菜车做大的数据，这对 Kora 的“膳食计划到购物车”是个支撑，也提醒我们把沃尔玛当成 Instacart 之外的第二个结账选项。",
+    "take": "Sparky 用户翻倍，每车多装四成，店家自己养的助手就是这个样子。零售商只听购物篮大小，我们的也该量一量。",
+    "runtu": "购物车变大是沃尔玛的好事。我家要的是车小一点、菜不浪费，这个数也请给我看看。"
+   }
+  },
+  {
+   "id": "2026-11-22-03",
+   "date": "2026-11-22",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "MacRumors",
+   "url": "https://www.macrumors.com/2026/11/17/ifixit-homeview-teardown/",
+   "published": "Nov 17",
+   "title": "iFixit says Apple's HomeView is unnecessarily hard to repair, and getting inside broke parts",
+   "summary": "iFixit's teardown found the HomeView display is glued in and can only come out from the front, a speaker snapped in half on removal, and the logic board is stuck to the case with thermal paste and adhesive. The wall and tabletop models share no parts. The USB-C port and two passive speakers are modular, but iFixit says Apple made repairs 'unreasonably and unnecessarily difficult.'",
+   "relevance": "A kitchen screen lives with steam, sticky hands and falls. If HomeView owners face replace-not-repair, Kora can stand out with clear warranty and repair terms for families.",
+   "take": "Apple built a kitchen screen you can't open without breaking it, which is bold for a room full of toddlers. Our pitch writes itself: when it breaks, we fix it.",
+   "runtu": "Screens in my kitchen get knocked over. Before I buy one I want to know who fixes it and what it costs.",
+   "zh": {
+    "published": "11月17日",
+    "title": "iFixit：苹果 HomeView 难修得没必要，拆的时候零件都坏了",
+    "summary": "iFixit 拆解发现，HomeView 的屏幕是粘死的，只能从正面取下；拆一个扬声器时直接断成两半；主板用导热膏和胶粘在外壳上。壁挂版和台式版零件互不通用。USB-C 接口和两个被动扬声器是模块化的，但 iFixit 说苹果让维修“无理地、不必要地困难”。",
+    "relevance": "厨房里的屏幕要面对蒸汽、油手和磕碰。如果 HomeView 用户坏了只能换新，Kora 可以用清楚的保修和维修条款打动家庭。",
+    "take": "苹果造了块不弄坏就打不开的厨房屏，还放在满屋小孩的地方，胆子不小。我们的卖点现成：坏了，我们修。",
+    "runtu": "我家厨房的屏幕迟早被碰倒。买之前我只想知道谁来修，要花多少钱。"
+   }
+  },
+  {
+   "id": "2026-11-22-04",
+   "date": "2026-11-22",
+   "rank": 4,
+   "topic": "smarthome",
+   "priority": "fyi",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/the-echo-dot-max-has-never-been-this-cheap-and-its-previous-low-wasnt-even-close-2000843481",
+   "published": "Nov 21",
+   "title": "Amazon's Echo Dot Max drops to $49.99 for Black Friday, a smart home hub with presence sensors at 58% off",
+   "summary": "The Echo Dot Max is $49.99 during Black Friday week, down from $119.99; its previous low was about $64. It acts as a hub for compatible lights and locks without a separate bridge, its Omnisense sensors detect presence and temperature to run routines, and it is built around Alexa+. Gizmodo advises modest expectations for Alexa+ until you have used it for a few weeks.",
+   "relevance": "A $50 Alexa+ hub with presence sensing sets a low price anchor for 'voice plus smart home' in the kitchen. Kora's value has to come from the family layer, not from being another speaker.",
+   "take": "Amazon is selling a smart home brain for the price of a takeout dinner. Nobody beats that on hardware, so don't try; beat it on knowing who needs to be where at 4pm.",
+   "runtu": "A cheap speaker that turns on lights is nice. It still doesn't know my kid has swimming on Tuesday.",
+   "zh": {
+    "published": "11月21日",
+    "title": "亚马逊 Echo Dot Max 黑五降到 49.99 美元，带存在感应的智能家居中控打 4.2 折",
+    "summary": "黑五周 Echo Dot Max 售价 49.99 美元，原价 119.99 美元，此前最低约 64 美元。它不用额外网桥就能当灯和门锁的中控，Omnisense 传感器能感知有人和温度来触发自动化，并围绕 Alexa+ 打造。Gizmodo 建议先用几周再对 Alexa+ 下结论，期望别太高。",
+    "relevance": "50 美元、带存在感应的 Alexa+ 中控，把厨房里“语音加智能家居”的价格锚压得很低。Kora 的价值必须来自家庭这一层，而不是再多一个音箱。",
+    "take": "亚马逊用一顿外卖的钱卖智能家居大脑。硬件比不过，就别比；比谁知道下午四点谁该在哪。",
+    "runtu": "便宜音箱能开灯挺好，可它还是不知道我家孩子周二要去游泳。"
+   }
+  }
+ ]
+}
