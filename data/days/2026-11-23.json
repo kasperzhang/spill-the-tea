@@ -1,0 +1,150 @@
+{
+ "issue": {
+  "id": "2026-11-23",
+  "number": 29,
+  "headline": "Signal locks AI agents out of your chats, OpenAI's Dots creep toward $20, and the Echo Show 11 drops to $155",
+  "brief": "Signal now blocks screenshots by default so phone AI agents like Siri and Gemini can't read chats, a direct test for screenshot-based features. OpenAI is trying its Dots agents on the $20 Plus plan, and Amazon's Echo Show 11 hits a record low. DoorDash lines up loans for Instacart, and a TV test shows AI can plan a $75 Thanksgiving.",
+  "generated_at": "Daily run",
+  "item_count": 5,
+  "zh": {
+   "headline": "Signal 把 AI 代理挡在聊天门外，OpenAI 的 Dots 逼近 20 美元档，Echo Show 11 跌到 155 美元",
+   "brief": "Signal 默认禁止截屏，让 Siri、Gemini 这类手机 AI 代理读不到聊天，这对依赖截图的功能是个直接考验。OpenAI 在 20 美元的 Plus 套餐上试水 Dots 代理，亚马逊 Echo Show 11 跌到历史低价。DoorDash 为收购 Instacart 安排贷款，一家电视台实测 AI 能规划 75 美元的感恩节晚餐。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-23",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/",
+   "published": "Nov 20",
+   "title": "Signal now blocks screenshots by default, calling phone AI agents an 'existential threat'",
+   "summary": "Signal will block screenshots by default on iOS 27 with a new 'Block Siri AI' setting, and on Android it turns on 'Screen security' when an AI assistant tries to read the screen. A prompt lets people switch it off. Signal says Mac has no reliable protection, and it wants Apple and Google to give apps a system-level way to opt out of AI agents.",
+   "relevance": "Screenshot-to-calendar is a Kora feature, and parents often screenshot group chats about practice times. If messaging apps start blocking captures, that flow can break, so Kora needs an easy fallback like forwarding or pasting text.",
+   "take": "Siri, Gemini and Muse all wanted to read your chats, and Signal just pulled the blinds. Agents that need screen access are now a privacy story; Kora should ask for less and say so on the box.",
+   "runtu": "My school chats are on WhatsApp, not Signal, so nothing breaks this week. But I'd like to know which apps can read my screen, and I'd pick the one that asks first.",
+   "deep_analysis": {
+    "what": "On Nov 20 Signal said it will block screenshots by default on iOS 27 through a new 'Block Siri AI' setting, and on Android will switch on its 'Screen security' option when it detects an AI assistant reading the screen. On both, a prompt offers to turn the protection off. Signal named Apple's Siri AI and Google's Gemini Intelligence, and cited Reuters reporting that Meta's Muse read Signal messages through notification and accessibility permissions. It says Mac offers no reliable protection.",
+    "impact": "This is the first big app to treat on-device AI agents as an attacker by default. Kora does not read other apps' screens, but its screenshot-to-calendar feature depends on parents capturing chats and flyers. If more apps follow Signal, captures of some chats will come back blank, and parents will blame whoever's feature stopped working. Kora's simpler design, where the parent chooses what to share, becomes a privacy selling point next to agents that ask for screen access.",
+    "next": [
+     "Test screenshot-to-calendar with Signal, WhatsApp and iMessage captures on iOS 27 and Android, and log which ones now come back blocked.",
+     "Add a 'share text to Kora' or paste option so a blocked screenshot is never a dead end.",
+     "Write one plain sentence for the website and app store: Kora only sees what you choose to share, and never reads your screen."
+    ]
+   },
+   "zh": {
+    "published": "11月20日",
+    "title": "Signal 默认禁止截屏，称手机里的 AI 代理是“生存威胁”",
+    "summary": "Signal 将在 iOS 27 上默认禁止截屏，新设置叫“Block Siri AI”；在 Android 上，一旦发现 AI 助手读取屏幕，就自动开启“屏幕安全”。用户可以在弹窗里关掉。Signal 说 Mac 上没有可靠的保护，希望苹果和谷歌给应用一个系统级开关，把 AI 代理挡在外面。",
+    "relevance": "截图转日程是 Kora 的功能，家长常截群聊里的训练时间。如果更多聊天应用开始拦截截屏，这个流程会断，Kora 需要转发或粘贴文字这类备用方式。",
+    "take": "Siri、Gemini、Muse 都想看你的聊天，Signal 直接拉上了窗帘。要读屏的代理已经成了隐私新闻，Kora 越少要权限越好，还要写在包装上。",
+    "runtu": "我家学校群在微信和 WhatsApp，这周啥也不受影响。不过哪个应用能看我屏幕，我想心里有数，先问我的那个我才用。",
+    "deep_analysis": {
+     "what": "11月20日，Signal 宣布在 iOS 27 上通过新的“Block Siri AI”设置默认禁止截屏，在 Android 上检测到 AI 助手读屏时自动打开“屏幕安全”。两个平台都会弹窗，让用户可以关掉保护。Signal 点名苹果的 Siri AI 和谷歌的 Gemini Intelligence，并引用路透社报道：Meta 的 Muse 通过通知和辅助功能权限读到了 Signal 消息。Signal 说 Mac 上没有可靠的保护手段。",
+     "impact": "这是第一个默认把手机 AI 代理当成攻击者的大应用。Kora 不读别的应用的屏幕，但截图转日程依赖家长截下群聊和通知单。如果更多应用跟进，有些聊天截出来会是一片黑，家长会怪功能坏了。反过来，Kora 让家长自己决定分享什么，这在要读屏权限的代理面前是个隐私卖点。",
+     "next": [
+      "在 iOS 27 和 Android 上测试截图转日程，分别用 Signal、WhatsApp、iMessage 截图，记录哪些已经被拦截。",
+      "加一个“分享文字到 Kora”或粘贴入口，截图被拦时也有路可走。",
+      "给官网和应用商店写一句大白话：Kora 只看你选择分享的内容，从不读你的屏幕。"
+     ]
+    }
+   },
+   "id": "2026-11-23-01"
+  },
+  {
+   "date": "2026-11-23",
+   "rank": 2,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+   "published": "Nov 20",
+   "title": "OpenAI starts testing its Dots agents with some $20-a-month ChatGPT Plus users",
+   "summary": "OpenAI's always-on Dots agents, which launched for Pro plans, are now being tested with a small number of ChatGPT Plus users, and opened to all Business Standard users on Nov 20. Dots can work across more than 4,000 apps, keep going when you are away, and now support iMessage, RCS and iOS notification replies. OpenAI has not said if Plus access will stay.",
+   "relevance": "Personal agents are sliding down to the $20 price point Kora Plus competes near. Families comparing what a subscription buys will see 'an agent that does things for me' as a standard feature.",
+   "take": "Dots went from 'Pro only' to 'Plus, maybe' in two months, which is how a premium feature becomes a free one. Kora Plus needs to show what it does that a $20 general agent cannot: knowing the family.",
+   "runtu": "Texting my agent through iMessage sounds handy. But I'd still rather it know my kid's practice schedule than connect to 4,000 apps I never use.",
+   "zh": {
+    "published": "11月20日",
+    "title": "OpenAI 开始在每月 20 美元的 ChatGPT Plus 上小范围测试 Dots 代理",
+    "summary": "OpenAI 的常驻代理 Dots 原本只给 Pro 套餐，现在开始在少量 ChatGPT Plus 用户中测试，并于11月20日向所有 Business Standard 用户开放。Dots 能连 4000 多个应用，你不在时也能接着干活，现在还支持 iMessage、RCS 和 iOS 通知回复。OpenAI 没说 Plus 的权限会不会保留。",
+    "relevance": "个人代理正在往 20 美元档位下沉，正是 Kora Plus 附近的价位。家庭比较订阅时，会把“能替我办事的代理”当成标配。",
+    "take": "Dots 两个月从“仅限 Pro”变成“Plus 也许有”，高级功能就是这么变成免费的。Kora Plus 得讲清楚 20 美元通用代理做不到的事：懂这个家。",
+    "runtu": "用 iMessage 给代理发消息挺方便。可我更希望它记得孩子几点训练，而不是连上 4000 个我从来不用的应用。"
+   },
+   "id": "2026-11-23-02"
+  },
+  {
+   "date": "2026-11-23",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/echo-show-11-hits-a-record-low-on-amazon-giving-alexa-fans-a-big-screen-break-on-the-newest-smart-display-2000843600",
+   "published": "Nov 22",
+   "title": "The Echo Show 11 hits a record low of $154.99, and the Echo Show 8 is $99.99",
+   "summary": "Amazon cut the 11-inch Echo Show 11 to $154.99 from $249.99 for Black Friday, 38% off, and the Echo Show 8 to $99.99 from $199.99. The Show 11 runs Alexa+, which Amazon pitches for timers, recipes, reservations and grocery orders, and shows calendars and shopping lists.",
+   "relevance": "A family can now get an 11-inch Alexa+ screen for about a third of Kora's entry price. Kora has to win on the family features, not on screen size per dollar.",
+   "take": "Amazon is selling 11 inches of kitchen screen for less than a nice turkey dinner, and making it back on groceries. Kora can't win a price war with a store; it wins by being the family's screen, not the store's.",
+   "runtu": "At $155 it's tempting as a second screen. But I want the calendar my whole family actually uses, not one that's mostly a shop window.",
+   "zh": {
+    "published": "11月22日",
+    "title": "Echo Show 11 跌到历史低价 154.99 美元，Echo Show 8 只要 99.99 美元",
+    "summary": "黑五期间，亚马逊把 11 英寸的 Echo Show 11 从 249.99 美元降到 154.99 美元，打了六二折；Echo Show 8 从 199.99 美元降到 99.99 美元。Show 11 搭载 Alexa+，亚马逊主打计时、菜谱、订位和买菜，也能显示日历和购物清单。",
+    "relevance": "一家人现在花大约 Kora 入门价三分之一的钱，就能买到 11 英寸的 Alexa+ 屏。Kora 不能拼每美元多少寸，得靠家庭功能取胜。",
+    "take": "亚马逊卖 11 寸厨房屏，比一顿火鸡大餐还便宜，钱从买菜里赚回来。跟商店打价格战没戏，Kora 要当一家人的屏，而不是商店的屏。",
+    "runtu": "155 美元当第二块屏挺心动。可我要的是全家真会用的日历，不是一个橱窗。"
+   },
+   "id": "2026-11-23-03"
+  },
+  {
+   "date": "2026-11-23",
+   "rank": 4,
+   "topic": "grocery",
+   "priority": "fyi",
+   "source": "TipRanks",
+   "url": "https://tipranks.com/news/company-announcements/doordash-expands-credit-facilities-ahead-of-instacart-acquisition",
+   "published": "Nov 23",
+   "title": "DoorDash lines up a $1.79B loan and a bigger credit line to help pay for Instacart",
+   "summary": "DoorDash raised its revolving credit line from $2.0 billion to $3.5 billion and signed a $1.792 billion term loan tied to its pending Instacart purchase. Its 364-day bridge loan shrank from $13.0 billion to $11.208 billion. No closing date was given.",
+   "relevance": "Kora sends meal plans to Instacart. The financing is lining up, so the team should plan for Instacart sitting inside DoorDash and watch for changes to partner terms.",
+   "take": "DoorDash is swapping a $13 billion bridge for longer loans, which is what you do when you expect to own the house. Kora should keep its grocery handoff easy to point at a second store.",
+   "runtu": "For my weekly order, nothing changes yet. I'll care when delivery fees or the app I use start to change.",
+   "zh": {
+    "published": "11月23日",
+    "title": "DoorDash 安排 17.9 亿美元贷款并扩大信贷额度，为收购 Instacart 筹钱",
+    "summary": "DoorDash 把循环信贷额度从 20 亿美元提高到 35 亿美元，并签下与 Instacart 收购相关的 17.92 亿美元定期贷款。364 天过桥贷款从 130 亿美元降到 112.08 亿美元。文章没给交易完成日期。",
+    "relevance": "Kora 的膳食计划会转到 Instacart 下单。钱正在到位，团队要按 Instacart 并入 DoorDash 来做打算，留意合作条款的变化。",
+    "take": "DoorDash 把 130 亿过桥贷款换成长期贷款，这是准备住进新房子的架势。Kora 的买菜接口最好随时能接上第二家超市。",
+    "runtu": "我每周买菜暂时没变化。等配送费或者用的应用变了，我才会在意。"
+   },
+   "id": "2026-11-23-04"
+  },
+  {
+   "date": "2026-11-23",
+   "rank": 5,
+   "topic": "grocery",
+   "priority": "fyi",
+   "source": "KPRC Click2Houston",
+   "url": "https://www.click2houston.com/news/local/2026/11/22/can-ai-help-you-save-on-thanksgiving-dinner-we-put-a-75-budget-to-the-test-in-houston/",
+   "published": "Nov 21",
+   "title": "A Houston TV test: AI planned a $75 Thanksgiving for six, and the Kroger cart came to $64.31",
+   "summary": "KPRC asked an AI tool to plan Thanksgiving dinner for six in Houston on $75, from turkey to pumpkin pie. The AI estimated $61.75; the real Kroger cart was $64.31, under budget but $2.56 above the estimate, and it missed a $5-off store promotion. The reporter's verdict: AI won't shop for you, but it helps you plan.",
+   "relevance": "This is Kora's meal planning pitch tested on local TV. The gaps it found, live prices and store coupons, are where a planner that hands off to a real cart can stand out.",
+   "take": "The AI planned the menu and then forgot the coupon, which is the most human thing it did. The lesson for Kora is simple: real prices and deals in the cart beat a confident estimate.",
+   "runtu": "A plan that comes within $3 of my real total is already a win for me. Show me the coupon too and I'll use it every week.",
+   "zh": {
+    "published": "11月21日",
+    "title": "休斯顿电视台实测：AI 用 75 美元规划六人感恩节晚餐，Kroger 结账 64.31 美元",
+    "summary": "KPRC 让一个 AI 工具在 75 美元内，为休斯顿六口人规划感恩节晚餐，从火鸡到南瓜派。AI 估价 61.75 美元，实际 Kroger 购物车是 64.31 美元，没超预算，但比估价高 2.56 美元，还错过了一个满减 5 美元的店内优惠。记者的结论：AI 不会替你买菜，但能帮你做计划。",
+    "relevance": "这等于电视台替 Kora 的膳食计划做了一次公开测试。暴露的短板是实时价格和店内优惠，能直接把计划接到真实购物车的产品就能在这里胜出。",
+    "take": "AI 把菜单排得明明白白，最后忘了用优惠券，这倒是它最像人的地方。给 Kora 的启示：购物车里的真实价格和优惠，比一个很自信的估价管用。",
+    "runtu": "计划和实际结账只差 3 美元，对我来说已经很好了。再把优惠券也提醒我，我每周都会用。"
+   },
+   "id": "2026-11-23-05"
+  }
+ ]
+}

@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-23",
+   "number": 29,
+   "headline": "Signal locks AI agents out of your chats, OpenAI's Dots creep toward $20, and the Echo Show 11 drops to $155",
+   "brief": "Signal now blocks screenshots by default so phone AI agents like Siri and Gemini can't read chats, a direct test for screenshot-based features. OpenAI is trying its Dots agents on the $20 Plus plan, and Amazon's Echo Show 11 hits a record low. DoorDash lines up loans for Instacart, and a TV test shows AI can plan a $75 Thanksgiving.",
+   "generated_at": "Daily run",
+   "item_count": 5,
+   "zh": {
+    "headline": "Signal 把 AI 代理挡在聊天门外，OpenAI 的 Dots 逼近 20 美元档，Echo Show 11 跌到 155 美元",
+    "brief": "Signal 默认禁止截屏，让 Siri、Gemini 这类手机 AI 代理读不到聊天，这对依赖截图的功能是个直接考验。OpenAI 在 20 美元的 Plus 套餐上试水 Dots 代理，亚马逊 Echo Show 11 跌到历史低价。DoorDash 为收购 Instacart 安排贷款，一家电视台实测 AI 能规划 75 美元的感恩节晚餐。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-22",
    "number": 28,
    "headline": "One webpage hijacked Meta's Muse, Walmart's Sparky fills bigger carts, and HomeView breaks on the repair bench",
