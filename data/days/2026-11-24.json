@@ -1,0 +1,150 @@
+{
+ "issue": {
+  "id": "2026-11-24",
+  "number": 30,
+  "headline": "Meta's Muse starts buying your groceries, Europe drafts the rules for agents that shop, and Google's AI Mode reads your Wallet",
+  "brief": "Gopuff plugged into Meta's Muse, so a chat can now order groceries for 15-minute delivery, days after Muse started shopping at Loblaw in Canada. The EU's draft Digital Fairness Act would make every shopping agent ask how much freedom to take. Google added Wallet to AI Mode and told websites how to let its agent in.",
+  "generated_at": "Daily run",
+  "item_count": 5,
+  "zh": {
+   "headline": "Meta 的 Muse 开始替你买菜，欧盟起草购物代理规则，谷歌 AI 模式读起了你的钱包",
+   "brief": "Gopuff 接入 Meta 的 Muse，聊天就能下单生鲜、15 分钟送到，而几天前 Muse 刚在加拿大开始在 Loblaw 购物。欧盟《数字公平法》草案要求每个购物代理先问清楚能放手到什么程度。谷歌给 AI 模式加上了 Wallet，还教网站如何放行它的代理。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-24",
+   "rank": 1,
+   "topic": "grocery",
+   "priority": "high",
+   "source": "Fox Business",
+   "url": "https://www.foxbusiness.com/fox-news-food-drink/metas-muse-can-now-shop-groceries-through-gopuff-deliver-minutes",
+   "published": "Nov 24",
+   "title": "Meta's Muse now orders Gopuff groceries in chat, with delivery in as little as 15 minutes",
+   "summary": "Gopuff connected its delivery network to Muse, Meta's personal AI agent. Users link accounts by typing \"Connect to Gopuff\", then Muse builds a cart from a saved Instagram recipe or remembered brands, shows stock and arrival times, and asks for approval before checkout. Gopuff offers more than 5,000 items, and new Muse users get free delivery on their first three orders.",
+   "relevance": "This is the fridge-to-cart flow Kora sells, now living inside a free chat app. Muse already shops at Loblaw banners in Canada since Nov 18, so Kora's Instacart ordering faces an agent on both sides of the border.",
+   "take": "Muse went from reading recipes on Instagram to buying the butter in under three months. Kora's edge is not the cart, it is knowing what is already in the fridge, so lead with that.",
+   "runtu": "Fifteen-minute delivery is great when I forget the eggs. But I still want one list the whole family can see, not a cart hidden in one parent's chat.",
+   "deep_analysis": {
+    "what": "Gopuff and Meta launched a direct link between Gopuff's delivery network and Muse on Nov 24. Muse assembles carts from chat prompts, checks live stock and arrival times, and asks for approval before checkout. Order status shows inside the chat. Gopuff says it owns its micro-fulfillment centers, so there are no third-party markups or surprise substitutions, and reports 99.5% order accuracy. On Nov 18 Meta also made Loblaw its first Canadian retail partner, so Muse can plan meals, build a basket and check out at participating Loblaw banners, remembering brand preferences and food allergies.",
+    "impact": "Grocery ordering by AI agent is becoming a free, built-in feature of general assistants in both of Kora's markets. Families who already use Muse may not see ordering as a reason to buy a device. Kora has to win on shared household context: the fridge photo, the family meal plan, and one place everyone can see.",
+    "next": [
+     "Compare Kora's fridge-photo-to-Instacart flow against Muse's recipe-to-Gopuff flow, step by step and in taps.",
+     "Make sure Kora's shopping approvals show the whole family's list, not just one parent's cart.",
+     "Watch whether Instacart, which already works with Muse, gets the same chat checkout in Canada."
+    ]
+   },
+   "zh": {
+    "published": "11月24日",
+    "title": "Meta 的 Muse 现在能在聊天里下单 Gopuff 生鲜，最快 15 分钟送到",
+    "summary": "Gopuff 把配送网络接入了 Meta 的个人 AI 代理 Muse。用户输入“Connect to Gopuff”绑定账户后，Muse 可以把收藏的 Instagram 菜谱或记住的常用品牌变成购物车，显示库存和送达时间，结账前请用户确认。Gopuff 有 5000 多种商品，新 Muse 用户前三单免配送费。",
+    "relevance": "这正是 Kora 卖的“冰箱到购物车”流程，现在搬进了一个免费聊天应用。Muse 从 11 月 18 日起已能在加拿大的 Loblaw 旗下门店购物，Kora 的 Instacart 下单在美加两边都遇到了代理对手。",
+    "take": "Muse 从刷 Instagram 菜谱到替你买黄油，没用三个月。Kora 的优势不在购物车，而在知道冰箱里已经有什么，宣传就该从这里讲起。",
+    "runtu": "忘了买鸡蛋时，15 分钟送到确实救急。可我还是想要全家都能看到的一张清单，而不是藏在某个家长聊天记录里的购物车。",
+    "deep_analysis": {
+     "what": "11 月 24 日，Gopuff 和 Meta 上线了 Gopuff 配送网络与 Muse 的直连。Muse 根据聊天内容组装购物车，查询实时库存和送达时间，结账前请用户批准，订单状态也在聊天里显示。Gopuff 称自营微型仓，没有第三方加价和意外替换，订单准确率 99.5%。11 月 18 日，Meta 还宣布 Loblaw 成为 Muse 首个加拿大零售伙伴，Muse 可在参与的 Loblaw 旗下门店规划膳食、组装购物篮并结账，还能记住品牌偏好和食物过敏。",
+     "impact": "在 Kora 的两个市场里，AI 代理代买生鲜正变成通用助手免费自带的功能。已经在用 Muse 的家庭，未必会因为“能下单”去买一块屏。Kora 必须靠家庭共享的上下文取胜：冰箱照片、全家膳食计划，以及一个所有人都看得到的地方。",
+     "next": [
+      "把 Kora 的冰箱照片到 Instacart 流程和 Muse 的菜谱到 Gopuff 流程逐步对比，数一数各要点几下。",
+      "确保 Kora 的购物审批展示全家的清单，而不只是某一位家长的购物车。",
+      "关注已与 Muse 合作的 Instacart 是否也会在加拿大开通聊天内结账。"
+     ]
+    }
+   },
+   "id": "2026-11-24-01"
+  },
+  {
+   "date": "2026-11-24",
+   "rank": 2,
+   "topic": "agents",
+   "priority": "high",
+   "source": "PYMNTS",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/eu-targets-ai-shopping-agents-in-digital-consumer-overhaul/",
+   "published": "Nov 23",
+   "title": "Europe's draft rules would make every AI shopping agent ask: approve all, approve some, or buy freely",
+   "summary": "The EU's proposed Digital Fairness Act would require agent providers to ask users on first use to pick one of three settings: approve every purchase, approve only some (with a price ceiling and time limit), or buy without confirmation. If the agent's maker is paid to push a deal, it must disclose that and get approval even in automatic mode. Fines could reach 6% of worldwide turnover.",
+   "relevance": "Kora does not sell in the EU, but rules like this tend to set the pattern. Kora's shopping already asks a parent to approve with Face ID, which lines up with the strictest setting.",
+   "take": "Brussels just wrote the settings screen every agent company was avoiding. Kora already has parental approval, so call it a feature before the regulators call it a requirement.",
+   "runtu": "A price cap and a time limit is exactly what I want before letting a kid near the order button. Make that the default, not a hidden menu.",
+   "zh": {
+    "published": "11月23日",
+    "title": "欧盟草案要求每个 AI 购物代理先问清楚：全部审批、部分审批，还是放手去买",
+    "summary": "欧盟拟议的《数字公平法》要求代理服务商在用户首次使用时让其三选一：每笔都审批、只审批部分（设价格上限和时限），或无需确认直接购买。如果代理厂商收钱推荐某笔交易，即使开了自动模式也必须披露并取得批准。违规最高可罚全球营业额的 6%。",
+    "relevance": "Kora 不在欧盟销售，但这类规则往往会成为样板。Kora 的购物已要求家长用 Face ID 批准，正好对应最严格的那一档。",
+    "take": "布鲁塞尔替所有代理公司写好了他们一直躲着的设置页。Kora 已经有家长审批，趁监管还没把它变成义务，先把它说成卖点。",
+    "runtu": "有价格上限和时间限制，我才放心让孩子碰下单按钮。这应该是默认设置，别藏在菜单深处。"
+   },
+   "id": "2026-11-24-02"
+  },
+  {
+   "date": "2026-11-24",
+   "rank": 3,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "Unite.AI",
+   "url": "https://www.unite.ai/google-rolls-out-wallet-support-for-ai-mode-personal-intelligence/",
+   "published": "Nov 23",
+   "title": "Google's AI Mode can now read your Wallet, with Drive and the Gemini app coming next",
+   "summary": "Personal Intelligence in Google Search's AI Mode, which already reads Gmail, Calendar and Photos, now adds an opt-in, read-only Google Wallet connection. Google says Drive and the Gemini app follow in the coming weeks. It covers personal accounts only, not Workspace.",
+   "relevance": "Google keeps stacking family context (calendar, email, photos, spending) into one assistant. Kora's receipt tracking and shared calendar compete with that pile of data for the job of knowing what the household is up to.",
+   "take": "Google now knows your schedule, your inbox and your card balance, and calls it personal. Kora should call its version family, because that is the part Google still splits across accounts.",
+   "runtu": "Read-only is nice. But I am not sure I want search to know my grocery bill before I have even looked at it.",
+   "zh": {
+    "published": "11月23日",
+    "title": "谷歌 AI 模式现在能读你的 Wallet，Drive 和 Gemini 应用紧随其后",
+    "summary": "谷歌搜索 AI 模式的“个人智能”原本已能读取 Gmail、日历和相册，现在新增可选的只读 Google Wallet 连接。谷歌说 Drive 和 Gemini 应用会在未来几周加入。仅限个人账户，不含 Workspace。",
+    "relevance": "谷歌不断把家庭的上下文（日历、邮件、照片、消费）堆进同一个助手。Kora 的收据追踪和共享日历，正在和这堆数据争夺“最懂这个家在忙什么”的角色。",
+    "take": "谷歌现在知道你的日程、收件箱和卡里余额，还管这叫“个人”。Kora 该把自己的版本叫“家庭”，因为这恰恰是谷歌还按账户拆开的那一块。",
+    "runtu": "只读挺好。可我不太想让搜索引擎比我自己更早看到买菜账单。"
+   },
+   "id": "2026-11-24-03"
+  },
+  {
+   "date": "2026-11-24",
+   "rank": 4,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "Search Engine Journal",
+   "url": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526",
+   "published": "Nov 23",
+   "title": "Google tells websites how to spot and let in 'Google-Agent', its bot that books and fills carts for users",
+   "summary": "Google published guidance on Google-Agent, the name for user-triggered agents on its servers that search sites, add items to carts, make bookings and call APIs. Sites can verify it by user-agent header, Google's published IP ranges, or an experimental signature. Google asks sites to put allow rules ahead of bot blocks and skip CAPTCHAs for verified requests.",
+   "relevance": "Agents that book and buy on the open web need sites to let them in. If Kora's agents act on websites, they will hit the same walls, and Google is now asking for a VIP lane.",
+   "take": "Google built an agent, then wrote the bouncer a note asking to skip the line. Anyone else's agent still waits outside, so Kora should lean on partner APIs, not page clicking.",
+   "runtu": "If the agent can actually finish the swim lesson booking, I do not care whose bot it is. I just do not want to solve the CAPTCHA myself at 10 pm.",
+   "zh": {
+    "published": "11月23日",
+    "title": "谷歌教网站识别并放行“Google-Agent”，也就是替用户订位、加购物车的机器人",
+    "summary": "谷歌发布了 Google-Agent 的接入指南。这是用户触发、运行在谷歌服务器上的代理，会在网站内搜索、加入购物车、预订和调用接口。网站可通过 User-Agent 标识、谷歌公布的 IP 段或实验性签名来验证。谷歌建议网站把放行规则放在机器人拦截规则之前，并对已验证请求跳过验证码。",
+    "relevance": "在开放网络上订位、购物的代理，得先让网站放行。Kora 的代理如果要操作网站，也会撞上同样的墙，而谷歌现在在要一条 VIP 通道。",
+    "take": "谷歌造了个代理，又给保安递了张条子让它插队。别家的代理还在门外排着，所以 Kora 应该靠合作方接口，而不是去点网页。",
+    "runtu": "只要代理真能把游泳课订好，我才不管是谁家的机器人。我只是不想晚上十点自己去做验证码。"
+   },
+   "id": "2026-11-24-04"
+  },
+  {
+   "date": "2026-11-24",
+   "rank": 5,
+   "topic": "grocery",
+   "priority": "fyi",
+   "source": "ChannelLife",
+   "url": "https://channellife.news/story/ai-turns-to-thanksgiving-turkey-tips-says-123greetings",
+   "published": "Nov 23",
+   "title": "Survey: 54% of Americans plan to use AI for their holiday meal, but 44% still trust family most",
+   "summary": "Research from analytics company Qlik, cited by 123Greetings, says 54% of Americans planned to use an AI tool such as ChatGPT or Copilot to plan, prepare or cook their holiday meal. Still, 44% rely most on a family member or friend for cooking advice. The article gives no sample size.",
+   "relevance": "Holiday cooking is the busiest kitchen week of the year, and most people now expect AI to help. A kitchen display that holds the menu, timeline and shopping list is the natural place for that help to live.",
+   "take": "Half of America will ask a chatbot about the turkey, then call Mom anyway. Kora sits on the counter, so it can be the one place both answers end up.",
+   "runtu": "I will use AI for the shopping list. The gravy recipe still comes from family, so give me a spot to save it.",
+   "zh": {
+    "published": "11月23日",
+    "title": "调查：54% 的美国人打算用 AI 准备节日大餐，但 44% 仍最信家人",
+    "summary": "123Greetings 援引分析公司 Qlik 的调查称，54% 的美国人打算用 ChatGPT、Copilot 等 AI 工具来规划、准备或烹饪节日大餐。不过 44% 的人最依赖家人或朋友的厨艺建议。文章没有给出样本量。",
+    "relevance": "节日这一周是厨房最忙的时候，多数人已经指望 AI 帮忙。一块放着菜单、时间表和购物清单的厨房屏，正是这份帮助最自然的落脚点。",
+    "take": "半个美国会先问聊天机器人火鸡怎么烤，然后照样给妈妈打电话。Kora 就在台面上，正好让两边的答案落在同一个地方。",
+    "runtu": "购物清单我让 AI 来列。肉汁的做法还是得听家里的，给我留个地方存起来就行。"
+   },
+   "id": "2026-11-24-05"
+  }
+ ]
+}

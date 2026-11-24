@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-24",
+   "number": 30,
+   "headline": "Meta's Muse starts buying your groceries, Europe drafts the rules for agents that shop, and Google's AI Mode reads your Wallet",
+   "brief": "Gopuff plugged into Meta's Muse, so a chat can now order groceries for 15-minute delivery, days after Muse started shopping at Loblaw in Canada. The EU's draft Digital Fairness Act would make every shopping agent ask how much freedom to take. Google added Wallet to AI Mode and told websites how to let its agent in.",
+   "generated_at": "Daily run",
+   "item_count": 5,
+   "zh": {
+    "headline": "Meta 的 Muse 开始替你买菜，欧盟起草购物代理规则，谷歌 AI 模式读起了你的钱包",
+    "brief": "Gopuff 接入 Meta 的 Muse，聊天就能下单生鲜、15 分钟送到，而几天前 Muse 刚在加拿大开始在 Loblaw 购物。欧盟《数字公平法》草案要求每个购物代理先问清楚能放手到什么程度。谷歌给 AI 模式加上了 Wallet，还教网站如何放行它的代理。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-23",
    "number": 29,
    "headline": "Signal locks AI agents out of your chats, OpenAI's Dots creep toward $20, and the Echo Show 11 drops to $155",
