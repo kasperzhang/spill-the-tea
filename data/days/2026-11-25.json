@@ -1,0 +1,150 @@
+{
+ "issue": {
+  "id": "2026-11-25",
+  "number": 31,
+  "headline": "Meta's Muse moves into Instagram DMs and takes half of agent shopping, while Skylight learns to read a menu",
+  "brief": "A slow day before US Thanksgiving. Meta put Muse inside Instagram DMs in the US and Canada, where it turns saved recipe videos into grocery lists, and one firm's data says Muse made 51% of agent shopping orders last week. Skylight shipped menu import, Instacart's Clementine reads handwritten recipes, and Shopify turned on ChatGPT checkout by default.",
+  "generated_at": "Daily run",
+  "item_count": 5,
+  "zh": {
+   "headline": "Meta 的 Muse 搬进 Instagram 私信、拿下一半代理购物，Skylight 学会了看菜单",
+   "brief": "美国感恩节前一天，消息不多。Meta 把 Muse 放进美加的 Instagram 私信，收藏的食谱视频能直接变购物清单；一家公司的数据显示，上周 AI 代理购物订单有 51% 来自 Muse。Skylight 上线菜单导入，Instacart 的 Clementine 能读手写菜谱，Shopify 默认开启 ChatGPT 结账。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-25",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+   "published": "Nov 24",
+   "title": "Meta's Muse moves into Instagram DMs in the US and Canada, and turns saved recipe videos into grocery lists",
+   "summary": "Starting Nov 24, Instagram users in the US, Canada, Mexico, Japan and Singapore can message Muse inside their DMs. It can explain a post, catch you up on DM threads you missed, and act on shared posts, such as turning a recipe video into a grocery list. In the US and Canada, saving a post now brings up a prompt to let Muse organize it.",
+   "relevance": "Muse now sits where many parents already save dinner ideas, in Canada too, so 'recipe to grocery list' is becoming a free feature inside a social app. Kora's meal planning has to win on what Instagram can't see: the family calendar, the fridge and who is home for dinner.",
+   "take": "Meta found the one place parents hoard recipes they will never cook, and put a butler in it. Free and everywhere beats clever, so a saved reel should reach the Kora meal plan in one tap.",
+   "runtu": "My saved recipes are a graveyard, so a list would help. But the list still has to meet the fridge and Thursday's practice, and Instagram knows neither.",
+   "deep_analysis": {
+    "what": "Muse, Meta's personal agent, now works inside Instagram's inbox. People can ask it about a post, place or product, catch up on missed DM conversations, and share posts for it to act on, like adding a café to a trip or finding a deal. It sorts saves into Collections and turns recipe videos into grocery lists. Instagram chats also show up as a side chat in the Muse app. Meta says nothing is shared, published or sent without approval, and users can ask Muse to forget things or undo actions.",
+    "impact": "A big-tech agent now sits directly on top of families' saved recipes, including in Canada. With Muse's Gopuff grocery ordering covered yesterday, Meta has a path from 'saw a recipe' to 'groceries ordered' without leaving its apps. The risk for Kora is that meal planning starts and ends on the phone. The opening is that Muse plans for one person's feed, while Kora plans for the whole household's week.",
+    "next": [
+     "Test the flow in Canada: save a recipe reel, ask Muse for a list, and time how long it takes to reach a cart.",
+     "Build or polish a share-to-Kora path so a recipe link or screenshot from Instagram lands straight in the Kora meal plan.",
+     "Lean on household context in messaging: who is home, allergies, and what is already in the fridge."
+    ]
+   },
+   "zh": {
+    "published": "11月24日",
+    "title": "Meta 的 Muse 住进美加 Instagram 私信，收藏的食谱视频一键变购物清单",
+    "summary": "从 11 月 24 日起，美国、加拿大、墨西哥、日本和新加坡的 Instagram 用户可以直接在私信里找 Muse。它能解释帖子、帮你补看错过的私信对话，还能处理你转给它的帖子，比如把食谱视频变成购物清单。在美国和加拿大，收藏帖子时还会弹出提示，问要不要让 Muse 帮你整理。",
+    "relevance": "很多家长本来就在 Instagram 上收藏晚饭灵感，现在 Muse 就坐在那里，加拿大也有，“食谱变清单”正在变成社交应用里的免费功能。Kora 的膳食计划要赢，得靠 Instagram 看不到的东西：家庭日历、冰箱里有什么、今晚谁在家吃饭。",
+    "take": "Meta 找到了家长囤“以后一定做”的食谱的地方，然后在那儿放了个管家。免费又无处不在，比聪明更要命；收藏的视频最好一点就能进 Kora 的膳食计划。",
+    "runtu": "我收藏的菜谱基本都在吃灰，有个清单确实有用。可清单最后还得对上冰箱和周四的训练课，这两样 Instagram 都不知道。",
+    "deep_analysis": {
+     "what": "Meta 的个人代理 Muse 现在直接在 Instagram 收件箱里工作。用户可以问它帖子、地点或商品的信息，补看错过的私信对话，也可以把帖子转给它去办事，比如把咖啡馆加进行程、找优惠。它会把收藏整理进“合集”，把食谱视频变成购物清单。Instagram 里的对话也会作为侧边聊天出现在 Muse 应用里。Meta 说没有用户同意不会分享、发布或发送任何内容，用户也可以让 Muse 忘掉信息或撤销操作。",
+     "impact": "大厂的代理第一次直接压在家庭收藏的食谱上，加拿大也包括在内。再加上昨天提到的 Muse 通过 Gopuff 买菜，Meta 已经能做到“刷到食谱”到“菜已下单”都不出自家应用。对 Kora 的风险是，膳食计划在手机上开始、也在手机上结束。机会在于，Muse 规划的是一个人的信息流，Kora 规划的是一整家人的一周。",
+     "next": [
+      "在加拿大实测一遍：收藏一个食谱视频，让 Muse 出清单，看多久能进购物车。",
+      "做好“分享到 Kora”：Instagram 里的食谱链接或截图能直接进 Kora 膳食计划。",
+      "宣传上突出家庭信息：谁在家、谁过敏、冰箱里已经有什么。"
+     ]
+    }
+   },
+   "id": "2026-11-25-01"
+  },
+  {
+   "date": "2026-11-25",
+   "rank": 2,
+   "topic": "competitors",
+   "priority": "high",
+   "source": "Releasebot (Skylight release notes)",
+   "url": "https://releasebot.io/updates/skylight",
+   "published": "Nov 24",
+   "title": "Skylight ships menu import, drag-and-drop recipes and a home-screen whiteboard in nine days",
+   "summary": "Skylight's release notes list three features since Nov 16. Menu Import (Nov 24) scans a menu from a webpage or handout, assigns it to profiles and adds it to the calendar. Drag-and-drop recipes (Nov 18) move between meals on the calendar, and a whiteboard (Nov 16) puts quick notes on the home screen.",
+   "relevance": "Menu import is Skylight's answer to Kora's screenshot-to-calendar, and a paper handout is exactly what comes home in a school bag. Skylight now ships small, practical features almost weekly, and meal planning is where it pushes hardest.",
+   "take": "Skylight is shipping like a startup with something to prove, and a whiteboard is the most honest feature in the category. Time how fast a paper menu goes from photo to Kora's calendar, because Skylight just started the stopwatch.",
+   "runtu": "Honestly, the whiteboard is the one I'd use every day. 'Buy milk' is most of our family chat.",
+   "zh": {
+    "published": "11月24日",
+    "title": "Skylight 九天连发菜单导入、拖拽食谱和主屏白板",
+    "summary": "Skylight 的更新日志显示，11 月 16 日以来上了三个新功能。11 月 24 日的“菜单导入”能扫描网页或纸质通知上的菜单，分配给家庭成员并加进日历；11 月 18 日起食谱可以在日历上的各餐之间拖来拖去；11 月 16 日主屏多了一块白板，用来写便条。",
+    "relevance": "菜单导入相当于 Skylight 版的 Kora“截图进日历”，而纸质通知正是孩子书包里天天带回家的东西。Skylight 现在几乎每周都上实用小功能，膳食计划是它发力最猛的地方。",
+    "take": "Skylight 现在的更新节奏像个急着证明自己的创业公司，白板大概是这个品类里最实在的功能。测测一张纸质菜单从拍照到进 Kora 日历要多久，Skylight 已经按下秒表了。",
+    "runtu": "说实话，白板才是我每天会用的。我们家群聊一大半就是“记得买牛奶”。"
+   },
+   "id": "2026-11-25-02"
+  },
+  {
+   "date": "2026-11-25",
+   "rank": 3,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "AI Weekly (Forter data via CNBC)",
+   "url": "https://aiweekly.co/alerts/metas-muse-took-51-of-ai-agent-shopping-orders-last-week",
+   "published": "Nov 25",
+   "title": "Meta's Muse placed 51% of AI-agent shopping orders last week, more than Grok and ChatGPT combined",
+   "summary": "Forter transaction data reported by CNBC gives Muse 51% of agent shopping orders in the week ending Nov 22, ahead of Grok at 24% and ChatGPT at 22%. Google and Instinct together made about 3%. Over 90 days Muse had 45% of agent orders, though this is one firm's data with no published method.",
+   "relevance": "Shopping agents are clustering around one free player that is already on families' phones. When Kora asks parents to approve an order, they will compare the experience with Muse.",
+   "take": "Half the market in a week, mostly by being free and already installed. Distribution is eating the agent race, so Kora's edge has to be the household, not the chatbot.",
+   "runtu": "Half of a small number is still small. Most of us bought the Thanksgiving turkey the normal way.",
+   "zh": {
+    "published": "11月25日",
+    "title": "上周 AI 代理购物订单里，Meta 的 Muse 拿下 51%，比 Grok 和 ChatGPT 加起来还多",
+    "summary": "CNBC 援引 Forter 的交易数据：截至 11 月 22 日的一周，Muse 占 AI 代理购物订单的 51%，Grok 24%，ChatGPT 22%，谷歌和 Instinct 合计约 3%。过去 90 天 Muse 占 45%。不过这只是一家公司的数据，方法没有公开。",
+    "relevance": "购物代理正在向一个免费、本来就装在家长手机上的玩家集中。Kora 请家长批准订单时，家长会拿 Muse 的体验来比。",
+    "take": "一周拿下半壁江山，靠的主要是免费和装机量。代理大战拼的是渠道，Kora 的优势只能是“懂这个家”，而不是聊天机器人本身。",
+    "runtu": "小蛋糕的一半还是小。我们大多数人的感恩节火鸡，还是自己老老实实买的。"
+   },
+   "id": "2026-11-25-03"
+  },
+  {
+   "date": "2026-11-25",
+   "rank": 4,
+   "topic": "grocery",
+   "priority": "watch",
+   "source": "USA Today via Yahoo",
+   "url": "https://shopping.yahoo.com/home-garden/kitchen/articles/instacart-turn-grandma-handwritten-thanksgiving-214747006.html",
+   "published": "Nov 23",
+   "title": "Instacart's Clementine turns a photo of a handwritten family recipe into a grocery cart",
+   "summary": "USA Today walks through Clementine, the AI assistant Instacart launched in September, for Thanksgiving shopping. It can read a photo of a handwritten recipe card and build a cart around a budget, guest count, diet and preferred store, using live inventory and deals. The article warns that AI can make mistakes and tells shoppers to check quantities and substitutions.",
+   "relevance": "Photo-to-cart now lives inside Instacart itself, the checkout Kora sends meal plans to. Kora's fridge-photo and recipe features need to add what the Instacart app alone can't: the family schedule and who is eating.",
+   "take": "Grandma's recipe card is now a sales funnel, which is the most Instacart sentence possible. When your checkout partner builds your feature, compete on everything before the cart.",
+   "runtu": "Reading Grandma's handwriting is a real job in our house. I'd still check that 'a cup of butter' didn't turn into four pounds.",
+   "zh": {
+    "published": "11月23日",
+    "title": "Instacart 的 Clementine 拍一张手写家传菜谱，就能生成购物车",
+    "summary": "《今日美国》介绍了 Instacart 九月推出的 AI 助手 Clementine 怎么帮人准备感恩节。它能识别手写菜谱卡的照片，按预算、人数、饮食要求和常去的超市组好购物车，还会参考实时库存和优惠。文章也提醒 AI 会出错，下单前要核对数量和替换品。",
+    "relevance": "拍照变购物车现在直接长在 Instacart 里，而 Instacart 正是 Kora 膳食计划下单的地方。Kora 的冰箱拍照和食谱功能，得提供 Instacart 单独给不了的东西：全家的日程，以及到底谁来吃饭。",
+    "take": "外婆的菜谱卡成了销售漏斗，这句话简直就是 Instacart 本人。结账伙伴把你的功能也做了，那就在购物车之前的每一步上竞争。",
+    "runtu": "认外婆的字在我们家确实是个技术活。不过我还是会看一眼，别让“一杯黄油”变成四磅。"
+   },
+   "id": "2026-11-25-04"
+  },
+  {
+   "date": "2026-11-25",
+   "rank": 5,
+   "topic": "agents",
+   "priority": "fyi",
+   "source": "Ecommerce Paradise",
+   "url": "https://ecommerceparadise.com/shopify-chatgpt-agentic-checkout-default/",
+   "published": "Nov 23",
+   "title": "Shopify turns on ChatGPT agentic checkout by default for eligible US stores",
+   "summary": "Shopify's Nov 23 changelog renames 'direct checkout' to 'agentic checkout' and adds ChatGPT. It is on by default for eligible stores with automatic channel settings, so ChatGPT agents can buy through a store's own checkout for US shoppers. Shopify says there are no fees beyond normal payment processing, and merchants can turn checkout off while staying discoverable.",
+   "relevance": "Agent checkout is becoming default plumbing for online stores, which makes it easier for any assistant, Kora included, to buy things for a family. It also raises the bar for clear approval and spending controls.",
+   "take": "Default-on is how you get adoption nobody asked for. Good for Kora anyway: when every store accepts agents, the winner is whoever families trust to press buy.",
+   "runtu": "I don't mind a robot buying the snow boots, as long as I see the price before it does.",
+   "zh": {
+    "published": "11月23日",
+    "title": "Shopify 为符合条件的美国店铺默认开启 ChatGPT 代理结账",
+    "summary": "Shopify 11 月 23 日的更新日志把“直接结账”改名为“代理结账”，并加入 ChatGPT。开了自动渠道设置的符合条件店铺默认启用，ChatGPT 的代理可以直接走店铺自己的结账页给美国顾客下单。Shopify 说除了正常支付手续费不另收费，商家也可以关掉结账、但保留被搜到。",
+    "relevance": "代理结账正在变成网店的默认配置，任何助手，包括 Kora，替家庭买东西都更容易了。同时，清楚的确认流程和消费上限也成了必答题。",
+    "take": "默认开启，就是没人要也能有“用户增长”的方法。对 Kora 倒是好事：家家店都收代理的时候，赢的是家长放心让它按“购买”的那个。",
+    "runtu": "让机器人帮我买雪地靴没问题，只要它付钱之前先让我看到价格。"
+   },
+   "id": "2026-11-25-05"
+  }
+ ]
+}

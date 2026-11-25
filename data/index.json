@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-25",
+   "number": 31,
+   "headline": "Meta's Muse moves into Instagram DMs and takes half of agent shopping, while Skylight learns to read a menu",
+   "brief": "A slow day before US Thanksgiving. Meta put Muse inside Instagram DMs in the US and Canada, where it turns saved recipe videos into grocery lists, and one firm's data says Muse made 51% of agent shopping orders last week. Skylight shipped menu import, Instacart's Clementine reads handwritten recipes, and Shopify turned on ChatGPT checkout by default.",
+   "generated_at": "Daily run",
+   "item_count": 5,
+   "zh": {
+    "headline": "Meta 的 Muse 搬进 Instagram 私信、拿下一半代理购物，Skylight 学会了看菜单",
+    "brief": "美国感恩节前一天，消息不多。Meta 把 Muse 放进美加的 Instagram 私信，收藏的食谱视频能直接变购物清单；一家公司的数据显示，上周 AI 代理购物订单有 51% 来自 Muse。Skylight 上线菜单导入，Instacart 的 Clementine 能读手写菜谱，Shopify 默认开启 ChatGPT 结账。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-24",
    "number": 30,
    "headline": "Meta's Muse starts buying your groceries, Europe drafts the rules for agents that shop, and Google's AI Mode reads your Wallet",
