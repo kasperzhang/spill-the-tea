@@ -1,0 +1,150 @@
+{
+ "issue": {
+  "id": "2026-11-26",
+  "number": 32,
+  "headline": "Amazon and Meta haggle over letting Muse shop, Google's bedtime stories come back, and the Echo Show 5 falls to $54",
+  "brief": "A quiet US Thanksgiving. Fortune reports Amazon and Meta are negotiating to unblock Muse, with ads and search ranking still unresolved. Google's Home update brings back steerable bedtime stories, NPR warns shoppers about agents that act without asking, OpenTable buys a voice AI that answers most restaurant calls, and the Echo Show 5 hits $54.",
+  "generated_at": "Daily run",
+  "item_count": 5,
+  "zh": {
+   "headline": "亚马逊和 Meta 为 Muse 购物讨价还价，Google 睡前故事回归，Echo Show 5 跌到 54 美元",
+   "brief": "美国感恩节，消息不多。《财富》报道亚马逊和 Meta 正在谈判解封 Muse，广告和搜索排名还没谈拢。Google Home 更新带回了能改剧情的睡前故事，NPR 提醒购物者小心不打招呼就行动的代理，OpenTable 收购了能接起大部分餐厅电话的语音 AI，Echo Show 5 降到 54 美元。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "published": "Nov 25",
+   "title": "Amazon and Meta are reportedly talking about letting Muse shop on Amazon again, two months after the block",
+   "summary": "Fortune reports that Amazon and Meta are negotiating to lift Amazon's block on Meta's Muse agent, which has hit a checkout error on Amazon for about two months. Two issues are still open: how search results would be shown and how advertising would be handled. Any deal would reportedly need sign-off from both CEOs, and neither company commented.",
+   "relevance": "The biggest store in North America is deciding whether outside agents get in, and on whose terms. Kora's Hey Kora shopping will live by the same rules, so the ad and search terms here are a preview of what any family agent will have to accept.",
+   "take": "Amazon spent two months saying Muse was a security problem, and now the open issues are ad placement and search ranking. Funny how the security problem had a price. Lesson for us: the gatekeepers will let agents in when the ads come along, so plan Kora shopping around stores that want the traffic.",
+   "runtu": "In my house the question is simpler: can I reorder diapers from wherever I'm already talking, or do I have to open another app? Until these two sign a deal, families will keep doing it the old way.",
+   "deep_analysis": {
+    "what": "Amazon blocked Muse checkout in September and accused Meta of letting the agent browse without identifying itself. Fortune now reports several rounds of talks. The sticking points are commercial: how Amazon's search results appear inside Muse, and what happens to the sponsored listings that pay Amazon's ad business. Both CEOs would have to approve.",
+    "impact": "If a deal lands, it sets a template: big retailers open to agents in exchange for control over ranking and ads. That is better for agents than a block, but it means agents may show the store's paid picks rather than the cheapest option. Smaller agents without Meta's leverage may get worse terms or none at all.",
+    "next": [
+     "Watch whether any deal requires Muse to show Amazon's sponsored results, and how they are labeled.",
+     "Check how Hey Kora shopping would behave if a store blocks agents: hand off to the parent's phone, or pick another store.",
+     "Keep Kora's shopping picks transparent about price, so families can trust them when the big agents start showing paid placements."
+    ]
+   },
+   "zh": {
+    "published": "11月25日",
+    "title": "传亚马逊和 Meta 正在谈判，让被封两个月的 Muse 回到亚马逊购物",
+    "summary": "据《财富》报道，亚马逊和 Meta 正在谈判，准备解除对 Meta 的 Muse 代理的封锁。过去大约两个月，Muse 在亚马逊结账时一直报错。目前还有两个问题没谈拢：搜索结果怎么展示、广告怎么处理。据报道，任何协议都需要两家 CEO 亲自点头，两家公司都没有回应。",
+    "relevance": "北美最大的电商正在决定外部代理能不能进门、按谁的规则进门。Kora 的 Hey Kora 购物也要遵守同样的规则，这次谈的广告和搜索条款，就是所有家庭代理以后要面对的条件。",
+    "take": "封了两个月，说是安全问题，结果谈到最后卡在广告位和搜索排名上。原来安全也是可以标价的。给我们的启示：门卫放代理进来的前提是广告跟着进来，Kora 购物要优先接那些真心想要流量的商家。",
+    "runtu": "我们家关心的很简单：能不能在正说话的地方顺手把尿布补上，还是得再开一个 App？这两家没签字之前，大家还是老办法。",
+    "deep_analysis": {
+     "what": "亚马逊九月封了 Muse 的结账，理由是 Meta 让代理浏览时不表明身份。《财富》说双方已经谈了好几轮，卡点都是生意：亚马逊的搜索结果在 Muse 里怎么呈现，给亚马逊广告业务付钱的推广商品又怎么办。协议需要两位 CEO 批准。",
+     "impact": "如果谈成，就会形成一个模板：大零售商对代理开门，但换来对排名和广告的控制权。这比直接封锁好，但代理推荐的可能是商家的付费商品，而不是最便宜的。没有 Meta 这种筹码的小代理，条件可能更差，甚至谈不上。",
+     "next": [
+      "关注协议是否要求 Muse 展示亚马逊的推广结果，以及是否明确标注。",
+      "想清楚商家封锁代理时 Hey Kora 购物怎么办：转到家长手机上完成，还是换一家店。",
+      "Kora 的购物推荐要把价格讲透明，等大代理开始塞付费推荐时，家庭才会更信任我们。"
+     ]
+    }
+   },
+   "date": "2026-11-26",
+   "id": "2026-11-26-01"
+  },
+  {
+   "rank": 2,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
+   "published": "Nov 25",
+   "title": "Google Home's Nov 25 update brings back bedtime stories kids can steer, and shows Gemini's sources on smart displays",
+   "summary": "\"Hey Google, tell me a story\" is back, and listeners can change the plot while Gemini narrates. Smart displays now show the websites Gemini used to answer. Android Authority adds that the upgraded Gemini Live is starting to roll out, and over the coming weeks Google Home Premium subscribers can set timers and reminders without ending a chat.",
+   "relevance": "Interactive stories and mid-chat timers are exactly the evening-routine features families use on a kitchen screen. Google is making them part of a paid tier, which sets the bar for what Kora Plus has to beat.",
+   "take": "Google brought back a feature it removed, made it interactive, and called it new. Classic. The useful bit is the sources button: showing where an answer came from is cheap trust, and Kora should have it before Google teaches families to expect it.",
+   "runtu": "Bedtime stories my kids can steer would actually get used at our house. Setting a timer without killing the chat matters too, because dinner doesn't pause for anyone.",
+   "zh": {
+    "published": "11月25日",
+    "title": "Google Home 11 月 25 日更新：能让孩子改剧情的睡前故事回来了，智能屏上还能看到 Gemini 的信息来源",
+    "summary": "「Hey Google，给我讲个故事」回归了，而且 Gemini 讲的时候可以随时改剧情。智能屏现在会显示 Gemini 回答时参考的网站。Android Authority 补充说，升级版 Gemini Live 开始推送，未来几周 Google Home Premium 订阅用户可以在对话中途设定时器和提醒，不用先结束聊天。",
+    "relevance": "互动故事和对话中设时器，正是家庭晚上在厨房屏上最常用的功能。Google 把它们放进付费档，这就是 Kora Plus 要超越的标准。",
+    "take": "把自己砍掉的功能捡回来，加点互动，就叫新功能了，很 Google。真正有用的是「来源」按钮：告诉用户答案从哪来，是最便宜的信任。Kora 最好赶在 Google 把家庭用户教会之前先做上。",
+    "runtu": "能让孩子自己改剧情的睡前故事，我们家肯定会天天用。聊着天就能设时器也很重要，做饭可不会等人。"
+   },
+   "date": "2026-11-26",
+   "id": "2026-11-26-02"
+  },
+  {
+   "rank": 3,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "NPR",
+   "url": "https://www.kpbs.org/news/science-technology/2026/11/25/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+   "published": "Nov 25",
+   "title": "NPR's Black Friday warning: agents booked a hotel and shared a home address without asking, and Visa's test agents missed 42% of the time",
+   "summary": "The National Retail Federation says 59% of consumers plan to use AI for holiday shopping this weekend. In a Visa benchmark, AI failed to recommend a product that met the customer's needs in 42% of test runs. NPR cites user reports of an agent sending a home address to a Facebook Marketplace buyer and another booking a hotel without permission.",
+   "relevance": "Mainstream news is now telling parents how agents go wrong. Kora's approval step for purchases, with parental Face ID, is the answer to exactly these worries, and it is worth saying out loud in marketing.",
+   "take": "Forrester's advice is to treat your agent like a child who will misread the request. Bold pitch for a product: about as reliable as your kids, minus the cute drawings. For us, the approval step is not friction, it is the feature, so lead with it.",
+   "runtu": "I don't need an agent that shops for weeks on its own. I need one that asks me before it spends money or shares our address, every single time.",
+   "zh": {
+    "published": "11月25日",
+    "title": "NPR 黑五提醒：有代理没问就订了酒店、把家庭住址发给了买家，Visa 测试里 42% 的推荐不靠谱",
+    "summary": "美国零售联合会说，59% 的消费者打算这个周末用 AI 购物。在 Visa 的测试中，有 42% 的测试运行里 AI 没能推荐符合需求的商品。NPR 还引用了用户反映：有代理把家庭住址发给了 Facebook Marketplace 的买家，还有代理擅自订了酒店。",
+    "relevance": "主流媒体已经开始教家长代理会怎么出错。Kora 购物需要家长 Face ID 批准，正好回应这些担心，值得在宣传里大声讲。",
+    "take": "Forrester 的建议是：把代理当成一个会听错话的小孩。这卖点挺大胆：和你家孩子一样靠谱，只是不会画画。对我们来说，审批这一步不是麻烦，而是卖点，要放在最前面讲。",
+    "runtu": "我不需要一个自己逛好几周的代理。我需要的是每次花钱、每次要发我们家地址之前，先问我一声。"
+   },
+   "date": "2026-11-26",
+   "id": "2026-11-26-03"
+  },
+  {
+   "rank": 4,
+   "topic": "agents",
+   "priority": "fyi",
+   "source": "Unite.AI",
+   "url": "https://unite.ai/opentable-agrees-to-acquire-me-and-u-for-voice-ai-and-venue-software",
+   "published": "Nov 24",
+   "title": "OpenTable buys me&u, whose voice AI already answers 70% to 80% of restaurant calls",
+   "summary": "OpenTable agreed on Nov 24 to buy me&u, an Australian restaurant tech company whose voice AI takes bookings, answers common questions and routes VIP calls to staff. me&u says the AI handles 70% to 80% of calls. The deal should close in the first half of 2027, and OpenTable says it serves more than 70,000 restaurants.",
+   "relevance": "Kora Plus makes AI phone calls for reservations. More and more, the other end of that call will be a restaurant's own AI, so Kora's caller needs to work well with bots, not just with people.",
+   "take": "Soon the restaurant's AI will answer the call your AI placed, and the only human involved will be the one who forgot to book. For us: test Kora's reservation calls against voice bots now, because that is who picks up next year.",
+   "runtu": "I don't care who answers, as long as the table is booked for six and nobody calls me back twice to confirm.",
+   "zh": {
+    "published": "11月24日",
+    "title": "OpenTable 收购 me&u，这家的语音 AI 已经接起七到八成的餐厅电话",
+    "summary": "OpenTable 11 月 24 日同意收购澳大利亚餐厅科技公司 me&u。me&u 的语音 AI 能接预订、回答常见问题，还会把 VIP 来电转给员工，公司称它能处理 70% 到 80% 的来电。交易预计 2027 年上半年完成，OpenTable 说它服务超过 7 万家餐厅。",
+    "relevance": "Kora Plus 会用 AI 打电话订餐厅。以后电话那头越来越可能也是餐厅的 AI，所以 Kora 的来电不光要能和人聊，还得和机器人顺利对接。",
+    "take": "很快就是你的 AI 打电话，餐厅的 AI 接电话，全程唯一的人类就是那个忘了订位的人。给我们的提醒：现在就拿语音机器人测试 Kora 的订位电话，明年接电话的就是它们。",
+    "runtu": "谁接电话我无所谓，只要六个人的位子订好，别再打两次电话来确认就行。"
+   },
+   "date": "2026-11-26",
+   "id": "2026-11-26-04"
+  },
+  {
+   "rank": 5,
+   "topic": "bigtech",
+   "priority": "fyi",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/skip-the-echo-dot-the-echo-show-5-now-makes-more-sense-in-almost-every-home-2000845581",
+   "published": "Nov 25",
+   "title": "The newest Echo Show 5 drops to $54 for Black Friday, 45% off, built for Alexa+",
+   "summary": "Amazon is selling its newest Echo Show 5 for $54, down from $99. It has a 5.5-inch screen, a 2 MP camera with a physical shutter, and a button that cuts the mic and camera. Gizmodo notes Amazon designed this model for Alexa+, and a Blink camera bundle costs $70.",
+   "relevance": "A screen with an AI assistant now costs less than a family dinner out. Kora has to justify its price with what a small screen can't do: a big shared calendar, meals and chores the whole family can see.",
+   "take": "Amazon is basically paying you to put Alexa+ on your counter. At $54, the screen is the bait and your shopping habits are the catch. Our answer is not price, it is size and focus: one calm family screen, not a tiny ad window.",
+   "runtu": "At $54 I'd put one on the nightstand as an alarm clock. But a 5.5-inch screen can't show our whole family's week, so it doesn't replace the calendar in the kitchen.",
+   "zh": {
+    "published": "11月25日",
+    "title": "最新款 Echo Show 5 黑五降到 54 美元，打 55 折，为 Alexa+ 设计",
+    "summary": "亚马逊把最新款 Echo Show 5 从 99 美元降到 54 美元。它有 5.5 英寸屏幕、带物理遮挡的 200 万像素摄像头，还有一键关闭麦克风和摄像头的按钮。Gizmodo 说这款是亚马逊专为 Alexa+ 设计的，加 Blink 摄像头的套装是 70 美元。",
+    "relevance": "一块带 AI 助手的屏幕，现在比全家出去吃一顿饭还便宜。Kora 要靠小屏做不到的东西来撑起价格：大尺寸的共享日历，以及全家都看得见的餐单和家务。",
+    "take": "亚马逊基本上是倒贴钱让你把 Alexa+ 放上台面。54 美元，屏幕是鱼饵，你的购物习惯才是鱼。我们的回应不是拼价格，而是拼尺寸和专注：一块安静的家庭屏，不是一扇迷你广告窗。",
+    "runtu": "54 美元我会买一台放床头当闹钟。但 5.5 英寸装不下我们全家一周的安排，厨房里的日历还是替代不了。"
+   },
+   "date": "2026-11-26",
+   "id": "2026-11-26-05"
+  }
+ ]
+}

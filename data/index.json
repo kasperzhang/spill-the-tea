@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-26",
+   "number": 32,
+   "headline": "Amazon and Meta haggle over letting Muse shop, Google's bedtime stories come back, and the Echo Show 5 falls to $54",
+   "brief": "A quiet US Thanksgiving. Fortune reports Amazon and Meta are negotiating to unblock Muse, with ads and search ranking still unresolved. Google's Home update brings back steerable bedtime stories, NPR warns shoppers about agents that act without asking, OpenTable buys a voice AI that answers most restaurant calls, and the Echo Show 5 hits $54.",
+   "generated_at": "Daily run",
+   "item_count": 5,
+   "zh": {
+    "headline": "亚马逊和 Meta 为 Muse 购物讨价还价，Google 睡前故事回归，Echo Show 5 跌到 54 美元",
+    "brief": "美国感恩节，消息不多。《财富》报道亚马逊和 Meta 正在谈判解封 Muse，广告和搜索排名还没谈拢。Google Home 更新带回了能改剧情的睡前故事，NPR 提醒购物者小心不打招呼就行动的代理，OpenTable 收购了能接起大部分餐厅电话的语音 AI，Echo Show 5 降到 54 美元。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-25",
    "number": 31,
    "headline": "Meta's Muse moves into Instagram DMs and takes half of agent shopping, while Skylight learns to read a menu",
