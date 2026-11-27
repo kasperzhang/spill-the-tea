@@ -1,0 +1,127 @@
+{
+ "issue": {
+  "id": "2026-11-27",
+  "number": 33,
+  "headline": "Black Friday's AI traffic more than doubles, OpenAI edits its neutrality promise, and Amazon buys ads on the chatbot it blocks",
+  "brief": "AI tools are sending far more shoppers to stores this season, but spending is growing at a normal pace, so AI is winning the research and not yet the checkout. OpenAI loosened its wording on whether partnerships shape ChatGPT's product picks, and Meta skipped a UK regulator's offer to test Muse. Amazon still blocks ChatGPT from its store while paying for ChatGPT ads.",
+  "generated_at": "Daily run",
+  "item_count": 4,
+  "zh": {
+   "headline": "黑五 AI 流量翻倍，OpenAI 改了“中立”承诺，亚马逊在被它屏蔽的聊天机器人上买广告",
+   "brief": "这个购物季，AI 工具给商店带来的访问量大涨，但消费只是正常增长，说明 AI 赢下了做功课，还没赢下结账。OpenAI 放松了“合作关系是否影响 ChatGPT 推荐”的措辞，Meta 拒绝了英国监管机构对 Muse 的测试邀请。亚马逊一边把 ChatGPT 挡在店外，一边花钱在 ChatGPT 上投广告。",
+   "generated_at": "每日自动"
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-27",
+   "rank": 1,
+   "topic": "agents",
+   "priority": "high",
+   "source": "Digital Commerce 360",
+   "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
+   "published": "Nov 25",
+   "title": "Black Friday by the numbers: AI sends 127% more shoppers to stores, while the cart grows only 9%",
+   "summary": "Adobe says visits to US retail sites referred by AI tools are up 127% year over year this season, while online spending from Nov 1 to 22 rose 9.1% to $82.5 billion. Adobe expects AI traffic to jump 95% today and online Black Friday sales to reach $12.9 billion. Salesforce separately counts AI-driven traffic up 104% and expects AI and agents to influence $75.8 billion of global Cyber Week sales.",
+   "relevance": "Families are now starting purchases in an AI chat, which is exactly where Hey Kora and the Instacart button live. The gap between fast-growing AI traffic and slow-growing spending shows AI is winning the research step, not yet the checkout.",
+   "take": "AI traffic more than doubled and spending grew 9%. So the robots are doing a lot of window shopping. For Kora: help families decide fast and hand off clean, because nobody is paying a bot to browse.",
+   "runtu": "I don't need more tabs open on Black Friday, I need one list that's right. If the screen on my counter tells me what we actually need this week, that beats a hundred deal links.",
+   "deep_analysis": {
+    "what": "Adobe's data covers Nov 1 to 22: $82.5 billion spent online in the US, up 9.1%, with two days above $4 billion for the first time before Thanksgiving. AI-referred visits are up 127%, and Adobe projects 159% growth on Thanksgiving, 95% on Black Friday and 88% on Cyber Monday. In Adobe's survey of 1,000 US consumers, 81% said AI improved their online shopping. Salesforce's Nov 19 forecast adds that 73% of shoppers are not ready to give a personal agent their credit card, and only 8% have had an agent buy something for them.",
+    "impact": "Adobe counts clicks from AI tools to stores, so it misses purchases made inside AI apps, and the 2025 base was small. Even so, the pattern is clear: families use AI to compare and decide, then still pay themselves. That favors products that make the decision step trustworthy and leave the final tap to a parent, which is close to how Kora's meal plan to Instacart flow already works.",
+    "next": [
+     "Track what share of Kora meal plans turn into an Instacart order, and where families drop off before checkout.",
+     "Keep a clear parent approval step on any Hey Kora purchase, since most shoppers still won't hand an agent their card.",
+     "Use the Cyber Monday numbers next week as a benchmark for the holiday grocery push in Kora's app."
+    ]
+   },
+   "zh": {
+    "published": "11月25日",
+    "title": "黑五数据：AI 带来的购物访问涨了 127%，购物车只涨了 9%",
+    "summary": "Adobe 数据显示，本季由 AI 工具引流到美国零售网站的访问量同比增长 127%，而 11 月 1 日至 22 日的线上消费只增长 9.1%，达到 825 亿美元。Adobe 预计今天黑五的 AI 流量增长 95%，线上销售达到 129 亿美元。Salesforce 另外统计 AI 带来的流量增长 104%，并预计网络购物周全球有 758 亿美元的销售受到 AI 和代理影响。",
+    "relevance": "家庭越来越多从 AI 对话开始购物，而 Hey Kora 和 Instacart 下单按钮正好就在这里。AI 流量涨得快、消费涨得慢，说明 AI 赢下的是“做功课”这一步，还没赢下结账。",
+    "take": "AI 流量翻了一倍多，钱包只多掏了 9%。机器人逛得挺开心，就是不买单。对 Kora 来说：帮家长快点拿主意，再干净利落地交出去，没人会为一个只会逛街的机器人付钱。",
+    "runtu": "黑五我不缺链接，缺的是一张靠谱的清单。厨房那块屏要是能告诉我这周家里到底缺什么，比一百个折扣链接都管用。",
+    "deep_analysis": {
+     "what": "Adobe 统计的是 11 月 1 日到 22 日：美国线上消费 825 亿美元，增长 9.1%，感恩节前首次有两天单日超过 40 亿美元。AI 引流访问增长 127%，Adobe 预计感恩节增长 159%、黑五 95%、网络星期一 88%。在 Adobe 对 1000 名美国消费者的调查里，81% 认为 AI 让网购体验更好。Salesforce 11 月 19 日的预测还提到，73% 的购物者还不愿意把信用卡交给个人代理，只有 8% 让代理替自己买过东西。",
+     "impact": "Adobe 统计的是从 AI 工具点进商店的次数，AI 应用内部完成的购买算不进去，而且 2025 年的基数本来就小。但趋势很清楚：家庭用 AI 比较和做决定，最后还是自己付钱。这对那些把“做决定”做得可信、把最后一下留给家长的产品有利，Kora 从膳食计划到 Instacart 下单的流程本来就是这个思路。",
+     "next": [
+      "统计 Kora 的膳食计划有多少变成了 Instacart 订单，家长在结账前哪一步流失。",
+      "Hey Kora 的任何购买都保留清楚的家长确认，因为大多数人还不肯把卡交给代理。",
+      "下周拿网络星期一的数据，作为 Kora App 节日买菜活动的参照。"
+     ]
+    }
+   },
+   "id": "2026-11-27-01"
+  },
+  {
+   "date": "2026-11-27",
+   "rank": 2,
+   "topic": "agents",
+   "priority": "high",
+   "source": "AdExchanger",
+   "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-24112026/",
+   "published": "Nov 24",
+   "title": "OpenAI quietly drops its promise that ChatGPT's product picks are not influenced by partnerships",
+   "summary": "ChatGPT's shopping help page used to say product results 'are not ads, nor influenced by any OpenAI partnerships.' The new wording only says results are not ads and points to a description of how products and merchants are selected. A promise of links to sites where you can 'learn more or purchase' became 'show available ways to purchase.'",
+   "relevance": "When the biggest AI assistant loosens its neutrality wording, families have a reason to ask who is behind any AI shopping suggestion. Kora's meal and grocery picks can stand out by being plain about why an item was chosen.",
+   "take": "Nothing says 'trust us' like editing the trust paragraph during the biggest shopping week of the year. Kora should write its own one-line rule on how picks are made, before anyone asks.",
+   "runtu": "I just want to know if the cheaper peanut butter is the one being suggested. Tell me why you picked it and I'll keep using you.",
+   "zh": {
+    "published": "11月24日",
+    "title": "OpenAI 悄悄删掉了“ChatGPT 推荐商品不受合作关系影响”的承诺",
+    "summary": "ChatGPT 购物帮助页原来写着，商品结果“不是广告，也不受任何 OpenAI 合作关系影响”。新版只说结果不是广告，并指向一段关于商品和商家如何被选出的说明。原本承诺提供可以“了解更多或购买”的网站链接，也改成了“展示可用的购买方式”。",
+    "relevance": "最大的 AI 助手放松了“中立”的措辞，家长就有理由追问：任何 AI 购物推荐背后是谁？Kora 的膳食和买菜推荐，如果能直白说明为什么选这个，就能脱颖而出。",
+    "take": "在一年最大的购物周里改“请相信我们”那一段，诚意满满。Kora 不如先写好自己的一句话规则：推荐是怎么选的，别等人来问。",
+    "runtu": "我只想知道推荐的是不是那罐更便宜的花生酱。告诉我为什么选它，我就一直用你。"
+   },
+   "id": "2026-11-27-02"
+  },
+  {
+   "date": "2026-11-27",
+   "rank": 3,
+   "topic": "agents",
+   "priority": "watch",
+   "source": "The Next Web",
+   "url": "https://thenextweb.com/news/meta-muse-agent-fca-sandbox-test-wired",
+   "published": "Nov 26",
+   "title": "Meta turned down the UK regulator's offer to test its Muse agent, then launched it in the UK anyway",
+   "summary": "WIRED reports that Meta declined the Financial Conduct Authority's suggestion to test Muse in its sandbox, an offer made last week. Muse arrived in the UK on Nov 24, the same day the FCA set out what it expects from AI agent builders. The FCA's head of innovation said, 'If an agent is acting autonomously, we want to make sure it's in the interest of the consumer,' and Meta says it has engaged constructively with regulators.",
+   "relevance": "Regulators are starting to treat agents that spend money as a consumer protection issue. Kora Plus phone calls and Hey Kora shopping will face similar questions in Canada and the US, and being early and open with regulators is cheaper than being chased.",
+   "take": "Meta got a free test drive with the regulator and said no thanks, then drove onto the road. Bold. For Kora, the boring move wins: document how our agent asks permission before anyone requires it.",
+   "runtu": "I don't read regulator news, but I do want someone checking that an app can't spend our money without asking. Whoever proves that first gets my card.",
+   "zh": {
+    "published": "11月26日",
+    "title": "Meta 拒绝了英国监管机构的测试邀请，转头就在英国上线了 Muse",
+    "summary": "据《连线》报道，英国金融行为监管局（FCA）上周提议在其沙盒里联合测试 Muse，被 Meta 拒绝。Muse 于 11 月 24 日在英国上线，同一天 FCA 公布了对 AI 代理开发者的要求。FCA 创新负责人说：“如果代理是自主行动的，我们要确保它符合消费者的利益。”Meta 则表示一直在与监管机构建设性沟通。",
+    "relevance": "监管机构开始把“能花钱的代理”当成消费者保护问题。Kora Plus 的代打电话和 Hey Kora 购物，在加拿大和美国迟早也会被问同样的问题，主动和监管沟通比被追着问便宜得多。",
+    "take": "监管送上门的免费试驾，Meta 说不用了，然后直接开上了路。真勇。Kora 就走无聊路线：在没人要求之前，先把代理怎么征求同意写清楚。",
+    "runtu": "监管新闻我不看，但我希望有人确认 App 不会不问一声就花我们家的钱。谁先证明这一点，我就把卡交给谁。"
+   },
+   "id": "2026-11-27-03"
+  },
+  {
+   "date": "2026-11-27",
+   "rank": 4,
+   "topic": "bigtech",
+   "priority": "watch",
+   "source": "AdExchanger",
+   "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-25112026/",
+   "published": "Nov 25",
+   "title": "Amazon blocks ChatGPT from its store, then buys ChatGPT ads for the holidays",
+   "summary": "Digiday reports that Amazon is advertising on ChatGPT this holiday season while still blocking OpenAI's crawlers from its retail site. Because of the block, the ads cannot link to product pages, so shoppers land on Amazon search results instead. ChatGPT, unable to read Amazon's pages, leans on third-party deal sites for shopping advice.",
+   "relevance": "The big stores want the AI traffic but not on the AI company's terms. Any family assistant that shops, including Kora, will be dealing with stores that open some doors and lock others.",
+   "take": "Amazon locked the front door on ChatGPT, then rented a billboard across the street. Lesson for Kora: the platforms will fight over shoppers, so own the family's list and stay flexible on where it gets filled.",
+   "runtu": "So I ask the chatbot for a gift, and it sends me to a page of search results? That's one extra step I don't have time for on a school night.",
+   "zh": {
+    "published": "11月25日",
+    "title": "亚马逊把 ChatGPT 挡在店外，节日季却花钱在 ChatGPT 上投广告",
+    "summary": "据 Digiday 报道，亚马逊在这个节日季投放 ChatGPT 广告，同时仍然屏蔽 OpenAI 的爬虫访问零售网站。由于这一屏蔽，广告无法直接链接到商品页，购物者只能先落到亚马逊的搜索结果页。ChatGPT 读不到亚马逊的页面，只好依赖第三方比价网站给购物建议。",
+    "relevance": "大商家想要 AI 带来的流量，但不愿按 AI 公司的规则来。任何会购物的家庭助手，包括 Kora，都要面对这种有的门开、有的门关的商家。",
+    "take": "亚马逊把 ChatGPT 锁在门外，又在街对面租了块广告牌。给 Kora 的启示：平台会为了购物者打架，我们要守住家庭的购物清单，在哪儿下单保持灵活。",
+    "runtu": "我问聊天机器人买什么礼物，它把我送到一页搜索结果？上学日的晚上，多这一步我真没空。"
+   },
+   "id": "2026-11-27-04"
+  }
+ ]
+}

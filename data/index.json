@@ -1,6 +1,19 @@
 {
  "issues": [
   {
+   "id": "2026-11-27",
+   "number": 33,
+   "headline": "Black Friday's AI traffic more than doubles, OpenAI edits its neutrality promise, and Amazon buys ads on the chatbot it blocks",
+   "brief": "AI tools are sending far more shoppers to stores this season, but spending is growing at a normal pace, so AI is winning the research and not yet the checkout. OpenAI loosened its wording on whether partnerships shape ChatGPT's product picks, and Meta skipped a UK regulator's offer to test Muse. Amazon still blocks ChatGPT from its store while paying for ChatGPT ads.",
+   "generated_at": "Daily run",
+   "item_count": 4,
+   "zh": {
+    "headline": "黑五 AI 流量翻倍，OpenAI 改了“中立”承诺，亚马逊在被它屏蔽的聊天机器人上买广告",
+    "brief": "这个购物季，AI 工具给商店带来的访问量大涨，但消费只是正常增长，说明 AI 赢下了做功课，还没赢下结账。OpenAI 放松了“合作关系是否影响 ChatGPT 推荐”的措辞，Meta 拒绝了英国监管机构对 Muse 的测试邀请。亚马逊一边把 ChatGPT 挡在店外，一边花钱在 ChatGPT 上投广告。",
+    "generated_at": "每日自动"
+   }
+  },
+  {
    "id": "2026-11-26",
    "number": 32,
    "headline": "Amazon and Meta haggle over letting Muse shop, Google's bedtime stories come back, and the Echo Show 5 falls to $54",
